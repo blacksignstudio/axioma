@@ -38,7 +38,7 @@ class ExplorerTests(unittest.TestCase):
     def setUp(self):
         self.temporary = tempfile.TemporaryDirectory()
         self.addCleanup(self.temporary.cleanup)
-        self.root = Path(self.temporary.name)
+        self.root = Path(self.temporary.name).resolve()
         self.graph = {
             "project_id": "project:axioma",
             "nodes": [
