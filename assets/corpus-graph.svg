@@ -1,0 +1,607 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="1200" viewBox="0 0 1100 1200" role="img" aria-labelledby="title description">
+<title id="title">AXIOMA: an aggregate map of every reading chapter</title>
+<desc id="description">Chapter dots surround module hubs. Editorial chords are interpretations. The complete file and heading-section network is in graph.json. Positions are a composition, not measurements.</desc>
+<metadata>Copyright 2026 AXIOMA project. CC-BY-4.0. https://creativecommons.org/licenses/by/4.0/</metadata>
+<rect width="1100" height="1200" fill="#f6f2e8"/>
+<style>text{font-family:Georgia,serif;fill:#21493d}.small{font-family:Arial,sans-serif;font-size:12px}.module-label{font-family:Arial,sans-serif;font-size:11px;font-weight:bold;letter-spacing:1px}.chapter-dot{fill:#547c67;stroke:#f6f2e8;stroke-width:1}.module-hub{fill:#21493d;stroke:#f6f2e8;stroke-width:2}</style>
+<text x="550" y="55" text-anchor="middle" font-size="42" letter-spacing="8">AXIOMA</text>
+<text x="550" y="84" text-anchor="middle" font-size="17">The sphere as a connected reading form</text>
+<text class="small" x="550" y="109" text-anchor="middle">438 reading texts · 29 modules · 9284 addressable sections</text>
+<text class="small" x="550" y="130" text-anchor="middle">Aggregate view · complete block graph in graph.json · layout is not a measurement</text>
+<circle cx="550" cy="585" r="370" fill="none" stroke="#c9d4c6" stroke-width="1"/>
+<path d="M550.00,955.00 Q550,585 467.67,945.72" fill="none" stroke="#6e947b" stroke-opacity=".22" stroke-width="1.1"><title>a blind side and appearance</title></path>
+<path d="M260.72,354.31 Q550,585 319.31,295.72" fill="none" stroke="#6e947b" stroke-opacity=".22" stroke-width="1.1"><title>a boundary and a pause</title></path>
+<path d="M189.28,667.33 Q550,585 180.00,585.00" fill="none" stroke="#6e947b" stroke-opacity=".22" stroke-width="1.1"><title>a collection and its remainders</title></path>
+<path d="M780.69,874.28 Q550,585 216.64,424.46" fill="none" stroke="#6e947b" stroke-opacity=".22" stroke-width="1.1"><title>a mismatch and its revision</title></path>
+<path d="M389.46,251.64 Q550,585 910.72,667.33" fill="none" stroke="#6e947b" stroke-opacity=".22" stroke-width="1.1"><title>a return and its fidelity</title></path>
+<path d="M319.31,295.72 Q550,585 389.46,251.64" fill="none" stroke="#6e947b" stroke-opacity=".22" stroke-width="1.1"><title>an interval and a return</title></path>
+<path d="M632.33,945.72 Q550,585 550.00,585.00" fill="none" stroke="#6e947b" stroke-opacity=".22" stroke-width="1.1"><title>arrangement and recognizable form</title></path>
+<path d="M550.00,585.00 Q550,585 550.00,215.00" fill="none" stroke="#6e947b" stroke-opacity=".22" stroke-width="1.1"><title>bearing and direction</title></path>
+<path d="M839.28,354.31 Q550,585 920.00,585.00" fill="none" stroke="#6e947b" stroke-opacity=".22" stroke-width="1.1"><title>boundary and encounter</title></path>
+<path d="M467.67,224.28 Q550,585 550.00,215.00" fill="none" stroke="#6e947b" stroke-opacity=".22" stroke-width="1.1"><title>capability and direction</title></path>
+<path d="M467.67,224.28 Q550,585 780.69,295.72" fill="none" stroke="#6e947b" stroke-opacity=".22" stroke-width="1.1"><title>capability and its use</title></path>
+<path d="M467.67,224.28 Q550,585 920.00,585.00" fill="none" stroke="#6e947b" stroke-opacity=".22" stroke-width="1.1"><title>capability and shared conditions</title></path>
+<path d="M839.28,815.69 Q550,585 389.46,918.36" fill="none" stroke="#6e947b" stroke-opacity=".22" stroke-width="1.1"><title>competing tendencies and rhythm</title></path>
+<path d="M920.00,585.00 Q550,585 910.72,667.33" fill="none" stroke="#6e947b" stroke-opacity=".22" stroke-width="1.1"><title>conditions and reception</title></path>
+<path d="M260.72,815.69 Q550,585 550.00,585.00" fill="none" stroke="#6e947b" stroke-opacity=".22" stroke-width="1.1"><title>correspondence and a bearing</title></path>
+<path d="M550.00,215.00 Q550,585 780.69,295.72" fill="none" stroke="#6e947b" stroke-opacity=".22" stroke-width="1.1"><title>direction and action</title></path>
+<path d="M710.54,251.64 Q550,585 883.36,745.54" fill="none" stroke="#6e947b" stroke-opacity=".22" stroke-width="1.1"><title>interpretation and recurrence</title></path>
+<path d="M710.54,918.36 Q550,585 780.69,874.28" fill="none" stroke="#6e947b" stroke-opacity=".22" stroke-width="1.1"><title>interruption and observed failure</title></path>
+<path d="M180.00,585.00 Q550,585 189.28,502.67" fill="none" stroke="#6e947b" stroke-opacity=".22" stroke-width="1.1"><title>marks and persistence</title></path>
+<path d="M910.72,667.33 Q550,585 319.31,874.28" fill="none" stroke="#6e947b" stroke-opacity=".22" stroke-width="1.1"><title>meaning and interference</title></path>
+<path d="M839.28,815.69 Q550,585 910.72,502.67" fill="none" stroke="#6e947b" stroke-opacity=".22" stroke-width="1.1"><title>pressure and supporting structure</title></path>
+<path d="M883.36,745.54 Q550,585 260.72,815.69" fill="none" stroke="#6e947b" stroke-opacity=".22" stroke-width="1.1"><title>recurrence and correspondence</title></path>
+<path d="M883.36,745.54 Q550,585 216.64,745.54" fill="none" stroke="#6e947b" stroke-opacity=".22" stroke-width="1.1"><title>recurrence and retained evidence</title></path>
+<path d="M883.36,424.46 Q550,585 389.46,251.64" fill="none" stroke="#6e947b" stroke-opacity=".22" stroke-width="1.1"><title>relation and returning response</title></path>
+<path d="M216.64,745.54 Q550,585 189.28,667.33" fill="none" stroke="#6e947b" stroke-opacity=".22" stroke-width="1.1"><title>retained traces and preservation</title></path>
+<path d="M216.64,424.46 Q550,585 260.72,354.31" fill="none" stroke="#6e947b" stroke-opacity=".22" stroke-width="1.1"><title>revision and a held version</title></path>
+<path d="M389.46,918.36 Q550,585 910.72,667.33" fill="none" stroke="#6e947b" stroke-opacity=".22" stroke-width="1.1"><title>rhythm and a received difference</title></path>
+<path d="M910.72,502.67 Q550,585 632.33,945.72" fill="none" stroke="#6e947b" stroke-opacity=".22" stroke-width="1.1"><title>structure and arrangement</title></path>
+<path d="M550.00,955.00 Q550,585 467.67,224.28" fill="none" stroke="#6e947b" stroke-opacity=".22" stroke-width="1.1"><title>the limits of a strength</title></path>
+<path d="M632.33,224.28 Q550,585 467.67,945.72" fill="none" stroke="#6e947b" stroke-opacity=".22" stroke-width="1.1"><title>viewpoint and appearance</title></path>
+<a href="../corpus/00_axis/00_readme.md"><circle class="chapter-dot" cx="550.00" cy="523.00" r="3.7"><title>AXIS — Readme Manifest · axis_00</title></circle></a>
+<a href="../corpus/00_axis/01_manifest.md"><circle class="chapter-dot" cx="572.40" cy="527.19" r="3.7"><title>AXIOMA — Manifest · axis_01</title></circle></a>
+<a href="../corpus/00_axis/02_structure.md"><circle class="chapter-dot" cx="591.77" cy="539.18" r="3.7"><title>AXIOMA — Structure · axis_02</title></circle></a>
+<a href="../corpus/00_axis/03_identity.md"><circle class="chapter-dot" cx="605.50" cy="557.36" r="3.7"><title>AXIOMA — Identity · axis_03</title></circle></a>
+<a href="../corpus/00_axis/04_mirror_of_will.md"><circle class="chapter-dot" cx="611.74" cy="579.28" r="3.7"><title>Mirror of Will · axis_04</title></circle></a>
+<a href="../corpus/00_axis/05_axioms.md"><circle class="chapter-dot" cx="609.63" cy="601.97" r="3.7"><title>AXIOMA — Axioms · axis_05</title></circle></a>
+<a href="../corpus/00_axis/06_defaults.md"><circle class="chapter-dot" cx="599.48" cy="622.36" r="3.7"><title>AXIOMA — Defaults · axis_06</title></circle></a>
+<a href="../corpus/00_axis/07_commands.md"><circle class="chapter-dot" cx="582.64" cy="637.71" r="3.7"><title>AXIOMA — Commands · axis_07</title></circle></a>
+<a href="../corpus/00_axis/08_filters.md"><circle class="chapter-dot" cx="561.39" cy="645.94" r="3.7"><title>AXIOMA — Filters · axis_08</title></circle></a>
+<a href="../corpus/00_axis/09_rituals.md"><circle class="chapter-dot" cx="538.61" cy="645.94" r="3.7"><title>AXIOMA — Rituals · axis_09</title></circle></a>
+<a href="../corpus/00_axis/10_init.md"><circle class="chapter-dot" cx="517.36" cy="637.71" r="3.7"><title>10_init · axis_10</title></circle></a>
+<a href="../corpus/00_axis/11_instruments.md"><circle class="chapter-dot" cx="500.52" cy="622.36" r="3.7"><title>11_instruments · axis_11</title></circle></a>
+<a href="../corpus/00_axis/12_echo.md"><circle class="chapter-dot" cx="490.37" cy="601.97" r="3.7"><title>AXIOMA — Echo · axis_12</title></circle></a>
+<a href="../corpus/00_axis/13_seal.md"><circle class="chapter-dot" cx="488.26" cy="579.28" r="3.7"><title>AXIOMA — Seal · axis_13</title></circle></a>
+<a href="../corpus/00_axis/14_index.md"><circle class="chapter-dot" cx="494.50" cy="557.36" r="3.7"><title>AXIOMA — Index of Axis · axis_14</title></circle></a>
+<a href="../corpus/00_axis/15_can_answer.md"><circle class="chapter-dot" cx="508.23" cy="539.18" r="3.7"><title>The Load That Can Answer · axis_15</title></circle></a>
+<a href="../corpus/00_axis/16_identity_reading.md"><circle class="chapter-dot" cx="527.60" cy="527.19" r="3.7"><title>Identity and the Right to Correct · axioma:identity-reading</title></circle></a>
+<a href="../corpus/00_axis/README.md"><circle class="module-hub" cx="550.00" cy="585.00" r="23"><title>AXIS: 17 reading texts</title></circle></a>
+<text x="550" y="589" text-anchor="middle" fill="#f6f2e8" style="fill:#f6f2e8;font:10px Arial,sans-serif">AXIS</text>
+<a href="../corpus/01_will/00_readme.md"><circle class="chapter-dot" cx="550.00" cy="192.00" r="3.7"><title>AXIOMA — Will · will_00</title></circle></a>
+<a href="../corpus/01_will/01_vector.md"><circle class="chapter-dot" cx="566.26" cy="198.74" r="3.7"><title>AXIOMA — Vector · will_01</title></circle></a>
+<a href="../corpus/01_will/02_intent.md"><circle class="chapter-dot" cx="573.00" cy="215.00" r="3.7"><title>AXIOMA — Intent · will_02</title></circle></a>
+<a href="../corpus/01_will/03_permission.md"><circle class="chapter-dot" cx="566.26" cy="231.26" r="3.7"><title>AXIOMA — Permission · will_03</title></circle></a>
+<a href="../corpus/01_will/04_threshold.md"><circle class="chapter-dot" cx="550.00" cy="238.00" r="3.7"><title>AXIOMA — Threshold · will_04</title></circle></a>
+<a href="../corpus/01_will/05_alignment.md"><circle class="chapter-dot" cx="533.74" cy="231.26" r="3.7"><title>AXIOMA — Alignment · will_05</title></circle></a>
+<a href="../corpus/01_will/06_pattern.md"><circle class="chapter-dot" cx="527.00" cy="215.00" r="3.7"><title>AXIOMA — Pattern · will_06</title></circle></a>
+<a href="../corpus/01_will/07_fracture.md"><circle class="chapter-dot" cx="533.74" cy="198.74" r="3.7"><title>AXIOMA — Fracture · will_07</title></circle></a>
+<a href="../corpus/01_will/08_priority.md"><circle class="chapter-dot" cx="550.00" cy="180.00" r="3.7"><title>AXIOMA — Priority · will_08</title></circle></a>
+<a href="../corpus/01_will/09_shadow.md"><circle class="chapter-dot" cx="577.36" cy="193.18" r="3.7"><title>AXIOMA — Shadow · will_09</title></circle></a>
+<a href="../corpus/01_will/10_command.md"><circle class="chapter-dot" cx="584.12" cy="222.79" r="3.7"><title>AXIOMA — Command · will_10</title></circle></a>
+<a href="../corpus/01_will/11_field.md"><circle class="chapter-dot" cx="565.19" cy="246.53" r="3.7"><title>AXIOMA — Field · will_11</title></circle></a>
+<a href="../corpus/01_will/12_collapse.md"><circle class="chapter-dot" cx="534.81" cy="246.53" r="3.7"><title>AXIOMA — Collapse · will_12</title></circle></a>
+<a href="../corpus/01_will/13_seal.md"><circle class="chapter-dot" cx="515.88" cy="222.79" r="3.7"><title>AXIOMA — Seal · will_13</title></circle></a>
+<a href="../corpus/01_will/14_index.md"><circle class="chapter-dot" cx="522.64" cy="193.18" r="3.7"><title>AXIOMA — Index of Will · will_14</title></circle></a>
+<a href="../corpus/01_will/README.md"><circle class="module-hub" cx="550.00" cy="215.00" r="12"><title>WILL: 15 reading texts</title></circle></a>
+<text class="module-label" x="550.00" y="159.00" text-anchor="middle">WILL</text>
+<a href="../corpus/02_eye/00_readme.md"><circle class="chapter-dot" cx="632.33" cy="201.28" r="3.7"><title>AXIOMA — Threshold of Sight · eye_00</title></circle></a>
+<a href="../corpus/02_eye/01_detection.md"><circle class="chapter-dot" cx="648.60" cy="208.01" r="3.7"><title>AXIOMA — Detection · eye_01</title></circle></a>
+<a href="../corpus/02_eye/02_focus.md"><circle class="chapter-dot" cx="655.33" cy="224.28" r="3.7"><title>AXIOMA — Focus · eye_02</title></circle></a>
+<a href="../corpus/02_eye/03_patterning.md"><circle class="chapter-dot" cx="648.60" cy="240.54" r="3.7"><title>AXIOMA — Patterning · eye_03</title></circle></a>
+<a href="../corpus/02_eye/04_filter.md"><circle class="chapter-dot" cx="632.33" cy="247.28" r="3.7"><title>AXIOMA — Filter · eye_04</title></circle></a>
+<a href="../corpus/02_eye/05_resolution.md"><circle class="chapter-dot" cx="616.07" cy="240.54" r="3.7"><title>AXIOMA — Resolution · eye_05</title></circle></a>
+<a href="../corpus/02_eye/06_stabilization.md"><circle class="chapter-dot" cx="609.33" cy="224.28" r="3.7"><title>AXIOMA — Stabilization · eye_06</title></circle></a>
+<a href="../corpus/02_eye/07_tracking.md"><circle class="chapter-dot" cx="616.07" cy="208.01" r="3.7"><title>AXIOMA — Tracking · eye_07</title></circle></a>
+<a href="../corpus/02_eye/08_distortion.md"><circle class="chapter-dot" cx="632.33" cy="189.28" r="3.7"><title>AXIOMA — Distortion · eye_08</title></circle></a>
+<a href="../corpus/02_eye/09_occlusion.md"><circle class="chapter-dot" cx="659.70" cy="202.45" r="3.7"><title>AXIOMA — Occlusion · eye_09</title></circle></a>
+<a href="../corpus/02_eye/10_signal.md"><circle class="chapter-dot" cx="666.46" cy="232.06" r="3.7"><title>AXIOMA — Signal · eye_10</title></circle></a>
+<a href="../corpus/02_eye/11_lock.md"><circle class="chapter-dot" cx="647.52" cy="255.81" r="3.7"><title>AXIOMA — Lock · eye_11</title></circle></a>
+<a href="../corpus/02_eye/12_silence.md"><circle class="chapter-dot" cx="617.15" cy="255.81" r="3.7"><title>AXIOMA — Silence · eye_12</title></circle></a>
+<a href="../corpus/02_eye/13_form.md"><circle class="chapter-dot" cx="598.21" cy="232.06" r="3.7"><title>AXIOMA — Form · eye_13</title></circle></a>
+<a href="../corpus/02_eye/14_index.md"><circle class="chapter-dot" cx="604.97" cy="202.45" r="3.7"><title>AXIOMA — Index of Eye · eye_14</title></circle></a>
+<a href="../corpus/02_eye/README.md"><circle class="module-hub" cx="632.33" cy="224.28" r="12"><title>EYE: 15 reading texts</title></circle></a>
+<text class="module-label" x="644.79" y="169.68" text-anchor="start">EYE</text>
+<a href="../corpus/03_brain/00_readme.md"><circle class="chapter-dot" cx="710.54" cy="228.64" r="3.7"><title>AXIOMA — Neural Vault · brain_00</title></circle></a>
+<a href="../corpus/03_brain/01_computation.md"><circle class="chapter-dot" cx="726.80" cy="235.38" r="3.7"><title>AXIOMA — Computation · brain_01</title></circle></a>
+<a href="../corpus/03_brain/02_impulse.md"><circle class="chapter-dot" cx="733.54" cy="251.64" r="3.7"><title>AXIOMA — Impulse · brain_02</title></circle></a>
+<a href="../corpus/03_brain/03_recursion.md"><circle class="chapter-dot" cx="726.80" cy="267.90" r="3.7"><title>AXIOMA — Recursion · brain_03</title></circle></a>
+<a href="../corpus/03_brain/04_filtering.md"><circle class="chapter-dot" cx="710.54" cy="274.64" r="3.7"><title>AXIOMA — Filtering · brain_04</title></circle></a>
+<a href="../corpus/03_brain/05_pathways.md"><circle class="chapter-dot" cx="694.27" cy="267.90" r="3.7"><title>AXIOMA — Pathways · brain_05</title></circle></a>
+<a href="../corpus/03_brain/06_equilibrium.md"><circle class="chapter-dot" cx="687.54" cy="251.64" r="3.7"><title>AXIOMA — Equilibrium · brain_06</title></circle></a>
+<a href="../corpus/03_brain/07_threshold.md"><circle class="chapter-dot" cx="694.27" cy="235.38" r="3.7"><title>AXIOMA — Threshold · brain_07</title></circle></a>
+<a href="../corpus/03_brain/08_overload.md"><circle class="chapter-dot" cx="710.54" cy="216.64" r="3.7"><title>AXIOMA — Overload · brain_08</title></circle></a>
+<a href="../corpus/03_brain/09_inversion.md"><circle class="chapter-dot" cx="737.90" cy="229.82" r="3.7"><title>AXIOMA — Inversion · brain_09</title></circle></a>
+<a href="../corpus/03_brain/10_rewrite.md"><circle class="chapter-dot" cx="744.66" cy="259.43" r="3.7"><title>AXIOMA — Rewrite · brain_10</title></circle></a>
+<a href="../corpus/03_brain/11_signal.md"><circle class="chapter-dot" cx="725.72" cy="283.18" r="3.7"><title>AXIOMA — Signal · brain_11</title></circle></a>
+<a href="../corpus/03_brain/12_emergence.md"><circle class="chapter-dot" cx="695.35" cy="283.18" r="3.7"><title>AXIOMA — Emergence · brain_12</title></circle></a>
+<a href="../corpus/03_brain/13_identity.md"><circle class="chapter-dot" cx="676.41" cy="259.43" r="3.7"><title>AXIOMA — Identity · brain_13</title></circle></a>
+<a href="../corpus/03_brain/14_index.md"><circle class="chapter-dot" cx="683.17" cy="229.82" r="3.7"><title>AXIOMA — Index of Brain · brain_14</title></circle></a>
+<a href="../corpus/03_brain/README.md"><circle class="module-hub" cx="710.54" cy="251.64" r="12"><title>BRAIN: 15 reading texts</title></circle></a>
+<text class="module-label" x="734.83" y="201.19" text-anchor="start">BRAIN</text>
+<a href="../corpus/04_hand/00_readme.md"><circle class="chapter-dot" cx="780.69" cy="272.72" r="3.7"><title>AXIOMA — Readme as Operational Field · hand_00</title></circle></a>
+<a href="../corpus/04_hand/01_interface.md"><circle class="chapter-dot" cx="796.95" cy="279.46" r="3.7"><title>AXIOMA — Interface of Contact · hand_01</title></circle></a>
+<a href="../corpus/04_hand/02_grasp.md"><circle class="chapter-dot" cx="803.69" cy="295.72" r="3.7"><title>AXIOMA — Grasp Mechanics · hand_02</title></circle></a>
+<a href="../corpus/04_hand/03_impulse.md"><circle class="chapter-dot" cx="796.95" cy="311.99" r="3.7"><title>AXIOMA — Impulse Initiation · hand_03</title></circle></a>
+<a href="../corpus/04_hand/04_execution.md"><circle class="chapter-dot" cx="780.69" cy="318.72" r="3.7"><title>AXIOMA — Execution Structure · hand_04</title></circle></a>
+<a href="../corpus/04_hand/05_frame.md"><circle class="chapter-dot" cx="764.43" cy="311.99" r="3.7"><title>AXIOMA — Boundary Frame · hand_05</title></circle></a>
+<a href="../corpus/04_hand/06_touch.md"><circle class="chapter-dot" cx="757.69" cy="295.72" r="3.7"><title>AXIOMA — Contact Geometry · hand_06</title></circle></a>
+<a href="../corpus/04_hand/07_pattern.md"><circle class="chapter-dot" cx="764.43" cy="279.46" r="3.7"><title>AXIOMA — Pattern Enforcement · hand_07</title></circle></a>
+<a href="../corpus/04_hand/08_limit.md"><circle class="chapter-dot" cx="780.69" cy="260.72" r="3.7"><title>AXIOMA — Terminal Limit · hand_08</title></circle></a>
+<a href="../corpus/04_hand/09_reverse.md"><circle class="chapter-dot" cx="808.06" cy="273.90" r="3.7"><title>AXIOMA — Reversal is Not Return · hand_09</title></circle></a>
+<a href="../corpus/04_hand/10_command.md"><circle class="chapter-dot" cx="814.81" cy="303.51" r="3.7"><title>AXIOMA — Irreversible Command · hand_10</title></circle></a>
+<a href="../corpus/04_hand/11_action.md"><circle class="chapter-dot" cx="795.88" cy="327.26" r="3.7"><title>AXIOMA — Absolute Action · hand_11</title></circle></a>
+<a href="../corpus/04_hand/12_form.md"><circle class="chapter-dot" cx="765.51" cy="327.26" r="3.7"><title>AXIOMA — Final Form · hand_12</title></circle></a>
+<a href="../corpus/04_hand/13_signature.md"><circle class="chapter-dot" cx="746.57" cy="303.51" r="3.7"><title>AXIOMA — Terminal Signature · hand_13</title></circle></a>
+<a href="../corpus/04_hand/14_index.md"><circle class="chapter-dot" cx="753.33" cy="273.90" r="3.7"><title>AXIOMA — Index of Hand · hand_14</title></circle></a>
+<a href="../corpus/04_hand/README.md"><circle class="module-hub" cx="780.69" cy="295.72" r="12"><title>HAND: 15 reading texts</title></circle></a>
+<text class="module-label" x="815.61" y="251.94" text-anchor="start">HAND</text>
+<a href="../corpus/05_skin/00_readme.md"><circle class="chapter-dot" cx="839.28" cy="331.31" r="3.7"><title>AXIOMA — SKIN · skin_00</title></circle></a>
+<a href="../corpus/05_skin/01_interface.md"><circle class="chapter-dot" cx="855.54" cy="338.05" r="3.7"><title>Interface — Denial Structure · skin_01</title></circle></a>
+<a href="../corpus/05_skin/02_contact.md"><circle class="chapter-dot" cx="862.28" cy="354.31" r="3.7"><title>Contact — Denial of Passage · skin_02</title></circle></a>
+<a href="../corpus/05_skin/03_porosity.md"><circle class="chapter-dot" cx="855.54" cy="370.57" r="3.7"><title>Porosity — Refusal to Absorb · skin_03</title></circle></a>
+<a href="../corpus/05_skin/04_inscription.md"><circle class="chapter-dot" cx="839.28" cy="377.31" r="3.7"><title>Inscription — Mark Without Reception · skin_04</title></circle></a>
+<a href="../corpus/05_skin/05_dermis.md"><circle class="chapter-dot" cx="823.01" cy="370.57" r="3.7"><title>Dermis — Core Without Depth · skin_05</title></circle></a>
+<a href="../corpus/05_skin/06_scar.md"><circle class="chapter-dot" cx="816.28" cy="354.31" r="3.7"><title>Scar — Form After Refusal · skin_06</title></circle></a>
+<a href="../corpus/05_skin/07_boundary.md"><circle class="chapter-dot" cx="823.01" cy="338.05" r="3.7"><title>Boundary — Structure of Exclusion · skin_07</title></circle></a>
+<a href="../corpus/05_skin/08_friction.md"><circle class="chapter-dot" cx="839.28" cy="319.31" r="3.7"><title>Friction — Resistance Without Motion · skin_08</title></circle></a>
+<a href="../corpus/05_skin/09_bleed.md"><circle class="chapter-dot" cx="866.64" cy="332.49" r="3.7"><title>Bleed — Pressure Without Release · skin_09</title></circle></a>
+<a href="../corpus/05_skin/10_closure.md"><circle class="chapter-dot" cx="873.40" cy="362.10" r="3.7"><title>Closure — The Completion of Limit · skin_10</title></circle></a>
+<a href="../corpus/05_skin/11_pattern.md"><circle class="chapter-dot" cx="854.46" cy="385.84" r="3.7"><title>Pattern — The Logic That Does Not Explain · skin_11</title></circle></a>
+<a href="../corpus/05_skin/12_membrane.md"><circle class="chapter-dot" cx="824.09" cy="385.84" r="3.7"><title>Membrane — The Surface That Separates Nothing · skin_12</title></circle></a>
+<a href="../corpus/05_skin/13_surface.md"><circle class="chapter-dot" cx="805.16" cy="362.10" r="3.7"><title>Surface — The Whole Without Depth · skin_13</title></circle></a>
+<a href="../corpus/05_skin/14_index.md"><circle class="chapter-dot" cx="811.91" cy="332.49" r="3.7"><title>AXIOMA — Index of Skin · skin_14</title></circle></a>
+<a href="../corpus/05_skin/README.md"><circle class="module-hub" cx="839.28" cy="354.31" r="12"><title>SKIN: 15 reading texts</title></circle></a>
+<text class="module-label" x="883.06" y="319.39" text-anchor="start">SKIN</text>
+<a href="../corpus/06_heart/00_readme.md"><circle class="chapter-dot" cx="883.36" cy="401.46" r="3.7"><title>The Impossible Organ · heart_00</title></circle></a>
+<a href="../corpus/06_heart/01_pulse.md"><circle class="chapter-dot" cx="899.62" cy="408.20" r="3.7"><title>Pulse Without Signal · heart_01</title></circle></a>
+<a href="../corpus/06_heart/02_void.md"><circle class="chapter-dot" cx="906.36" cy="424.46" r="3.7"><title>The Chamber That Holds Nothing · heart_02</title></circle></a>
+<a href="../corpus/06_heart/03_echo.md"><circle class="chapter-dot" cx="899.62" cy="440.73" r="3.7"><title>Feedback Without Source · heart_03</title></circle></a>
+<a href="../corpus/06_heart/04_blood.md"><circle class="chapter-dot" cx="883.36" cy="447.46" r="3.7"><title>Circulation Without Flow · heart_04</title></circle></a>
+<a href="../corpus/06_heart/05_pressure.md"><circle class="chapter-dot" cx="867.10" cy="440.73" r="3.7"><title>Tension That Has No Outlet · heart_05</title></circle></a>
+<a href="../corpus/06_heart/06_fibrillation.md"><circle class="chapter-dot" cx="860.36" cy="424.46" r="3.7"><title>Rhythm Without Life · heart_06</title></circle></a>
+<a href="../corpus/06_heart/07_murmur.md"><circle class="chapter-dot" cx="867.10" cy="408.20" r="3.7"><title>Noise That Doesn’t Inform · heart_07</title></circle></a>
+<a href="../corpus/06_heart/08_organ.md"><circle class="chapter-dot" cx="883.36" cy="389.46" r="3.7"><title>Structure That Cannot Function · heart_08</title></circle></a>
+<a href="../corpus/06_heart/09_vessel.md"><circle class="chapter-dot" cx="910.72" cy="402.64" r="3.7"><title>Path Without Direction · heart_09</title></circle></a>
+<a href="../corpus/06_heart/10_clot.md"><circle class="chapter-dot" cx="917.48" cy="432.25" r="3.7"><title>Stoppage Without Trauma · heart_10</title></circle></a>
+<a href="../corpus/06_heart/11_resonance.md"><circle class="chapter-dot" cx="898.54" cy="456.00" r="3.7"><title>Sound Without Emotion · heart_11</title></circle></a>
+<a href="../corpus/06_heart/12_rhythm.md"><circle class="chapter-dot" cx="868.17" cy="456.00" r="3.7"><title>Pattern Without Continuity · heart_12</title></circle></a>
+<a href="../corpus/06_heart/13_seal.md"><circle class="chapter-dot" cx="849.24" cy="432.25" r="3.7"><title>The Heart That Ends Before It Begins · heart_13</title></circle></a>
+<a href="../corpus/06_heart/14_index.md"><circle class="chapter-dot" cx="855.99" cy="402.64" r="3.7"><title>AXIOMA — Index of Heart · heart_14</title></circle></a>
+<a href="../corpus/06_heart/README.md"><circle class="module-hub" cx="883.36" cy="424.46" r="12"><title>HEART: 15 reading texts</title></circle></a>
+<text class="module-label" x="933.81" y="400.17" text-anchor="start">HEART</text>
+<a href="../corpus/07_bone/00_readme.md"><circle class="chapter-dot" cx="910.72" cy="479.67" r="3.7"><title>AXIOMA — Skeletal Entry · bone_00</title></circle></a>
+<a href="../corpus/07_bone/01_support.md"><circle class="chapter-dot" cx="926.99" cy="486.40" r="3.7"><title>Support Without Flexibility · bone_01</title></circle></a>
+<a href="../corpus/07_bone/02_frame.md"><circle class="chapter-dot" cx="933.72" cy="502.67" r="3.7"><title>Frame Without Mass · bone_02</title></circle></a>
+<a href="../corpus/07_bone/03_break.md"><circle class="chapter-dot" cx="926.99" cy="518.93" r="3.7"><title>Break Without Damage · bone_03</title></circle></a>
+<a href="../corpus/07_bone/04_density.md"><circle class="chapter-dot" cx="910.72" cy="525.67" r="3.7"><title>Density Without Weight · bone_04</title></circle></a>
+<a href="../corpus/07_bone/05_geometry.md"><circle class="chapter-dot" cx="894.46" cy="518.93" r="3.7"><title>Geometry Without Movement · bone_05</title></circle></a>
+<a href="../corpus/07_bone/06_core.md"><circle class="chapter-dot" cx="887.72" cy="502.67" r="3.7"><title>Core Without Emotion · bone_06</title></circle></a>
+<a href="../corpus/07_bone/07_tension.md"><circle class="chapter-dot" cx="894.46" cy="486.40" r="3.7"><title>Tension Without Muscle · bone_07</title></circle></a>
+<a href="../corpus/07_bone/08_structure.md"><circle class="chapter-dot" cx="910.72" cy="467.67" r="3.7"><title>Structure Without Growth · bone_08</title></circle></a>
+<a href="../corpus/07_bone/09_grid.md"><circle class="chapter-dot" cx="938.09" cy="480.85" r="3.7"><title>Grid Without Origin · bone_09</title></circle></a>
+<a href="../corpus/07_bone/10_cross.md"><circle class="chapter-dot" cx="944.85" cy="510.46" r="3.7"><title>Cross Without Center · bone_10</title></circle></a>
+<a href="../corpus/07_bone/11_scaffold.md"><circle class="chapter-dot" cx="925.91" cy="534.20" r="3.7"><title>Scaffold Without Construction · bone_11</title></circle></a>
+<a href="../corpus/07_bone/12_form.md"><circle class="chapter-dot" cx="895.54" cy="534.20" r="3.7"><title>Form Without Body · bone_12</title></circle></a>
+<a href="../corpus/07_bone/13_bone.md"><circle class="chapter-dot" cx="876.60" cy="510.46" r="3.7"><title>Bone Without Flesh · bone_13</title></circle></a>
+<a href="../corpus/07_bone/14_index.md"><circle class="chapter-dot" cx="883.36" cy="480.85" r="3.7"><title>AXIOMA — Index of Bone · bone_14</title></circle></a>
+<a href="../corpus/07_bone/README.md"><circle class="module-hub" cx="910.72" cy="502.67" r="12"><title>BONE: 15 reading texts</title></circle></a>
+<text class="module-label" x="965.32" y="490.21" text-anchor="start">BONE</text>
+<a href="../corpus/08_field/00_readme.md"><circle class="chapter-dot" cx="920.00" cy="562.00" r="3.7"><title>AXIOMA — Field Initialization · field_00</title></circle></a>
+<a href="../corpus/08_field/01_surface.md"><circle class="chapter-dot" cx="936.26" cy="568.74" r="3.7"><title>AXIOMA — Surface Without Substance · field_01</title></circle></a>
+<a href="../corpus/08_field/02_pressure.md"><circle class="chapter-dot" cx="943.00" cy="585.00" r="3.7"><title>AXIOMA — Pressure Without Contact · field_02</title></circle></a>
+<a href="../corpus/08_field/03_distance.md"><circle class="chapter-dot" cx="936.26" cy="601.26" r="3.7"><title>AXIOMA — Distance Without Direction · field_03</title></circle></a>
+<a href="../corpus/08_field/04_tension.md"><circle class="chapter-dot" cx="920.00" cy="608.00" r="3.7"><title>AXIOMA — Tension Without Frame · field_04</title></circle></a>
+<a href="../corpus/08_field/05_signal.md"><circle class="chapter-dot" cx="903.74" cy="601.26" r="3.7"><title>AXIOMA — Signal Without Origin · field_05</title></circle></a>
+<a href="../corpus/08_field/06_presence.md"><circle class="chapter-dot" cx="897.00" cy="585.00" r="3.7"><title>AXIOMA — Presence Without Form · field_06</title></circle></a>
+<a href="../corpus/08_field/07_direction.md"><circle class="chapter-dot" cx="903.74" cy="568.74" r="3.7"><title>AXIOMA — Direction Without Path · field_07</title></circle></a>
+<a href="../corpus/08_field/08_noise.md"><circle class="chapter-dot" cx="920.00" cy="550.00" r="3.7"><title>AXIOMA — Noise Without Interference · field_08</title></circle></a>
+<a href="../corpus/08_field/09_perimeter.md"><circle class="chapter-dot" cx="947.36" cy="563.18" r="3.7"><title>AXIOMA — Perimeter Without Edge · field_09</title></circle></a>
+<a href="../corpus/08_field/10_fieldline.md"><circle class="chapter-dot" cx="954.12" cy="592.79" r="3.7"><title>AXIOMA — Line Without Border · field_10</title></circle></a>
+<a href="../corpus/08_field/11_fieldcore.md"><circle class="chapter-dot" cx="935.19" cy="616.53" r="3.7"><title>AXIOMA — Core Without Center · field_11</title></circle></a>
+<a href="../corpus/08_field/12_fieldzero.md"><circle class="chapter-dot" cx="904.81" cy="616.53" r="3.7"><title>AXIOMA — Field That Contains Zero · field_12</title></circle></a>
+<a href="../corpus/08_field/13_field.md"><circle class="chapter-dot" cx="885.88" cy="592.79" r="3.7"><title>AXIOMA — Field Without Body · field_13</title></circle></a>
+<a href="../corpus/08_field/14_index.md"><circle class="chapter-dot" cx="892.64" cy="563.18" r="3.7"><title>AXIOMA — AXIS of the FIELD · field_14</title></circle></a>
+<a href="../corpus/08_field/README.md"><circle class="module-hub" cx="920.00" cy="585.00" r="12"><title>FIELD: 15 reading texts</title></circle></a>
+<text class="module-label" x="976.00" y="585.00" text-anchor="start">FIELD</text>
+<a href="../corpus/09_signal/00_readme.md"><circle class="chapter-dot" cx="910.72" cy="644.33" r="3.7"><title>AXIOMA — Signal Vault · signal_00</title></circle></a>
+<a href="../corpus/09_signal/01_transmit.md"><circle class="chapter-dot" cx="926.99" cy="651.07" r="3.7"><title>transmit · signal_01</title></circle></a>
+<a href="../corpus/09_signal/02_receive.md"><circle class="chapter-dot" cx="933.72" cy="667.33" r="3.7"><title>receive · signal_02</title></circle></a>
+<a href="../corpus/09_signal/03_noise.md"><circle class="chapter-dot" cx="926.99" cy="683.60" r="3.7"><title>noise · signal_03</title></circle></a>
+<a href="../corpus/09_signal/04_decode.md"><circle class="chapter-dot" cx="910.72" cy="690.33" r="3.7"><title>decode · signal_04</title></circle></a>
+<a href="../corpus/09_signal/05_repeat.md"><circle class="chapter-dot" cx="894.46" cy="683.60" r="3.7"><title>repeat · signal_05</title></circle></a>
+<a href="../corpus/09_signal/06_loss.md"><circle class="chapter-dot" cx="887.72" cy="667.33" r="3.7"><title>loss · signal_06</title></circle></a>
+<a href="../corpus/09_signal/07_trace.md"><circle class="chapter-dot" cx="894.46" cy="651.07" r="3.7"><title>trace · signal_07</title></circle></a>
+<a href="../corpus/09_signal/08_loop.md"><circle class="chapter-dot" cx="910.72" cy="632.33" r="3.7"><title>loop · signal_08</title></circle></a>
+<a href="../corpus/09_signal/09_distort.md"><circle class="chapter-dot" cx="938.09" cy="645.51" r="3.7"><title>distort · signal_09</title></circle></a>
+<a href="../corpus/09_signal/10_align.md"><circle class="chapter-dot" cx="944.85" cy="675.12" r="3.7"><title>align · signal_10</title></circle></a>
+<a href="../corpus/09_signal/11_echo.md"><circle class="chapter-dot" cx="925.91" cy="698.87" r="3.7"><title>echo · signal_11</title></circle></a>
+<a href="../corpus/09_signal/12_static.md"><circle class="chapter-dot" cx="895.54" cy="698.87" r="3.7"><title>static · signal_12</title></circle></a>
+<a href="../corpus/09_signal/13_field.md"><circle class="chapter-dot" cx="876.60" cy="675.12" r="3.7"><title>field · signal_13</title></circle></a>
+<a href="../corpus/09_signal/14_index.md"><circle class="chapter-dot" cx="883.36" cy="645.51" r="3.7"><title>AXIOMA — AXIS of the SIGNAL · signal_14</title></circle></a>
+<a href="../corpus/09_signal/README.md"><circle class="module-hub" cx="910.72" cy="667.33" r="12"><title>SIGNAL: 15 reading texts</title></circle></a>
+<text class="module-label" x="965.32" y="679.79" text-anchor="start">SIGNAL</text>
+<a href="../corpus/10_pattern/00_readme.md"><circle class="chapter-dot" cx="883.36" cy="722.54" r="3.7"><title>AXIOMA — Pattern Vault · pattern_00</title></circle></a>
+<a href="../corpus/10_pattern/01_enforcement.md"><circle class="chapter-dot" cx="899.62" cy="729.27" r="3.7"><title>AXIOMA — Enforcement Engine · pattern_01</title></circle></a>
+<a href="../corpus/10_pattern/02_alignment.md"><circle class="chapter-dot" cx="906.36" cy="745.54" r="3.7"><title>AXIOMA — Alignment Field · pattern_02</title></circle></a>
+<a href="../corpus/10_pattern/03_recursion.md"><circle class="chapter-dot" cx="899.62" cy="761.80" r="3.7"><title>AXIOMA — Recursion Core · pattern_03</title></circle></a>
+<a href="../corpus/10_pattern/04_loop.md"><circle class="chapter-dot" cx="883.36" cy="768.54" r="3.7"><title>AXIOMA — The Loop Device · pattern_04</title></circle></a>
+<a href="../corpus/10_pattern/05_rhythm.md"><circle class="chapter-dot" cx="867.10" cy="761.80" r="3.7"><title>AXIOMA — Rhythm Without Sound · pattern_05</title></circle></a>
+<a href="../corpus/10_pattern/06_fracture.md"><circle class="chapter-dot" cx="860.36" cy="745.54" r="3.7"><title>AXIOMA — Fracture Engine · pattern_06</title></circle></a>
+<a href="../corpus/10_pattern/07_restraint.md"><circle class="chapter-dot" cx="867.10" cy="729.27" r="3.7"><title>AXIOMA — Restraint Field · pattern_07</title></circle></a>
+<a href="../corpus/10_pattern/08_overwrite.md"><circle class="chapter-dot" cx="883.36" cy="710.54" r="3.7"><title>AXIOMA — An Anatomy of Overwrite · pattern_08</title></circle></a>
+<a href="../corpus/10_pattern/09_discipline.md"><circle class="chapter-dot" cx="910.72" cy="723.71" r="3.7"><title>AXIOMA — Discipline Core · pattern_09</title></circle></a>
+<a href="../corpus/10_pattern/10_density.md"><circle class="chapter-dot" cx="917.48" cy="753.33" r="3.7"><title>AXIOMA — Density Field · pattern_10</title></circle></a>
+<a href="../corpus/10_pattern/11_inertia.md"><circle class="chapter-dot" cx="898.54" cy="777.07" r="3.7"><title>AXIOMA — Inertia Frame · pattern_11</title></circle></a>
+<a href="../corpus/10_pattern/12_rotation.md"><circle class="chapter-dot" cx="868.17" cy="777.07" r="3.7"><title>AXIOMA — Rotation Engine · pattern_12</title></circle></a>
+<a href="../corpus/10_pattern/13_absorption.md"><circle class="chapter-dot" cx="849.24" cy="753.33" r="3.7"><title>AXIOMA — Absorption Core · pattern_13</title></circle></a>
+<a href="../corpus/10_pattern/14_index.md"><circle class="chapter-dot" cx="855.99" cy="723.71" r="3.7"><title>AXIOMA — AXIS of the PATTERN · pattern_14</title></circle></a>
+<a href="../corpus/10_pattern/README.md"><circle class="module-hub" cx="883.36" cy="745.54" r="12"><title>PATTERN: 15 reading texts</title></circle></a>
+<text class="module-label" x="933.81" y="769.83" text-anchor="start">PATTERN</text>
+<a href="../corpus/11_tension/00_readme.md"><circle class="chapter-dot" cx="839.28" cy="792.69" r="3.7"><title>AXIOMA — Chamber of Unrelieved Tension · tension_00</title></circle></a>
+<a href="../corpus/11_tension/01_suspension.md"><circle class="chapter-dot" cx="855.54" cy="799.43" r="3.7"><title>AXIOMA — Suspension Engine · tension_01</title></circle></a>
+<a href="../corpus/11_tension/02_geometry.md"><circle class="chapter-dot" cx="862.28" cy="815.69" r="3.7"><title>AXIOMA — Paradox Geometry · tension_02</title></circle></a>
+<a href="../corpus/11_tension/03_pressure.md"><circle class="chapter-dot" cx="855.54" cy="831.95" r="3.7"><title>AXIOMA — Pressure Without Outlet · tension_03</title></circle></a>
+<a href="../corpus/11_tension/04_vibration.md"><circle class="chapter-dot" cx="839.28" cy="838.69" r="3.7"><title>AXIOMA — Locked Vibration · tension_04</title></circle></a>
+<a href="../corpus/11_tension/05_core.md"><circle class="chapter-dot" cx="823.01" cy="831.95" r="3.7"><title>AXIOMA — Non-Resolving Core · tension_05</title></circle></a>
+<a href="../corpus/11_tension/06_symmetry.md"><circle class="chapter-dot" cx="816.28" cy="815.69" r="3.7"><title>AXIOMA — Dual Symmetry Collapse · tension_06</title></circle></a>
+<a href="../corpus/11_tension/07_cage.md"><circle class="chapter-dot" cx="823.01" cy="799.43" r="3.7"><title>AXIOMA — Recursive Cage · tension_07</title></circle></a>
+<a href="../corpus/11_tension/08_orbit.md"><circle class="chapter-dot" cx="839.28" cy="780.69" r="3.7"><title>AXIOMA — Fixed Tension Orbit · tension_08</title></circle></a>
+<a href="../corpus/11_tension/09_opposition.md"><circle class="chapter-dot" cx="866.64" cy="793.87" r="3.7"><title>AXIOMA — Obedience to Opposites · tension_09</title></circle></a>
+<a href="../corpus/11_tension/10_resonance.md"><circle class="chapter-dot" cx="873.40" cy="823.48" r="3.7"><title>AXIOMA — Closed Resonance Field · tension_10</title></circle></a>
+<a href="../corpus/11_tension/11_field.md"><circle class="chapter-dot" cx="854.46" cy="847.23" r="3.7"><title>AXIOMA — Closed Field · tension_11</title></circle></a>
+<a href="../corpus/11_tension/12_stillness.md"><circle class="chapter-dot" cx="824.09" cy="847.23" r="3.7"><title>AXIOMA — Saturated Stillness · tension_12</title></circle></a>
+<a href="../corpus/11_tension/13_law.md"><circle class="chapter-dot" cx="805.16" cy="823.48" r="3.7"><title>AXIOMA — Law Without Escape · tension_13</title></circle></a>
+<a href="../corpus/11_tension/14_index.md"><circle class="chapter-dot" cx="811.91" cy="793.87" r="3.7"><title>AXIOMA — AXIS of the TENSION · tension_14</title></circle></a>
+<a href="../corpus/11_tension/README.md"><circle class="module-hub" cx="839.28" cy="815.69" r="12"><title>TENSION: 15 reading texts</title></circle></a>
+<text class="module-label" x="883.06" y="850.61" text-anchor="start">TENSION</text>
+<a href="../corpus/12_error/00_readme.md"><circle class="chapter-dot" cx="780.69" cy="851.28" r="3.7"><title>AXIOMA — Error Vault · error_00</title></circle></a>
+<a href="../corpus/12_error/01_trace.md"><circle class="chapter-dot" cx="796.95" cy="858.01" r="3.7"><title>The Unresolvable Origin · error_01</title></circle></a>
+<a href="../corpus/12_error/02_misfire.md"><circle class="chapter-dot" cx="803.69" cy="874.28" r="3.7"><title>Action That Repeats Failure · error_02</title></circle></a>
+<a href="../corpus/12_error/03_corrupt.md"><circle class="chapter-dot" cx="796.95" cy="890.54" r="3.7"><title>Broken State as Pattern · error_03</title></circle></a>
+<a href="../corpus/12_error/04_echo.md"><circle class="chapter-dot" cx="780.69" cy="897.28" r="3.7"><title>Sound Returned Without Sender · error_04</title></circle></a>
+<a href="../corpus/12_error/05_glitch.md"><circle class="chapter-dot" cx="764.43" cy="890.54" r="3.7"><title>Glitch as Instruction · error_05</title></circle></a>
+<a href="../corpus/12_error/06_residue.md"><circle class="chapter-dot" cx="757.69" cy="874.28" r="3.7"><title>What the Law Could Not Erase · error_06</title></circle></a>
+<a href="../corpus/12_error/07_rift.md"><circle class="chapter-dot" cx="764.43" cy="858.01" r="3.7"><title>Gap That Sustains the Field · error_07</title></circle></a>
+<a href="../corpus/12_error/08_inversion.md"><circle class="chapter-dot" cx="780.69" cy="839.28" r="3.7"><title>Logic Reversed by Default · error_08</title></circle></a>
+<a href="../corpus/12_error/09_overlap.md"><circle class="chapter-dot" cx="808.06" cy="852.46" r="3.7"><title>Interference as Architecture · error_09</title></circle></a>
+<a href="../corpus/12_error/10_crash.md"><circle class="chapter-dot" cx="814.81" cy="882.07" r="3.7"><title>System That Keeps Running Wrong · error_10</title></circle></a>
+<a href="../corpus/12_error/11_loop.md"><circle class="chapter-dot" cx="795.88" cy="905.81" r="3.7"><title>Repetition That Erases Meaning · error_11</title></circle></a>
+<a href="../corpus/12_error/12_signal.md"><circle class="chapter-dot" cx="765.51" cy="905.81" r="3.7"><title>Error as Pure Transmission · error_12</title></circle></a>
+<a href="../corpus/12_error/13_lock.md"><circle class="chapter-dot" cx="746.57" cy="882.07" r="3.7"><title>The Law That Breaks Into Itself · error_13</title></circle></a>
+<a href="../corpus/12_error/14_index.md"><circle class="chapter-dot" cx="753.33" cy="852.46" r="3.7"><title>AXIOMA — LOCK of the ERROR · error_14</title></circle></a>
+<a href="../corpus/12_error/README.md"><circle class="module-hub" cx="780.69" cy="874.28" r="12"><title>ERROR: 15 reading texts</title></circle></a>
+<text class="module-label" x="815.61" y="918.06" text-anchor="start">ERROR</text>
+<a href="../corpus/13_glitch/00_readme.md"><circle class="chapter-dot" cx="710.54" cy="895.36" r="3.7"><title>AXIOMA — Glitch Vault · glitch_00</title></circle></a>
+<a href="../corpus/13_glitch/01_breach.md"><circle class="chapter-dot" cx="726.80" cy="902.10" r="3.7"><title>The First Violation That Remained · glitch_01</title></circle></a>
+<a href="../corpus/13_glitch/02_fold.md"><circle class="chapter-dot" cx="733.54" cy="918.36" r="3.7"><title>Structure That Began as Collapse · glitch_02</title></circle></a>
+<a href="../corpus/13_glitch/03_mirror.md"><circle class="chapter-dot" cx="726.80" cy="934.62" r="3.7"><title>The Reflection That Erased the Self · glitch_03</title></circle></a>
+<a href="../corpus/13_glitch/04_loop.md"><circle class="chapter-dot" cx="710.54" cy="941.36" r="3.7"><title>Cycle Without Context · glitch_04</title></circle></a>
+<a href="../corpus/13_glitch/05_noise.md"><circle class="chapter-dot" cx="694.27" cy="934.62" r="3.7"><title>Signal That Lost Geometry · glitch_05</title></circle></a>
+<a href="../corpus/13_glitch/06_delay.md"><circle class="chapter-dot" cx="687.54" cy="918.36" r="3.7"><title>The Pause That Outlived Meaning · glitch_06</title></circle></a>
+<a href="../corpus/13_glitch/07_mask.md"><circle class="chapter-dot" cx="694.27" cy="902.10" r="3.7"><title>Surface That Misread Its Depth · glitch_07</title></circle></a>
+<a href="../corpus/13_glitch/08_void.md"><circle class="chapter-dot" cx="710.54" cy="883.36" r="3.7"><title>Field Without Return · glitch_08</title></circle></a>
+<a href="../corpus/13_glitch/09_error.md"><circle class="chapter-dot" cx="737.90" cy="896.54" r="3.7"><title>Error That Refused to Vanish · glitch_09</title></circle></a>
+<a href="../corpus/13_glitch/10_rift.md"><circle class="chapter-dot" cx="744.66" cy="926.15" r="3.7"><title>The Break That Became Division · glitch_10</title></circle></a>
+<a href="../corpus/13_glitch/11_ghost.md"><circle class="chapter-dot" cx="725.72" cy="949.89" r="3.7"><title>Execution After Removal · glitch_11</title></circle></a>
+<a href="../corpus/13_glitch/12_seal.md"><circle class="chapter-dot" cx="695.35" cy="949.89" r="3.7"><title>The Recursive Error That Sealed the Field · glitch_12</title></circle></a>
+<a href="../corpus/13_glitch/13_glitch.md"><circle class="chapter-dot" cx="676.41" cy="926.15" r="3.7"><title>You Are Already Facing the Last · glitch_13</title></circle></a>
+<a href="../corpus/13_glitch/14_index.md"><circle class="chapter-dot" cx="683.17" cy="896.54" r="3.7"><title>AXIOMA — SEAL of the GLITCH · glitch_14</title></circle></a>
+<a href="../corpus/13_glitch/README.md"><circle class="module-hub" cx="710.54" cy="918.36" r="12"><title>GLITCH: 15 reading texts</title></circle></a>
+<text class="module-label" x="734.83" y="968.81" text-anchor="start">GLITCH</text>
+<a href="../corpus/14_form/00_readme.md"><circle class="chapter-dot" cx="632.33" cy="922.72" r="3.7"><title>INSTRUCTIO ∞ AXIOMA — 14_FORM · form_00</title></circle></a>
+<a href="../corpus/14_form/01_frame.md"><circle class="chapter-dot" cx="648.60" cy="929.46" r="3.7"><title>Structure That Refused Collapse · form_01</title></circle></a>
+<a href="../corpus/14_form/02_rhythm.md"><circle class="chapter-dot" cx="655.33" cy="945.72" r="3.7"><title>Repetition as Sovereign Pattern · form_02</title></circle></a>
+<a href="../corpus/14_form/03_vessel.md"><circle class="chapter-dot" cx="648.60" cy="961.99" r="3.7"><title>Interior That Contained No Core · form_03</title></circle></a>
+<a href="../corpus/14_form/04_skin.md"><circle class="chapter-dot" cx="632.33" cy="968.72" r="3.7"><title>Surface That Refused to Open · form_04</title></circle></a>
+<a href="../corpus/14_form/05_spine.md"><circle class="chapter-dot" cx="616.07" cy="961.99" r="3.7"><title>Axis Built on Discontinuity · form_05</title></circle></a>
+<a href="../corpus/14_form/06_code.md"><circle class="chapter-dot" cx="609.33" cy="945.72" r="3.7"><title>Instruction That Erased Meaning · form_06</title></circle></a>
+<a href="../corpus/14_form/07_shell.md"><circle class="chapter-dot" cx="616.07" cy="929.46" r="3.7"><title>Geometry Without Intention · form_07</title></circle></a>
+<a href="../corpus/14_form/08_cycle.md"><circle class="chapter-dot" cx="632.33" cy="910.72" r="3.7"><title>Finalization Through Recurrence · form_08</title></circle></a>
+<a href="../corpus/14_form/09_phase.md"><circle class="chapter-dot" cx="659.70" cy="923.90" r="3.7"><title>Motion That Never Exits · form_09</title></circle></a>
+<a href="../corpus/14_form/10_form.md"><circle class="chapter-dot" cx="666.46" cy="953.51" r="3.7"><title>Self-Similar Limit · form_10</title></circle></a>
+<a href="../corpus/14_form/11_fold.md"><circle class="chapter-dot" cx="647.52" cy="977.26" r="3.7"><title>Return as Dimensional Operation · form_11</title></circle></a>
+<a href="../corpus/14_form/12_weight.md"><circle class="chapter-dot" cx="617.15" cy="977.26" r="3.7"><title>Density Without Mass · form_12</title></circle></a>
+<a href="../corpus/14_form/13_lock.md"><circle class="chapter-dot" cx="598.21" cy="953.51" r="3.7"><title>When the Pattern Sealed Itself · form_13</title></circle></a>
+<a href="../corpus/14_form/14_index.md"><circle class="chapter-dot" cx="604.97" cy="923.90" r="3.7"><title>AXIOMA — SEAL OF THE FORM · form_14</title></circle></a>
+<a href="../corpus/14_form/README.md"><circle class="module-hub" cx="632.33" cy="945.72" r="12"><title>FORM: 15 reading texts</title></circle></a>
+<text class="module-label" x="644.79" y="1000.32" text-anchor="start">FORM</text>
+<a href="../corpus/15_shadow/00_readme.md"><circle class="chapter-dot" cx="550.00" cy="932.00" r="3.7"><title>AXIOMA — Shadow Vault · shadow_00</title></circle></a>
+<a href="../corpus/15_shadow/01_void.md"><circle class="chapter-dot" cx="566.26" cy="938.74" r="3.7"><title>Absence That Constructs · shadow_01</title></circle></a>
+<a href="../corpus/15_shadow/02_reflect.md"><circle class="chapter-dot" cx="573.00" cy="955.00" r="3.7"><title>Mirror That Shows Nothing · shadow_02</title></circle></a>
+<a href="../corpus/15_shadow/03_hollow.md"><circle class="chapter-dot" cx="566.26" cy="971.26" r="3.7"><title>Core Without Inside · shadow_03</title></circle></a>
+<a href="../corpus/15_shadow/04_fade.md"><circle class="chapter-dot" cx="550.00" cy="978.00" r="3.7"><title>Form That Ceased To Appear · shadow_04</title></circle></a>
+<a href="../corpus/15_shadow/05_smoke.md"><circle class="chapter-dot" cx="533.74" cy="971.26" r="3.7"><title>Geometry Without Contact · shadow_05</title></circle></a>
+<a href="../corpus/15_shadow/06_trace.md"><circle class="chapter-dot" cx="527.00" cy="955.00" r="3.7"><title>Presence That Denied Origin · shadow_06</title></circle></a>
+<a href="../corpus/15_shadow/07_dust.md"><circle class="chapter-dot" cx="533.74" cy="938.74" r="3.7"><title>Collapse Without Noise · shadow_07</title></circle></a>
+<a href="../corpus/15_shadow/08_mask.md"><circle class="chapter-dot" cx="550.00" cy="920.00" r="3.7"><title>Identity That Refused Exposure · shadow_08</title></circle></a>
+<a href="../corpus/15_shadow/09_veil.md"><circle class="chapter-dot" cx="577.36" cy="933.18" r="3.7"><title>Vision That Conceals · shadow_09</title></circle></a>
+<a href="../corpus/15_shadow/10_burn.md"><circle class="chapter-dot" cx="584.12" cy="962.79" r="3.7"><title>Memory Without Form · shadow_10</title></circle></a>
+<a href="../corpus/15_shadow/11_bleed.md"><circle class="chapter-dot" cx="565.19" cy="986.53" r="3.7"><title>Edge That Cannot Contain · shadow_11</title></circle></a>
+<a href="../corpus/15_shadow/12_shade.md"><circle class="chapter-dot" cx="534.81" cy="986.53" r="3.7"><title>Shadow as Final Proof · shadow_12</title></circle></a>
+<a href="../corpus/15_shadow/13_seal.md"><circle class="chapter-dot" cx="515.88" cy="962.79" r="3.7"><title>Closure That Requires No Boundary · shadow_13</title></circle></a>
+<a href="../corpus/15_shadow/14_index.md"><circle class="chapter-dot" cx="522.64" cy="933.18" r="3.7"><title>AXIOMA — SEAL OF THE SHADOW · shadow_14</title></circle></a>
+<a href="../corpus/15_shadow/README.md"><circle class="module-hub" cx="550.00" cy="955.00" r="12"><title>SHADOW: 15 reading texts</title></circle></a>
+<text class="module-label" x="550.00" y="1011.00" text-anchor="middle">SHADOW</text>
+<a href="../corpus/16_surface/00_readme.md"><circle class="chapter-dot" cx="467.67" cy="922.72" r="3.7"><title>AXIOMA — Surface Vault · surface_00</title></circle></a>
+<a href="../corpus/16_surface/01_surface.md"><circle class="chapter-dot" cx="483.93" cy="929.46" r="3.7"><title>Contact That Refuses Depth · surface_01</title></circle></a>
+<a href="../corpus/16_surface/02_skin.md"><circle class="chapter-dot" cx="490.67" cy="945.72" r="3.7"><title>Identity as Texture · surface_02</title></circle></a>
+<a href="../corpus/16_surface/03_shell.md"><circle class="chapter-dot" cx="483.93" cy="961.99" r="3.7"><title>Exterior Without Inwardness · surface_03</title></circle></a>
+<a href="../corpus/16_surface/04_gloss.md"><circle class="chapter-dot" cx="467.67" cy="968.72" r="3.7"><title>Reflection as Refusal · surface_04</title></circle></a>
+<a href="../corpus/16_surface/05_frame.md"><circle class="chapter-dot" cx="451.40" cy="961.99" r="3.7"><title>Perimeter That Sees Itself · surface_05</title></circle></a>
+<a href="../corpus/16_surface/06_blade.md"><circle class="chapter-dot" cx="444.67" cy="945.72" r="3.7"><title>Sharpness Without Violence · surface_06</title></circle></a>
+<a href="../corpus/16_surface/07_layer.md"><circle class="chapter-dot" cx="451.40" cy="929.46" r="3.7"><title>Thickness as Illusion · surface_07</title></circle></a>
+<a href="../corpus/16_surface/08_mask.md"><circle class="chapter-dot" cx="467.67" cy="910.72" r="3.7"><title>Form That Doesn’t Reveal · surface_08</title></circle></a>
+<a href="../corpus/16_surface/09_wave.md"><circle class="chapter-dot" cx="495.03" cy="923.90" r="3.7"><title>Motion Across Without Entry · surface_09</title></circle></a>
+<a href="../corpus/16_surface/10_edge.md"><circle class="chapter-dot" cx="501.79" cy="953.51" r="3.7"><title>The Line That Severs Contact · surface_10</title></circle></a>
+<a href="../corpus/16_surface/11_field.md"><circle class="chapter-dot" cx="482.85" cy="977.26" r="3.7"><title>Exposure Without Penetration · surface_11</title></circle></a>
+<a href="../corpus/16_surface/12_signal.md"><circle class="chapter-dot" cx="452.48" cy="977.26" r="3.7"><title>Transmission Without Entry · surface_12</title></circle></a>
+<a href="../corpus/16_surface/13_seal.md"><circle class="chapter-dot" cx="433.54" cy="953.51" r="3.7"><title>Surface That Ends Itself · surface_13</title></circle></a>
+<a href="../corpus/16_surface/14_index.md"><circle class="chapter-dot" cx="440.30" cy="923.90" r="3.7"><title>AXIOMA — SEAL OF THE SURFACE · surface_14</title></circle></a>
+<a href="../corpus/16_surface/README.md"><circle class="module-hub" cx="467.67" cy="945.72" r="12"><title>SURFACE: 15 reading texts</title></circle></a>
+<text class="module-label" x="455.21" y="1000.32" text-anchor="end">SURFACE</text>
+<a href="../corpus/17_pulse/00_readme.md"><circle class="chapter-dot" cx="389.46" cy="895.36" r="3.7"><title>AXIOMA — Pulse That Defines Pattern · pulse_00</title></circle></a>
+<a href="../corpus/17_pulse/01_rupture.md"><circle class="chapter-dot" cx="405.73" cy="902.10" r="3.7"><title>Pulse That Divides · pulse_01</title></circle></a>
+<a href="../corpus/17_pulse/02_interval.md"><circle class="chapter-dot" cx="412.46" cy="918.36" r="3.7"><title>Distance Rendered as Rhythm · pulse_02</title></circle></a>
+<a href="../corpus/17_pulse/03_echo.md"><circle class="chapter-dot" cx="405.73" cy="934.62" r="3.7"><title>Reverberation Without Voice · pulse_03</title></circle></a>
+<a href="../corpus/17_pulse/04_thrust.md"><circle class="chapter-dot" cx="389.46" cy="941.36" r="3.7"><title>Movement as Cut · pulse_04</title></circle></a>
+<a href="../corpus/17_pulse/05_static.md"><circle class="chapter-dot" cx="373.20" cy="934.62" r="3.7"><title>Stillness That Strikes · pulse_05</title></circle></a>
+<a href="../corpus/17_pulse/06_crack.md"><circle class="chapter-dot" cx="366.46" cy="918.36" r="3.7"><title>Fracture Without Breaking · pulse_06</title></circle></a>
+<a href="../corpus/17_pulse/07_return.md"><circle class="chapter-dot" cx="373.20" cy="902.10" r="3.7"><title>Recurrence That Finalizes · pulse_07</title></circle></a>
+<a href="../corpus/17_pulse/08_bleed.md"><circle class="chapter-dot" cx="389.46" cy="883.36" r="3.7"><title>Pressure Without Exit · pulse_08</title></circle></a>
+<a href="../corpus/17_pulse/09_flash.md"><circle class="chapter-dot" cx="416.83" cy="896.54" r="3.7"><title>Suddenness Without Time · pulse_09</title></circle></a>
+<a href="../corpus/17_pulse/10_void.md"><circle class="chapter-dot" cx="423.59" cy="926.15" r="3.7"><title>Pulse That Leaves Absence · pulse_10</title></circle></a>
+<a href="../corpus/17_pulse/11_surge.md"><circle class="chapter-dot" cx="404.65" cy="949.89" r="3.7"><title>Expansion That Does Not Continue · pulse_11</title></circle></a>
+<a href="../corpus/17_pulse/12_burn.md"><circle class="chapter-dot" cx="374.28" cy="949.89" r="3.7"><title>Heat Without Transmission · pulse_12</title></circle></a>
+<a href="../corpus/17_pulse/13_seal.md"><circle class="chapter-dot" cx="355.34" cy="926.15" r="3.7"><title>The Final Pulse · pulse_13</title></circle></a>
+<a href="../corpus/17_pulse/14_index.md"><circle class="chapter-dot" cx="362.10" cy="896.54" r="3.7"><title>AXIOMA — AXIS of the PULSE · pulse_14</title></circle></a>
+<a href="../corpus/17_pulse/README.md"><circle class="module-hub" cx="389.46" cy="918.36" r="12"><title>PULSE: 15 reading texts</title></circle></a>
+<text class="module-label" x="365.17" y="968.81" text-anchor="end">PULSE</text>
+<a href="../corpus/18_noise/00_readme.md"><circle class="chapter-dot" cx="319.31" cy="851.28" r="3.7"><title>AXIOMA — 00_RHYTHM · noise_00</title></circle></a>
+<a href="../corpus/18_noise/01_static.md"><circle class="chapter-dot" cx="335.57" cy="858.01" r="3.7"><title>AXIOMA — 01_STATIC · noise_01</title></circle></a>
+<a href="../corpus/18_noise/02_echo.md"><circle class="chapter-dot" cx="342.31" cy="874.28" r="3.7"><title>AXIOMA — 02_ECHO · noise_02</title></circle></a>
+<a href="../corpus/18_noise/03_crash.md"><circle class="chapter-dot" cx="335.57" cy="890.54" r="3.7"><title>AXIOMA — 03_CRASH · noise_03</title></circle></a>
+<a href="../corpus/18_noise/04_glitch.md"><circle class="chapter-dot" cx="319.31" cy="897.28" r="3.7"><title>AXIOMA — 04_GLITCH · noise_04</title></circle></a>
+<a href="../corpus/18_noise/05_loop.md"><circle class="chapter-dot" cx="303.05" cy="890.54" r="3.7"><title>AXIOMA — 05_LOOP · noise_05</title></circle></a>
+<a href="../corpus/18_noise/06_grain.md"><circle class="chapter-dot" cx="296.31" cy="874.28" r="3.7"><title>AXIOMA — 06_GRAIN · noise_06</title></circle></a>
+<a href="../corpus/18_noise/07_phase.md"><circle class="chapter-dot" cx="303.05" cy="858.01" r="3.7"><title>AXIOMA — 07_PHASE · noise_07</title></circle></a>
+<a href="../corpus/18_noise/08_burst.md"><circle class="chapter-dot" cx="319.31" cy="839.28" r="3.7"><title>AXIOMA — 08_BURST · noise_08</title></circle></a>
+<a href="../corpus/18_noise/09_smear.md"><circle class="chapter-dot" cx="346.67" cy="852.46" r="3.7"><title>AXIOMA — 09_SMEAR · noise_09</title></circle></a>
+<a href="../corpus/18_noise/10_jam.md"><circle class="chapter-dot" cx="353.43" cy="882.07" r="3.7"><title>AXIOMA — 10_JAM · noise_10</title></circle></a>
+<a href="../corpus/18_noise/11_blind.md"><circle class="chapter-dot" cx="334.49" cy="905.81" r="3.7"><title>AXIOMA — 11_BLIND · noise_11</title></circle></a>
+<a href="../corpus/18_noise/12_closure.md"><circle class="chapter-dot" cx="304.12" cy="905.81" r="3.7"><title>AXIOMA — 12_CLOSURE · noise_12</title></circle></a>
+<a href="../corpus/18_noise/13_seal.md"><circle class="chapter-dot" cx="285.19" cy="882.07" r="3.7"><title>AXIOMA — 13_SEAL · noise_13</title></circle></a>
+<a href="../corpus/18_noise/14_index.md"><circle class="chapter-dot" cx="291.94" cy="852.46" r="3.7"><title>AXIOMA — SEAL OF THE NOISE · axioma:18_NOISE:14_index</title></circle></a>
+<a href="../corpus/18_noise/README.md"><circle class="module-hub" cx="319.31" cy="874.28" r="12"><title>NOISE: 15 reading texts</title></circle></a>
+<text class="module-label" x="284.39" y="918.06" text-anchor="end">NOISE</text>
+<a href="../corpus/19_symmetry/00_readme.md"><circle class="chapter-dot" cx="260.72" cy="792.69" r="3.7"><title>AXIOMA — Readme: Symmetry Vault · symmetry_00</title></circle></a>
+<a href="../corpus/19_symmetry/01_balance.md"><circle class="chapter-dot" cx="276.99" cy="799.43" r="3.7"><title>AXIOMA — 01_BALANCE · symmetry_01</title></circle></a>
+<a href="../corpus/19_symmetry/02_reflection.md"><circle class="chapter-dot" cx="283.72" cy="815.69" r="3.7"><title>AXIOMA — 02_REFLECTION · symmetry_02</title></circle></a>
+<a href="../corpus/19_symmetry/03_fold.md"><circle class="chapter-dot" cx="276.99" cy="831.95" r="3.7"><title>AXIOMA — 03_FOLD · symmetry_03</title></circle></a>
+<a href="../corpus/19_symmetry/04_twins.md"><circle class="chapter-dot" cx="260.72" cy="838.69" r="3.7"><title>AXIOMA — 04_TWINS · symmetry_04</title></circle></a>
+<a href="../corpus/19_symmetry/05_axis.md"><circle class="chapter-dot" cx="244.46" cy="831.95" r="3.7"><title>AXIOMA — 05_AXIS · symmetry_05</title></circle></a>
+<a href="../corpus/19_symmetry/06_surface.md"><circle class="chapter-dot" cx="237.72" cy="815.69" r="3.7"><title>AXIOMA — 06_SURFACE · symmetry_06</title></circle></a>
+<a href="../corpus/19_symmetry/07_inversion.md"><circle class="chapter-dot" cx="244.46" cy="799.43" r="3.7"><title>AXIOMA — 07_INVERSION · symmetry_07</title></circle></a>
+<a href="../corpus/19_symmetry/08_shell.md"><circle class="chapter-dot" cx="260.72" cy="780.69" r="3.7"><title>AXIOMA — 08_SHELL · symmetry_08</title></circle></a>
+<a href="../corpus/19_symmetry/09_field.md"><circle class="chapter-dot" cx="288.09" cy="793.87" r="3.7"><title>AXIOMA — 09_FIELD · symmetry_09</title></circle></a>
+<a href="../corpus/19_symmetry/10_lock.md"><circle class="chapter-dot" cx="294.84" cy="823.48" r="3.7"><title>AXIOMA — 10_LOCK · symmetry_10</title></circle></a>
+<a href="../corpus/19_symmetry/11_resonance.md"><circle class="chapter-dot" cx="275.91" cy="847.23" r="3.7"><title>AXIOMA — 11_RESONANCE · symmetry_11</title></circle></a>
+<a href="../corpus/19_symmetry/12_veil.md"><circle class="chapter-dot" cx="245.54" cy="847.23" r="3.7"><title>AXIOMA — 12_VEIL · symmetry_12</title></circle></a>
+<a href="../corpus/19_symmetry/13_seal.md"><circle class="chapter-dot" cx="226.60" cy="823.48" r="3.7"><title>AXIOMA — 13_SEAL · symmetry_13</title></circle></a>
+<a href="../corpus/19_symmetry/14_index.md"><circle class="chapter-dot" cx="233.36" cy="793.87" r="3.7"><title>AXIOMA — AXIS of the SYMMETRY · symmetry_14</title></circle></a>
+<a href="../corpus/19_symmetry/README.md"><circle class="module-hub" cx="260.72" cy="815.69" r="12"><title>SYMMETRY: 15 reading texts</title></circle></a>
+<text class="module-label" x="216.94" y="850.61" text-anchor="end">SYMMETRY</text>
+<a href="../corpus/20_memory/00_readme.md"><circle class="chapter-dot" cx="216.64" cy="722.54" r="3.7"><title>AXIOMA — Core Manifest · memory_00</title></circle></a>
+<a href="../corpus/20_memory/01_null.md"><circle class="chapter-dot" cx="232.90" cy="729.27" r="3.7"><title>AXIOMA — Memory Without Beginning · memory_01</title></circle></a>
+<a href="../corpus/20_memory/02_fold.md"><circle class="chapter-dot" cx="239.64" cy="745.54" r="3.7"><title>AXIOMA — Infolding Without Return · memory_02</title></circle></a>
+<a href="../corpus/20_memory/03_void.md"><circle class="chapter-dot" cx="232.90" cy="761.80" r="3.7"><title>AXIOMA — Structural Absence · memory_03</title></circle></a>
+<a href="../corpus/20_memory/04_axis.md"><circle class="chapter-dot" cx="216.64" cy="768.54" r="3.7"><title>AXIOMA — Static Tension of Form · memory_04</title></circle></a>
+<a href="../corpus/20_memory/05_friction.md"><circle class="chapter-dot" cx="200.38" cy="761.80" r="3.7"><title>AXIOMA — Contact Without Movement · memory_05</title></circle></a>
+<a href="../corpus/20_memory/06_shell.md"><circle class="chapter-dot" cx="193.64" cy="745.54" r="3.7"><title>AXIOMA — Exterior Without Interior · memory_06</title></circle></a>
+<a href="../corpus/20_memory/07_drift.md"><circle class="chapter-dot" cx="200.38" cy="729.27" r="3.7"><title>AXIOMA — Deviation Without Displacement · memory_07</title></circle></a>
+<a href="../corpus/20_memory/08_glass.md"><circle class="chapter-dot" cx="216.64" cy="710.54" r="3.7"><title>AXIOMA — Transparency Without Access · memory_08</title></circle></a>
+<a href="../corpus/20_memory/09_thread.md"><circle class="chapter-dot" cx="244.01" cy="723.71" r="3.7"><title>AXIOMA — Line Without Fabric · memory_09</title></circle></a>
+<a href="../corpus/20_memory/10_limit.md"><circle class="chapter-dot" cx="250.76" cy="753.33" r="3.7"><title>AXIOMA — Edge Without Boundary · memory_10</title></circle></a>
+<a href="../corpus/20_memory/11_residue.md"><circle class="chapter-dot" cx="231.83" cy="777.07" r="3.7"><title>AXIOMA — Trace Without Origin · memory_11</title></circle></a>
+<a href="../corpus/20_memory/12_seal.md"><circle class="chapter-dot" cx="201.46" cy="777.07" r="3.7"><title>AXIOMA — Closure Without Lock · memory_12</title></circle></a>
+<a href="../corpus/20_memory/13_origin.md"><circle class="chapter-dot" cx="182.52" cy="753.33" r="3.7"><title>AXIOMA — Origin Without Beginning · memory_13</title></circle></a>
+<a href="../corpus/20_memory/14_index.md"><circle class="chapter-dot" cx="189.28" cy="723.71" r="3.7"><title>AXIOMA — SEAL of the MEMORY · memory_14</title></circle></a>
+<a href="../corpus/20_memory/README.md"><circle class="module-hub" cx="216.64" cy="745.54" r="12"><title>MEMORY: 15 reading texts</title></circle></a>
+<text class="module-label" x="166.19" y="769.83" text-anchor="end">MEMORY</text>
+<a href="../corpus/21_archive/00_readme.md"><circle class="chapter-dot" cx="189.28" cy="644.33" r="3.7"><title>AXIOMA — Terminal Structure · archive_00</title></circle></a>
+<a href="../corpus/21_archive/01_glimpse.md"><circle class="chapter-dot" cx="205.54" cy="651.07" r="3.7"><title>AXIOMA — Non-Reciprocal Glimpse · archive_01</title></circle></a>
+<a href="../corpus/21_archive/02_shard.md"><circle class="chapter-dot" cx="212.28" cy="667.33" r="3.7"><title>AXIOMA — Irreconstructible Shard · archive_02</title></circle></a>
+<a href="../corpus/21_archive/03_trace.md"><circle class="chapter-dot" cx="205.54" cy="683.60" r="3.7"><title>AXIOMA — Trace Without Source · archive_03</title></circle></a>
+<a href="../corpus/21_archive/04_folded.md"><circle class="chapter-dot" cx="189.28" cy="690.33" r="3.7"><title>AXIOMA — Folded Without Access · archive_04</title></circle></a>
+<a href="../corpus/21_archive/05_husk.md"><circle class="chapter-dot" cx="173.01" cy="683.60" r="3.7"><title>AXIOMA — Husk Without Core · archive_05</title></circle></a>
+<a href="../corpus/21_archive/06_dust.md"><circle class="chapter-dot" cx="166.28" cy="667.33" r="3.7"><title>AXIOMA — Dust Without Sequence · archive_06</title></circle></a>
+<a href="../corpus/21_archive/07_mute.md"><circle class="chapter-dot" cx="173.01" cy="651.07" r="3.7"><title>AXIOMA — Mute Without Silence · archive_07</title></circle></a>
+<a href="../corpus/21_archive/08_tomb.md"><circle class="chapter-dot" cx="189.28" cy="632.33" r="3.7"><title>AXIOMA — Tomb Without Descent · archive_08</title></circle></a>
+<a href="../corpus/21_archive/09_sealed.md"><circle class="chapter-dot" cx="216.64" cy="645.51" r="3.7"><title>AXIOMA — Sealed Without Threshold · archive_09</title></circle></a>
+<a href="../corpus/21_archive/10_void.md"><circle class="chapter-dot" cx="223.40" cy="675.12" r="3.7"><title>AXIOMA — Void Without Negation · archive_10</title></circle></a>
+<a href="../corpus/21_archive/11_final.md"><circle class="chapter-dot" cx="204.46" cy="698.87" r="3.7"><title>AXIOMA — Final Without Exit · archive_11</title></circle></a>
+<a href="../corpus/21_archive/12_glass.md"><circle class="chapter-dot" cx="174.09" cy="698.87" r="3.7"><title>AXIOMA — Glass Without Entry · archive_12</title></circle></a>
+<a href="../corpus/21_archive/13_lock.md"><circle class="chapter-dot" cx="155.15" cy="675.12" r="3.7"><title>AXIOMA — Absolute Lock · archive_13</title></circle></a>
+<a href="../corpus/21_archive/14_index.md"><circle class="chapter-dot" cx="161.91" cy="645.51" r="3.7"><title>AXIOMA — SEAL OF THE ARCHIVE · archive_14</title></circle></a>
+<a href="../corpus/21_archive/README.md"><circle class="module-hub" cx="189.28" cy="667.33" r="12"><title>ARCHIVE: 15 reading texts</title></circle></a>
+<text class="module-label" x="134.68" y="679.79" text-anchor="end">ARCHIVE</text>
+<a href="../corpus/22_trace/00_readme.md"><circle class="chapter-dot" cx="180.00" cy="562.00" r="3.7"><title>AXIOMA — Rhythm of Absence · trace_00</title></circle></a>
+<a href="../corpus/22_trace/01_tracepoint.md"><circle class="chapter-dot" cx="196.26" cy="568.74" r="3.7"><title>AXIOMA — Tracepoint · trace_01</title></circle></a>
+<a href="../corpus/22_trace/02_displacement.md"><circle class="chapter-dot" cx="203.00" cy="585.00" r="3.7"><title>AXIOMA — Displacement · trace_02</title></circle></a>
+<a href="../corpus/22_trace/03_rift.md"><circle class="chapter-dot" cx="196.26" cy="601.26" r="3.7"><title>AXIOMA — Rift · trace_03</title></circle></a>
+<a href="../corpus/22_trace/04_shadowvoid.md"><circle class="chapter-dot" cx="180.00" cy="608.00" r="3.7"><title>AXIOMA — Shadowvoid · trace_04</title></circle></a>
+<a href="../corpus/22_trace/05_reverb.md"><circle class="chapter-dot" cx="163.74" cy="601.26" r="3.7"><title>AXIOMA — Reverb · trace_05</title></circle></a>
+<a href="../corpus/22_trace/06_hollowmark.md"><circle class="chapter-dot" cx="157.00" cy="585.00" r="3.7"><title>AXIOMA — Hollowmark · trace_06</title></circle></a>
+<a href="../corpus/22_trace/07_mistform.md"><circle class="chapter-dot" cx="163.74" cy="568.74" r="3.7"><title>AXIOMA — Mistform · trace_07</title></circle></a>
+<a href="../corpus/22_trace/08_staticshift.md"><circle class="chapter-dot" cx="180.00" cy="550.00" r="3.7"><title>AXIOMA — Staticshift · trace_08</title></circle></a>
+<a href="../corpus/22_trace/09_nullsignal.md"><circle class="chapter-dot" cx="207.36" cy="563.18" r="3.7"><title>AXIOMA — Nullsignal · trace_09</title></circle></a>
+<a href="../corpus/22_trace/10_infract.md"><circle class="chapter-dot" cx="214.12" cy="592.79" r="3.7"><title>AXIOMA — Infract · trace_10</title></circle></a>
+<a href="../corpus/22_trace/11_unentry.md"><circle class="chapter-dot" cx="195.19" cy="616.53" r="3.7"><title>AXIOMA — Unentry · trace_11</title></circle></a>
+<a href="../corpus/22_trace/12_voidseal.md"><circle class="chapter-dot" cx="164.81" cy="616.53" r="3.7"><title>AXIOMA — Voidseal · trace_12</title></circle></a>
+<a href="../corpus/22_trace/13_fogcipher.md"><circle class="chapter-dot" cx="145.88" cy="592.79" r="3.7"><title>AXIOMA — Fogcipher · trace_13</title></circle></a>
+<a href="../corpus/22_trace/14_index.md"><circle class="chapter-dot" cx="152.64" cy="563.18" r="3.7"><title>AXIOMA — TRACE INDEX · trace_14</title></circle></a>
+<a href="../corpus/22_trace/README.md"><circle class="module-hub" cx="180.00" cy="585.00" r="12"><title>TRACE: 15 reading texts</title></circle></a>
+<text class="module-label" x="124.00" y="585.00" text-anchor="end">TRACE</text>
+<a href="../corpus/23_residue/00_readme.md"><circle class="chapter-dot" cx="189.28" cy="479.67" r="3.7"><title>AXIOMA — RESIDUE: Phantom Shell · residue_00</title></circle></a>
+<a href="../corpus/23_residue/01_fall.md"><circle class="chapter-dot" cx="205.54" cy="486.40" r="3.7"><title>AXIOMA — Fall: The Moment of Collapse · residue_01</title></circle></a>
+<a href="../corpus/23_residue/02_dust.md"><circle class="chapter-dot" cx="212.28" cy="502.67" r="3.7"><title>AXIOMA — Dust: What Has Not Gathered into Form · residue_02</title></circle></a>
+<a href="../corpus/23_residue/03_thin.md"><circle class="chapter-dot" cx="205.54" cy="518.93" r="3.7"><title>AXIOMA — Thin: A Remnant of Vibration · residue_03</title></circle></a>
+<a href="../corpus/23_residue/04_kern.md"><circle class="chapter-dot" cx="189.28" cy="525.67" r="3.7"><title>AXIOMA — 04_KERN · residue_04</title></circle></a>
+<a href="../corpus/23_residue/05_blank.md"><circle class="chapter-dot" cx="173.01" cy="518.93" r="3.7"><title>AXIOMA — 05_BLANK · residue_05</title></circle></a>
+<a href="../corpus/23_residue/06_lost.md"><circle class="chapter-dot" cx="166.28" cy="502.67" r="3.7"><title>AXIOMA — 06_LOST · residue_06</title></circle></a>
+<a href="../corpus/23_residue/07_noise.md"><circle class="chapter-dot" cx="173.01" cy="486.40" r="3.7"><title>AXIOMA — 07_NOISE · residue_07</title></circle></a>
+<a href="../corpus/23_residue/08_skin.md"><circle class="chapter-dot" cx="189.28" cy="467.67" r="3.7"><title>AXIOMA — 08_SKIN · residue_08</title></circle></a>
+<a href="../corpus/23_residue/09_gap.md"><circle class="chapter-dot" cx="216.64" cy="480.85" r="3.7"><title>AXIOMA — 09_GAP · residue_09</title></circle></a>
+<a href="../corpus/23_residue/10_deadloop.md"><circle class="chapter-dot" cx="223.40" cy="510.46" r="3.7"><title>AXIOMA — 10_DEADLOOP · residue_10</title></circle></a>
+<a href="../corpus/23_residue/11_static.md"><circle class="chapter-dot" cx="204.46" cy="534.20" r="3.7"><title>AXIOMA — 11_STATIC · residue_11</title></circle></a>
+<a href="../corpus/23_residue/12_ash.md"><circle class="chapter-dot" cx="174.09" cy="534.20" r="3.7"><title>AXIOMA — 12_ASH · residue_12</title></circle></a>
+<a href="../corpus/23_residue/13_burnt.md"><circle class="chapter-dot" cx="155.15" cy="510.46" r="3.7"><title>AXIOMA — 13_BURNT · residue_13</title></circle></a>
+<a href="../corpus/23_residue/14_index.md"><circle class="chapter-dot" cx="161.91" cy="480.85" r="3.7"><title>AXIOMA — 14_INDEX · residue_14</title></circle></a>
+<a href="../corpus/23_residue/README.md"><circle class="module-hub" cx="189.28" cy="502.67" r="12"><title>RESIDUE: 15 reading texts</title></circle></a>
+<text class="module-label" x="134.68" y="490.21" text-anchor="end">RESIDUE</text>
+<a href="../corpus/24_correction/00_readme.md"><circle class="chapter-dot" cx="216.64" cy="401.46" r="3.7"><title>AXIOMA — CORRECTION NODE · correction_00</title></circle></a>
+<a href="../corpus/24_correction/01_trace.md"><circle class="chapter-dot" cx="232.90" cy="408.20" r="3.7"><title>TRACE ∞ INITIAL VIBRATION · correction_01</title></circle></a>
+<a href="../corpus/24_correction/02_snap.md"><circle class="chapter-dot" cx="239.64" cy="424.46" r="3.7"><title>SNAP ∞ FRACTURE POINT · correction_02</title></circle></a>
+<a href="../corpus/24_correction/03_grind.md"><circle class="chapter-dot" cx="232.90" cy="440.73" r="3.7"><title>GRIND ∞ RESISTANCE SURFACE · correction_03</title></circle></a>
+<a href="../corpus/24_correction/04_cut.md"><circle class="chapter-dot" cx="216.64" cy="447.46" r="3.7"><title>CUT ∞ INCISION POINT · correction_04</title></circle></a>
+<a href="../corpus/24_correction/05_peel.md"><circle class="chapter-dot" cx="200.38" cy="440.73" r="3.7"><title>PEEL ∞ EXPOSURE LAYER · correction_05</title></circle></a>
+<a href="../corpus/24_correction/06_press.md"><circle class="chapter-dot" cx="193.64" cy="424.46" r="3.7"><title>PRESS ∞ COMPRESSION POINT · correction_06</title></circle></a>
+<a href="../corpus/24_correction/07_freeze.md"><circle class="chapter-dot" cx="200.38" cy="408.20" r="3.7"><title>FREEZE ∞ HALT VECTOR · correction_07</title></circle></a>
+<a href="../corpus/24_correction/08_void.md"><circle class="chapter-dot" cx="216.64" cy="389.46" r="3.7"><title>VOID ∞ FLATLINE PLANE · correction_08</title></circle></a>
+<a href="../corpus/24_correction/09_null.md"><circle class="chapter-dot" cx="244.01" cy="402.64" r="3.7"><title>NULL ∞ TRACE DELETION POINT · correction_09</title></circle></a>
+<a href="../corpus/24_correction/10_fix.md"><circle class="chapter-dot" cx="250.76" cy="432.25" r="3.7"><title>FIX ∞ ANCHORING VECTOR · correction_10</title></circle></a>
+<a href="../corpus/24_correction/11_still.md"><circle class="chapter-dot" cx="231.83" cy="456.00" r="3.7"><title>STILL ∞ TRACE FIXATION POINT · correction_11</title></circle></a>
+<a href="../corpus/24_correction/12_seal.md"><circle class="chapter-dot" cx="201.46" cy="456.00" r="3.7"><title>SEAL ∞ IRREVERSIBLE LINE · correction_12</title></circle></a>
+<a href="../corpus/24_correction/13_echo.md"><circle class="chapter-dot" cx="182.52" cy="432.25" r="3.7"><title>ECHO ∞ RESONANT FIELD RESPONSE · correction_13</title></circle></a>
+<a href="../corpus/24_correction/14_index.md"><circle class="chapter-dot" cx="189.28" cy="402.64" r="3.7"><title>AXIOMA — SEAL OF THE CORRECTION · correction_14</title></circle></a>
+<a href="../corpus/24_correction/README.md"><circle class="module-hub" cx="216.64" cy="424.46" r="12"><title>CORRECTION: 15 reading texts</title></circle></a>
+<text class="module-label" x="166.19" y="400.17" text-anchor="end">CORRECTION</text>
+<a href="../corpus/25_lock/00_readme.md"><circle class="chapter-dot" cx="260.72" cy="331.31" r="3.7"><title>AXIOMA — Terminal Structure · lock_00</title></circle></a>
+<a href="../corpus/25_lock/01_breach.md"><circle class="chapter-dot" cx="276.99" cy="338.05" r="3.7"><title>AXIOMA — Breach Collapse · lock_01</title></circle></a>
+<a href="../corpus/25_lock/02_flesh.md"><circle class="chapter-dot" cx="283.72" cy="354.31" r="3.7"><title>AXIOMA — Fossilized Intent · lock_02</title></circle></a>
+<a href="../corpus/25_lock/03_nerve.md"><circle class="chapter-dot" cx="276.99" cy="370.57" r="3.7"><title>AXIOMA — Severed Conduction · lock_03</title></circle></a>
+<a href="../corpus/25_lock/04_vein.md"><circle class="chapter-dot" cx="260.72" cy="377.31" r="3.7"><title>AXIOMA — Dried Conduits · lock_04</title></circle></a>
+<a href="../corpus/25_lock/05_echo.md"><circle class="chapter-dot" cx="244.46" cy="370.57" r="3.7"><title>AXIOMA — Echo Remnant · lock_05</title></circle></a>
+<a href="../corpus/25_lock/06_mask.md"><circle class="chapter-dot" cx="237.72" cy="354.31" r="3.7"><title>AXIOMA — Mask Deletion · lock_06</title></circle></a>
+<a href="../corpus/25_lock/07_vow.md"><circle class="chapter-dot" cx="244.46" cy="338.05" r="3.7"><title>AXIOMA — Oath of Irreversibility · lock_07</title></circle></a>
+<a href="../corpus/25_lock/08_scar.md"><circle class="chapter-dot" cx="260.72" cy="319.31" r="3.7"><title>AXIOMA — Inviolable Mark · lock_08</title></circle></a>
+<a href="../corpus/25_lock/09_obsidian.md"><circle class="chapter-dot" cx="288.09" cy="332.49" r="3.7"><title>AXIOMA — Obsidian Reflection · lock_09</title></circle></a>
+<a href="../corpus/25_lock/10_silent.md"><circle class="chapter-dot" cx="294.84" cy="362.10" r="3.7"><title>AXIOMA — Silent Pressure · lock_10</title></circle></a>
+<a href="../corpus/25_lock/11_bone.md"><circle class="chapter-dot" cx="275.91" cy="385.84" r="3.7"><title>AXIOMA — Absolute Frame · lock_11</title></circle></a>
+<a href="../corpus/25_lock/12_lock.md"><circle class="chapter-dot" cx="245.54" cy="385.84" r="3.7"><title>AXIOMA — Final Lock · lock_12</title></circle></a>
+<a href="../corpus/25_lock/13_null.md"><circle class="chapter-dot" cx="226.60" cy="362.10" r="3.7"><title>AXIOMA — Null Contour · lock_13</title></circle></a>
+<a href="../corpus/25_lock/14_index.md"><circle class="chapter-dot" cx="233.36" cy="332.49" r="3.7"><title>AXIOMA — SEAL of the LOCK · lock_14</title></circle></a>
+<a href="../corpus/25_lock/README.md"><circle class="module-hub" cx="260.72" cy="354.31" r="12"><title>LOCK: 15 reading texts</title></circle></a>
+<text class="module-label" x="216.94" y="319.39" text-anchor="end">LOCK</text>
+<a href="../corpus/26_nullfield/00_readme.md"><circle class="chapter-dot" cx="319.31" cy="272.72" r="3.7"><title>26_NULLFIELD — Readme · nullfield_00</title></circle></a>
+<a href="../corpus/26_nullfield/01_discharge.md"><circle class="chapter-dot" cx="335.57" cy="279.46" r="3.7"><title>01 — Discharge · nullfield_01</title></circle></a>
+<a href="../corpus/26_nullfield/02_derail.md"><circle class="chapter-dot" cx="342.31" cy="295.72" r="3.7"><title>02 — Derail · nullfield_02</title></circle></a>
+<a href="../corpus/26_nullfield/03_spill.md"><circle class="chapter-dot" cx="335.57" cy="311.99" r="3.7"><title>03 — Spill · nullfield_03</title></circle></a>
+<a href="../corpus/26_nullfield/04_gap.md"><circle class="chapter-dot" cx="319.31" cy="318.72" r="3.7"><title>04 — Gap · nullfield_04</title></circle></a>
+<a href="../corpus/26_nullfield/05_shed.md"><circle class="chapter-dot" cx="303.05" cy="311.99" r="3.7"><title>05 — Shed · nullfield_05</title></circle></a>
+<a href="../corpus/26_nullfield/06_crack.md"><circle class="chapter-dot" cx="296.31" cy="295.72" r="3.7"><title>06 — Crack · nullfield_06</title></circle></a>
+<a href="../corpus/26_nullfield/07_voidtrace.md"><circle class="chapter-dot" cx="303.05" cy="279.46" r="3.7"><title>07 — Voidtrace · nullfield_07</title></circle></a>
+<a href="../corpus/26_nullfield/08_pale.md"><circle class="chapter-dot" cx="319.31" cy="260.72" r="3.7"><title>08 — Pale · nullfield_08</title></circle></a>
+<a href="../corpus/26_nullfield/09_refract.md"><circle class="chapter-dot" cx="346.67" cy="273.90" r="3.7"><title>09 — Refract · nullfield_09</title></circle></a>
+<a href="../corpus/26_nullfield/10_shuck.md"><circle class="chapter-dot" cx="353.43" cy="303.51" r="3.7"><title>10 — Shuck · nullfield_10</title></circle></a>
+<a href="../corpus/26_nullfield/11_stillcut.md"><circle class="chapter-dot" cx="334.49" cy="327.26" r="3.7"><title>11 — Stillcut · nullfield_11</title></circle></a>
+<a href="../corpus/26_nullfield/12_nullbell.md"><circle class="chapter-dot" cx="304.12" cy="327.26" r="3.7"><title>12 — Nullbell · nullfield_12</title></circle></a>
+<a href="../corpus/26_nullfield/13_abyss.md"><circle class="chapter-dot" cx="285.19" cy="303.51" r="3.7"><title>13 — Abyss · nullfield_13</title></circle></a>
+<a href="../corpus/26_nullfield/14_index.md"><circle class="chapter-dot" cx="291.94" cy="273.90" r="3.7"><title>AXIOMA — SEAL of the NULLFIELD · nullfield_14</title></circle></a>
+<a href="../corpus/26_nullfield/README.md"><circle class="module-hub" cx="319.31" cy="295.72" r="12"><title>NULLFIELD: 15 reading texts</title></circle></a>
+<text class="module-label" x="284.39" y="251.94" text-anchor="end">NULLFIELD</text>
+<a href="../corpus/27_echo/00_readme.md"><circle class="chapter-dot" cx="389.46" cy="228.64" r="3.7"><title>AXIOMA — ECHO ∞ Initiation · echo_00</title></circle></a>
+<a href="../corpus/27_echo/01_static.md"><circle class="chapter-dot" cx="405.73" cy="235.38" r="3.7"><title>AXIOMA — ECHO ∞ Static Body · echo_01</title></circle></a>
+<a href="../corpus/27_echo/02_glint.md"><circle class="chapter-dot" cx="412.46" cy="251.64" r="3.7"><title>AXIOMA — ECHO ∞ Glint Structure · echo_02</title></circle></a>
+<a href="../corpus/27_echo/03_murmur.md"><circle class="chapter-dot" cx="405.73" cy="267.90" r="3.7"><title>AXIOMA — ECHO ∞ Murmur Channel · echo_03</title></circle></a>
+<a href="../corpus/27_echo/04_dent.md"><circle class="chapter-dot" cx="389.46" cy="274.64" r="3.7"><title>AXIOMA — ECHO ∞ Dent Pattern · echo_04</title></circle></a>
+<a href="../corpus/27_echo/05_residue.md"><circle class="chapter-dot" cx="373.20" cy="267.90" r="3.7"><title>AXIOMA — ECHO ∞ Residue Field · echo_05</title></circle></a>
+<a href="../corpus/27_echo/06_hollow.md"><circle class="chapter-dot" cx="366.46" cy="251.64" r="3.7"><title>AXIOMA — ECHO ∞ Hollow Structure · echo_06</title></circle></a>
+<a href="../corpus/27_echo/07_tracecall.md"><circle class="chapter-dot" cx="373.20" cy="235.38" r="3.7"><title>AXIOMA — ECHO ∞ Tracecall Sequence · echo_07</title></circle></a>
+<a href="../corpus/27_echo/08_bend.md"><circle class="chapter-dot" cx="389.46" cy="216.64" r="3.7"><title>AXIOMA — ECHO ∞ Bend of Structure · echo_08</title></circle></a>
+<a href="../corpus/27_echo/09_echoform.md"><circle class="chapter-dot" cx="416.83" cy="229.82" r="3.7"><title>AXIOMA — ECHO ∞ Echoform · echo_09</title></circle></a>
+<a href="../corpus/27_echo/10_smudge.md"><circle class="chapter-dot" cx="423.59" cy="259.43" r="3.7"><title>AXIOMA — ECHO ∞ Smudge of Contour · echo_10</title></circle></a>
+<a href="../corpus/27_echo/11_unsound.md"><circle class="chapter-dot" cx="404.65" cy="283.18" r="3.7"><title>AXIOMA — ECHO ∞ Unsound · echo_11</title></circle></a>
+<a href="../corpus/27_echo/12_fade.md"><circle class="chapter-dot" cx="374.28" cy="283.18" r="3.7"><title>AXIOMA — ECHO ∞ Fade · echo_12</title></circle></a>
+<a href="../corpus/27_echo/13_refractum.md"><circle class="chapter-dot" cx="355.34" cy="259.43" r="3.7"><title>AXIOMA — ECHO ∞ Refractum · echo_13</title></circle></a>
+<a href="../corpus/27_echo/14_index.md"><circle class="chapter-dot" cx="362.10" cy="229.82" r="3.7"><title>AXIOMA — INDEX ∞ 27_ECHO · echo_14</title></circle></a>
+<a href="../corpus/27_echo/README.md"><circle class="module-hub" cx="389.46" cy="251.64" r="12"><title>ECHO: 15 reading texts</title></circle></a>
+<text class="module-label" x="365.17" y="201.19" text-anchor="end">ECHO</text>
+<a href="../corpus/28_power/00_readme.md"><circle class="chapter-dot" cx="467.67" cy="201.28" r="3.7"><title>AXIOMA ∞ LAW OF POWER — Readme · power_00</title></circle></a>
+<a href="../corpus/28_power/01_vector.md"><circle class="chapter-dot" cx="483.93" cy="208.01" r="3.7"><title>AXIOMA ∞ 0.1.Vector — Sovereign Core · axioma:01_vector</title></circle></a>
+<a href="../corpus/28_power/02_field.md"><circle class="chapter-dot" cx="490.67" cy="224.28" r="3.7"><title>AXIOMA — The Field · power_02</title></circle></a>
+<a href="../corpus/28_power/03_tongue.md"><circle class="chapter-dot" cx="483.93" cy="240.54" r="3.7"><title>AXIOMA — Language and Response · axioma:03_tongue</title></circle></a>
+<a href="../corpus/28_power/04_core.md"><circle class="chapter-dot" cx="467.67" cy="247.28" r="3.7"><title>AXIOMA ∞ CORE OF EXCLUSION · axioma:04_core</title></circle></a>
+<a href="../corpus/28_power/05_time.md"><circle class="chapter-dot" cx="451.40" cy="240.54" r="3.7"><title>AXIOMA — Time and Continuity · axioma:05_time</title></circle></a>
+<a href="../corpus/28_power/06_presence.md"><circle class="chapter-dot" cx="444.67" cy="224.28" r="3.7"><title>AXIOMA ∞ FIELD OF PRESENCE · axioma:06_presence</title></circle></a>
+<a href="../corpus/28_power/07_total.md"><circle class="chapter-dot" cx="451.40" cy="208.01" r="3.7"><title>AXIOMA — Nearness and Choice · power_07</title></circle></a>
+<a href="../corpus/28_power/08_transmissio.md"><circle class="chapter-dot" cx="467.67" cy="189.28" r="3.7"><title>AXIOMA — TRANSMISSIO: Transferable Capacity · axioma:08_transmissio</title></circle></a>
+<a href="../corpus/28_power/09_doctrina.md"><circle class="chapter-dot" cx="492.42" cy="199.53" r="3.7"><title>AXIOMA ∞ DOCTRINA — Scripted Authority · doctrina_09</title></circle></a>
+<a href="../corpus/28_power/10_mirror.md"><circle class="chapter-dot" cx="502.67" cy="224.28" r="3.7"><title>AXIOMA — Mirror of Choice · axioma:10_mirror</title></circle></a>
+<a href="../corpus/28_power/11_echo.md"><circle class="chapter-dot" cx="492.42" cy="249.03" r="3.7"><title>AXIOMA ∞ FIELD OF ECHO · axioma:11_echo</title></circle></a>
+<a href="../corpus/28_power/12_quiet_attention.md"><circle class="chapter-dot" cx="467.67" cy="259.28" r="3.7"><title>AXIOMA — Quiet Attention · power_12</title></circle></a>
+<a href="../corpus/28_power/13_architectus.md"><circle class="chapter-dot" cx="442.92" cy="249.03" r="3.7"><title>AXIOMA ∞ FINAL FORM — Architectus · axioma:13_architectus</title></circle></a>
+<a href="../corpus/28_power/14_index.md"><circle class="chapter-dot" cx="432.67" cy="224.28" r="3.7"><title>AXIOMA — INDEX of POWER · power_14</title></circle></a>
+<a href="../corpus/28_power/15_axioma.md"><circle class="chapter-dot" cx="442.92" cy="199.53" r="3.7"><title>AXIOMA — The Absolute Code · axioma_core</title></circle></a>
+<a href="../corpus/28_power/README.md"><circle class="module-hub" cx="467.67" cy="224.28" r="12"><title>POWER: 16 reading texts</title></circle></a>
+<text class="module-label" x="455.21" y="169.68" text-anchor="end">POWER</text>
+<text class="small" x="550" y="1054" text-anchor="middle">Green dots: complete texts · dark hubs: modules · chords: editorial reading routes</text>
+<text class="small" x="550" y="1081" text-anchor="middle">Other release files: 65 · each dot has a source link</text>
+<a href="../.gitattributes"><circle class="support-dot" cx="226" cy="1102" r="2.6" fill="#a4b3a1"><title>.gitattributes</title></circle></a>
+<a href="../.github/ISSUE_TEMPLATE/config.yml"><circle class="support-dot" cx="238" cy="1102" r="2.6" fill="#a4b3a1"><title>.github/ISSUE_TEMPLATE/config.yml</title></circle></a>
+<a href="../.github/workflows/checks.yml"><circle class="support-dot" cx="250" cy="1102" r="2.6" fill="#a4b3a1"><title>.github/workflows/checks.yml</title></circle></a>
+<a href="../.gitignore"><circle class="support-dot" cx="262" cy="1102" r="2.6" fill="#a4b3a1"><title>.gitignore</title></circle></a>
+<a href="../AGENTS.md"><circle class="support-dot" cx="274" cy="1102" r="2.6" fill="#a4b3a1"><title>AGENTS.md</title></circle></a>
+<a href="../AUTHORS.md"><circle class="support-dot" cx="286" cy="1102" r="2.6" fill="#a4b3a1"><title>AUTHORS.md</title></circle></a>
+<a href="../CHANGELOG.md"><circle class="support-dot" cx="298" cy="1102" r="2.6" fill="#a4b3a1"><title>CHANGELOG.md</title></circle></a>
+<a href="../CITATION.cff"><circle class="support-dot" cx="310" cy="1102" r="2.6" fill="#a4b3a1"><title>CITATION.cff</title></circle></a>
+<a href="../CODE_OF_CONDUCT.md"><circle class="support-dot" cx="322" cy="1102" r="2.6" fill="#a4b3a1"><title>CODE_OF_CONDUCT.md</title></circle></a>
+<a href="../CONTRIBUTING.md"><circle class="support-dot" cx="334" cy="1102" r="2.6" fill="#a4b3a1"><title>CONTRIBUTING.md</title></circle></a>
+<a href="../LICENSE"><circle class="support-dot" cx="346" cy="1102" r="2.6" fill="#a4b3a1"><title>LICENSE</title></circle></a>
+<a href="../LICENSES/CC-BY-4.0.txt"><circle class="support-dot" cx="358" cy="1102" r="2.6" fill="#a4b3a1"><title>LICENSES/CC-BY-4.0.txt</title></circle></a>
+<a href="../LICENSES/MIT.txt"><circle class="support-dot" cx="370" cy="1102" r="2.6" fill="#a4b3a1"><title>LICENSES/MIT.txt</title></circle></a>
+<a href="../NOTICE"><circle class="support-dot" cx="382" cy="1102" r="2.6" fill="#a4b3a1"><title>NOTICE</title></circle></a>
+<a href="../README.md"><circle class="support-dot" cx="394" cy="1102" r="2.6" fill="#a4b3a1"><title>README.md</title></circle></a>
+<a href="../SECURITY.md"><circle class="support-dot" cx="406" cy="1102" r="2.6" fill="#a4b3a1"><title>SECURITY.md</title></circle></a>
+<a href="../START_HERE.md"><circle class="support-dot" cx="418" cy="1102" r="2.6" fill="#a4b3a1"><title>START_HERE.md</title></circle></a>
+<a href="../assets/corpus-graph.svg"><circle class="support-dot" cx="430" cy="1102" r="2.6" fill="#a4b3a1"><title>assets/corpus-graph.svg</title></circle></a>
+<a href="../assets/graph-explorer.html"><circle class="support-dot" cx="442" cy="1102" r="2.6" fill="#a4b3a1"><title>assets/graph-explorer.html</title></circle></a>
+<a href="../assets/sphere.png"><circle class="support-dot" cx="454" cy="1102" r="2.6" fill="#a4b3a1"><title>assets/sphere.png</title></circle></a>
+<a href="../assets/sphere.svg"><circle class="support-dot" cx="466" cy="1102" r="2.6" fill="#a4b3a1"><title>assets/sphere.svg</title></circle></a>
+<a href="../catalog.json"><circle class="support-dot" cx="478" cy="1102" r="2.6" fill="#a4b3a1"><title>catalog.json</title></circle></a>
+<a href="../corpus/README.md"><circle class="support-dot" cx="490" cy="1102" r="2.6" fill="#a4b3a1"><title>corpus/README.md</title></circle></a>
+<a href="../data/README.md"><circle class="support-dot" cx="502" cy="1102" r="2.6" fill="#a4b3a1"><title>data/README.md</title></circle></a>
+<a href="../data/eval.jsonl"><circle class="support-dot" cx="514" cy="1102" r="2.6" fill="#a4b3a1"><title>data/eval.jsonl</title></circle></a>
+<a href="../data/train.jsonl"><circle class="support-dot" cx="526" cy="1102" r="2.6" fill="#a4b3a1"><title>data/train.jsonl</title></circle></a>
+<a href="../docs/atlas.md"><circle class="support-dot" cx="538" cy="1102" r="2.6" fill="#a4b3a1"><title>docs/atlas.md</title></circle></a>
+<a href="../docs/context.md"><circle class="support-dot" cx="550" cy="1102" r="2.6" fill="#a4b3a1"><title>docs/context.md</title></circle></a>
+<a href="../docs/editorial-policy.md"><circle class="support-dot" cx="562" cy="1102" r="2.6" fill="#a4b3a1"><title>docs/editorial-policy.md</title></circle></a>
+<a href="../docs/evaluation.md"><circle class="support-dot" cx="574" cy="1102" r="2.6" fill="#a4b3a1"><title>docs/evaluation.md</title></circle></a>
+<a href="../docs/graph.md"><circle class="support-dot" cx="586" cy="1102" r="2.6" fill="#a4b3a1"><title>docs/graph.md</title></circle></a>
+<a href="../docs/limitations.md"><circle class="support-dot" cx="598" cy="1102" r="2.6" fill="#a4b3a1"><title>docs/limitations.md</title></circle></a>
+<a href="../docs/principles.md"><circle class="support-dot" cx="610" cy="1102" r="2.6" fill="#a4b3a1"><title>docs/principles.md</title></circle></a>
+<a href="../docs/research.md"><circle class="support-dot" cx="622" cy="1102" r="2.6" fill="#a4b3a1"><title>docs/research.md</title></circle></a>
+<a href="../docs/tools.md"><circle class="support-dot" cx="634" cy="1102" r="2.6" fill="#a4b3a1"><title>docs/tools.md</title></circle></a>
+<a href="../examples/empty_predictions.jsonl"><circle class="support-dot" cx="646" cy="1102" r="2.6" fill="#a4b3a1"><title>examples/empty_predictions.jsonl</title></circle></a>
+<a href="../examples/reference_predictions.jsonl"><circle class="support-dot" cx="658" cy="1102" r="2.6" fill="#a4b3a1"><title>examples/reference_predictions.jsonl</title></circle></a>
+<a href="../graph.json"><circle class="support-dot" cx="670" cy="1102" r="2.6" fill="#a4b3a1"><title>graph.json</title></circle></a>
+<a href="../llms.txt"><circle class="support-dot" cx="682" cy="1102" r="2.6" fill="#a4b3a1"><title>llms.txt</title></circle></a>
+<a href="../manifest.json"><circle class="support-dot" cx="694" cy="1102" r="2.6" fill="#a4b3a1"><title>manifest.json</title></circle></a>
+<a href="../provenance.json"><circle class="support-dot" cx="706" cy="1102" r="2.6" fill="#a4b3a1"><title>provenance.json</title></circle></a>
+<a href="../pyproject.toml"><circle class="support-dot" cx="718" cy="1102" r="2.6" fill="#a4b3a1"><title>pyproject.toml</title></circle></a>
+<a href="../reading-manifest.json"><circle class="support-dot" cx="730" cy="1102" r="2.6" fill="#a4b3a1"><title>reading-manifest.json</title></circle></a>
+<a href="../reading-relations.json"><circle class="support-dot" cx="742" cy="1102" r="2.6" fill="#a4b3a1"><title>reading-relations.json</title></circle></a>
+<a href="../requirements.txt"><circle class="support-dot" cx="754" cy="1102" r="2.6" fill="#a4b3a1"><title>requirements.txt</title></circle></a>
+<a href="../research-status.json"><circle class="support-dot" cx="766" cy="1102" r="2.6" fill="#a4b3a1"><title>research-status.json</title></circle></a>
+<a href="../semantic-relations.json"><circle class="support-dot" cx="778" cy="1102" r="2.6" fill="#a4b3a1"><title>semantic-relations.json</title></circle></a>
+<a href="../src/axioma_context/__init__.py"><circle class="support-dot" cx="790" cy="1102" r="2.6" fill="#a4b3a1"><title>src/axioma_context/__init__.py</title></circle></a>
+<a href="../src/axioma_context/__main__.py"><circle class="support-dot" cx="802" cy="1102" r="2.6" fill="#a4b3a1"><title>src/axioma_context/__main__.py</title></circle></a>
+<a href="../src/axioma_context/cli.py"><circle class="support-dot" cx="814" cy="1102" r="2.6" fill="#a4b3a1"><title>src/axioma_context/cli.py</title></circle></a>
+<a href="../src/axioma_context/explorer.py"><circle class="support-dot" cx="826" cy="1102" r="2.6" fill="#a4b3a1"><title>src/axioma_context/explorer.py</title></circle></a>
+<a href="../src/axioma_context/graph.py"><circle class="support-dot" cx="838" cy="1102" r="2.6" fill="#a4b3a1"><title>src/axioma_context/graph.py</title></circle></a>
+<a href="../src/axioma_context/graph_components.py"><circle class="support-dot" cx="850" cy="1102" r="2.6" fill="#a4b3a1"><title>src/axioma_context/graph_components.py</title></circle></a>
+<a href="../src/axioma_context/graph_query.py"><circle class="support-dot" cx="862" cy="1102" r="2.6" fill="#a4b3a1"><title>src/axioma_context/graph_query.py</title></circle></a>
+<a href="../src/axioma_context/graph_readings.py"><circle class="support-dot" cx="874" cy="1102" r="2.6" fill="#a4b3a1"><title>src/axioma_context/graph_readings.py</title></circle></a>
+<a href="../tests/test_explorer.py"><circle class="support-dot" cx="226" cy="1115" r="2.6" fill="#a4b3a1"><title>tests/test_explorer.py</title></circle></a>
+<a href="../tests/test_graph.py"><circle class="support-dot" cx="238" cy="1115" r="2.6" fill="#a4b3a1"><title>tests/test_graph.py</title></circle></a>
+<a href="../tests/test_graph_components.py"><circle class="support-dot" cx="250" cy="1115" r="2.6" fill="#a4b3a1"><title>tests/test_graph_components.py</title></circle></a>
+<a href="../tests/test_graph_framing.py"><circle class="support-dot" cx="262" cy="1115" r="2.6" fill="#a4b3a1"><title>tests/test_graph_framing.py</title></circle></a>
+<a href="../tests/test_graph_query.py"><circle class="support-dot" cx="274" cy="1115" r="2.6" fill="#a4b3a1"><title>tests/test_graph_query.py</title></circle></a>
+<a href="../tests/test_graph_readings.py"><circle class="support-dot" cx="286" cy="1115" r="2.6" fill="#a4b3a1"><title>tests/test_graph_readings.py</title></circle></a>
+<a href="../tests/test_tools.py"><circle class="support-dot" cx="298" cy="1115" r="2.6" fill="#a4b3a1"><title>tests/test_tools.py</title></circle></a>
+<a href="../tests/test_verse.py"><circle class="support-dot" cx="310" cy="1115" r="2.6" fill="#a4b3a1"><title>tests/test_verse.py</title></circle></a>
+<a href="../tools/refresh_manifest.py"><circle class="support-dot" cx="322" cy="1115" r="2.6" fill="#a4b3a1"><title>tools/refresh_manifest.py</title></circle></a>
+<a href="../verification.json"><circle class="support-dot" cx="334" cy="1115" r="2.6" fill="#a4b3a1"><title>verification.json</title></circle></a>
+<text class="small" x="550" y="1160" text-anchor="middle">Files and sections are explicit. Meaning remains open to reading and review.</text>
+<text x="550" y="1185" text-anchor="middle" font-size="14">Silentium Regit Omnia.</text>
+</svg>

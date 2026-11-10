@@ -1,0 +1,10 @@
+{
+  "edition": "2.0.0",
+  "purpose": "Context conditioning and preparation of synthetic instruction data",
+  "training_examples": 32,
+  "evaluation_cases": 16,
+  "model_training": "not performed",
+  "provider_evaluation": "not performed",
+  "lexical_fixture": "Software self-check, not a model result",
+  "scope": "AXIOMA literary corpus only; no private archives or other project materials"
+}

@@ -1,0 +1,7 @@
+AXIOMA license scope
+
+All literary and explanatory text, metadata, synthetic data and visual artwork in this edition are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). See LICENSES/CC-BY-4.0.txt and https://creativecommons.org/licenses/by/4.0/.
+
+Software in src/, tools/, tests/, workflow configuration and the executable JavaScript/CSS in assets/graph-explorer.html is licensed under MIT. The embedded graph data and explanatory text in that generated HTML retain CC BY 4.0. See LICENSES/MIT.txt.
+
+Copyright 2026 AXIOMA project. Credit the AXIOMA project and identify adaptations. These scope notes do not modify either license.

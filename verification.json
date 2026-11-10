@@ -1,0 +1,114 @@
+{
+  "edition": "2.0.0",
+  "checked_utc": "2026-11-10T07:04:38.410150+00:00",
+  "kind": "Local prepublication software record",
+  "environment": {
+    "os": "Windows",
+    "python": "3.14.10"
+  },
+  "reading_documents": 438,
+  "literary_documents": 437,
+  "interpretation_documents": 1,
+  "source_derived_documents": 436,
+  "modules": 29,
+  "unit_tests": {
+    "passed": 48,
+    "failed": 0,
+    "skipped": 0
+  },
+  "training_exports": {
+    "messages": {
+      "rows": 32,
+      "utf8_bytes": 18750
+    },
+    "trl": {
+      "rows": 32,
+      "utf8_bytes": 19166
+    }
+  },
+  "context_packet": {
+    "complete_sources": 2,
+    "utf8_bytes": 4389,
+    "budget_bytes": 32768,
+    "oversize_packet_refused": true
+  },
+  "software_fixtures": {
+    "reference": {
+      "cases": 16,
+      "predictions": 16,
+      "lexical_passes": 16
+    },
+    "empty": {
+      "cases": 16,
+      "predictions": 0,
+      "lexical_passes": 0,
+      "missing": 16
+    },
+    "meaning": "Evaluator self-checks using supplied synthetic fixtures, not model results."
+  },
+  "hosted_ci": {
+    "scope": "Configuration only at the time of this local record",
+    "matrix": {
+      "os": [
+        "ubuntu-latest",
+        "windows-latest"
+      ],
+      "python": [
+        "3.11",
+        "3.13",
+        "3.14"
+      ]
+    },
+    "results": "https://github.com/blacksignstudio/axioma/actions"
+  },
+  "graph": {
+    "files": 532,
+    "markdown_documents": 486,
+    "modules": 29,
+    "reading_chapters": 438,
+    "literary_chapters": 437,
+    "interpretation_chapters": 1,
+    "reading_genres": {
+      "interpretation": 1,
+      "literary": 437
+    },
+    "blocks": 9284,
+    "whole_components": 2,
+    "nodes": 9816,
+    "edges": 54589,
+    "connected_components": 1,
+    "connectivity_mode": "Underlying undirected graph (weak connectivity)",
+    "dangling_edges": 0,
+    "orphan_nodes": 0,
+    "lexical_mentions": 19056,
+    "editorial_module_relations": 30,
+    "editorial_semantic_relations": 4,
+    "curated_section_readings": 530,
+    "derived_section_candidates": 11174,
+    "section_reading_coverage": {
+      "eligible_sections": 5610,
+      "with_curated_reading": 946,
+      "with_derived_candidate": 5601,
+      "without_curated_reading": 4664,
+      "without_curated_or_derived": 0,
+      "curator_acceptance": "Candidate coverage is not curator acceptance or complete semantics"
+    }
+  },
+  "block_source_validation": {
+    "every_nonempty_markdown_body_line_covered": true,
+    "all_block_digests_match": true,
+    "lexical_evidence_items_checked": 19056,
+    "editorial_relations_checked": 4,
+    "curated_section_readings_checked": 530,
+    "derived_candidates_checked": 11174,
+    "whole_compositions_checked": 2
+  },
+  "review_gate": "Local checks for this edition; remote delivery and hosted CI have their own commit-linked results.",
+  "model_training_performed": false,
+  "provider_evaluation_performed": false,
+  "limits": [
+    "Structural invariants and software checks do not establish model improvement.",
+    "Preservation of a literary voice requires editorial judgment; hashes do not prove semantic identity.",
+    "This record reports its local environment; hosted results have their own timestamps and commit identifiers."
+  ]
+}

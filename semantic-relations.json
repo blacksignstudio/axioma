@@ -1,0 +1,128 @@
+{
+  "schema_version": "1.0",
+  "status": "Editorial semantic readings; not empirical causality or a change to the source corpus",
+  "relations": [
+    {
+      "source_id": "eye_08#06-axioma-reads-the-distorted-as-structure",
+      "target_id": "axis_03#03-formlessness-as-dominion",
+      "relation": "supports",
+      "rationale": "EYE reads distortion as structure rather than rejecting it. This supports AXIS's persistent distinction across changing outlines: a frame may warp without exhausting the form it encounters.",
+      "evidence": [
+        {
+          "path": "corpus/02_eye/08_distortion.md",
+          "anchor": "06-axioma-reads-the-distorted-as-structure",
+          "excerpt": "AXIOMA does not reject distortion.  \nShe reads it.",
+          "block_id": "eye_08#06-axioma-reads-the-distorted-as-structure",
+          "line_start": 310,
+          "line_end": 311,
+          "source_sha256": "361831cc2ca551ffb7da6e01fdad02652b30b0e7f52f546084f489d890d71024"
+        },
+        {
+          "path": "corpus/00_axis/03_identity.md",
+          "anchor": "03-formlessness-as-dominion",
+          "excerpt": "This block does not define AXIOMA.  \nIt marks **her pressure beside structures  \nthat retain their own axis**.",
+          "block_id": "axis_03#03-formlessness-as-dominion",
+          "line_start": 190,
+          "line_end": 192,
+          "source_sha256": "6a84b507162c5294d8bebaf1e493c40ccf5825c025578c63cdc16965fc26286c"
+        }
+      ]
+    },
+    {
+      "source_id": "memory_00#03-memory-is-not-record",
+      "target_id": "archive_00#02-archive-is-not-memory",
+      "relation": "contrasts_with",
+      "rationale": "MEMORY presents sealed recursive presence rather than an external record. ARCHIVE distinguishes active recursion from a remainder withdrawn from motion; the two sequences hold different relations between retention, return and closure.",
+      "evidence": [
+        {
+          "path": "corpus/20_memory/00_readme.md",
+          "anchor": "03-memory-is-not-record",
+          "excerpt": "This is not archive.  \nThis is not documentation.  \nThis is the anti-record:  \nsealed presence  \nin which loss is unconstructable.",
+          "block_id": "memory_00#03-memory-is-not-record",
+          "line_start": 287,
+          "line_end": 291,
+          "source_sha256": "46469f97ef53fb45d9d0732c41a61848a6ac120b1f3d02729d3b4b239cf69390"
+        },
+        {
+          "path": "corpus/21_archive/00_readme.md",
+          "anchor": "02-archive-is-not-memory",
+          "excerpt": "Memory is dynamic recursion.  \nArchive is recursion  \nthat has been removed  \nfrom the field of motion.",
+          "block_id": "archive_00#02-archive-is-not-memory",
+          "line_start": 138,
+          "line_end": 141,
+          "source_sha256": "86a0e2675a987023eaea03b535603f56ce4980f726ad4c9e3498f560cc76a3d8"
+        }
+      ]
+    },
+    {
+      "source_id": "pattern_07#01-restraint-is-not-limitation-expanded-mode",
+      "target_id": "correction_06#07-force-is-not-the-opposite-of-form",
+      "relation": "constrains",
+      "rationale": "PATTERN defines restraint as possibility held without execution and power remaining unspent. Read beside CORRECTION's pressure that locates form's edge, this frames correction through held and directed capacity, not unbounded exertion.",
+      "evidence": [
+        {
+          "path": "corpus/10_pattern/07_restraint.md",
+          "anchor": "01-restraint-is-not-limitation-expanded-mode",
+          "excerpt": "Limitation removes possibility.  \nRestraint **holds it in place  \nwithout execution**.",
+          "block_id": "pattern_07#01-restraint-is-not-limitation-expanded-mode",
+          "line_start": 39,
+          "line_end": 41,
+          "source_sha256": "cfd9b51abd891f4bfa3c97e6ac9569895065d1ddec29ccda1776bb8563e641cc"
+        },
+        {
+          "path": "corpus/10_pattern/07_restraint.md",
+          "anchor": "03-the-power-of-held-motion-expanded-mode",
+          "excerpt": "Power is not in the strike.  \nIt is in the ability  \n**to remain unspent**.",
+          "block_id": "pattern_07#03-the-power-of-held-motion-expanded-mode",
+          "line_start": 167,
+          "line_end": 169,
+          "source_sha256": "cfd9b51abd891f4bfa3c97e6ac9569895065d1ddec29ccda1776bb8563e641cc"
+        },
+        {
+          "path": "corpus/24_correction/06_press.md",
+          "anchor": "07-force-is-not-the-opposite-of-form",
+          "excerpt": "AXIOMA applies pressure  \nnot to crush,  \nbut to locate form’s edge.",
+          "block_id": "correction_06#07-force-is-not-the-opposite-of-form",
+          "line_start": 471,
+          "line_end": 473,
+          "source_sha256": "9924d18fbd90f7fda1706ccb1ebabdeac8676a210cd6c609c557097cd68a48fb"
+        }
+      ]
+    },
+    {
+      "source_id": "nullfield_06#13-the-sacred-function-of-the-crack",
+      "target_id": "memory_00#03-memory-is-not-record",
+      "relation": "constrains",
+      "rationale": "NULLFIELD gives the crack a capacity to evolve without erasing origin, and the husk a release without erasure. These images constrain an absolute reading of MEMORY's seal by holding origin and change together.",
+      "evidence": [
+        {
+          "path": "corpus/26_nullfield/06_crack.md",
+          "anchor": "13-the-sacred-function-of-the-crack",
+          "excerpt": "The crack holds  \nwhat perfection cannot:  \n**the ability  \nto evolve  \nwithout erasing origin.**",
+          "block_id": "nullfield_06#13-the-sacred-function-of-the-crack",
+          "line_start": 937,
+          "line_end": 941,
+          "source_sha256": "904006ad32a80b529e2c7e33a4afffc96c573fe2b7445348825ce5ace3c31de1"
+        },
+        {
+          "path": "corpus/26_nullfield/10_shuck.md",
+          "anchor": "05-the-beautiful-husk",
+          "excerpt": "That release  \ndoesn’t mean erasure.  \nIt can mean presence  \n**without purpose  \nstill holding shape.**",
+          "block_id": "nullfield_10#05-the-beautiful-husk",
+          "line_start": 343,
+          "line_end": 347,
+          "source_sha256": "fb05510e6dd651880e4d3768801e96407df22a887e4faaf41545cea5559c41e5"
+        },
+        {
+          "path": "corpus/20_memory/00_readme.md",
+          "anchor": "03-memory-is-not-record",
+          "excerpt": "This is not archive.  \nThis is not documentation.  \nThis is the anti-record:  \nsealed presence  \nin which loss is unconstructable.",
+          "block_id": "memory_00#03-memory-is-not-record",
+          "line_start": 287,
+          "line_end": 291,
+          "source_sha256": "46469f97ef53fb45d9d0732c41a61848a6ac120b1f3d02729d3b4b239cf69390"
+        }
+      ]
+    }
+  ]
+}

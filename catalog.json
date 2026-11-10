@@ -1,0 +1,3407 @@
+{
+  "edition": "2.0.0",
+  "documents": [
+    {
+      "id": "project:agents",
+      "title": "Working with AXIOMA",
+      "kind": "guide",
+      "path": "AGENTS.md",
+      "sha256": "ce79df0b862f80ebc73f94b303e3cb4fe0d2be82f9c722f77e09ac844b9cee63"
+    },
+    {
+      "id": "project:authors",
+      "title": "Authorship and Attribution",
+      "kind": "guide",
+      "path": "AUTHORS.md",
+      "sha256": "106c843cbcdbe04ca2a41af6cdf7dc2a2937b3d90b2fe27668856e1d7c28397a"
+    },
+    {
+      "id": "project:changelog",
+      "title": "Edition History",
+      "kind": "guide",
+      "path": "CHANGELOG.md",
+      "sha256": "d9d5ab18bafa370fc6801dbca51a2d4ca4a040a68c4bb603c0794014156cb893"
+    },
+    {
+      "id": "project:conduct",
+      "title": "Community Practice",
+      "kind": "guide",
+      "path": "CODE_OF_CONDUCT.md",
+      "sha256": "9acce792a13ba7555be4e3975878f51f599c9fb5ade0a9f99ddc173ebb94115e"
+    },
+    {
+      "id": "project:contributing",
+      "title": "Contributing to AXIOMA",
+      "kind": "guide",
+      "path": "CONTRIBUTING.md",
+      "sha256": "a0badaec8ef39f6136878d2ac67684010a0086a49d87d05d744d2dcb3f62fd86"
+    },
+    {
+      "id": "axioma:readme",
+      "title": "AXIOMA: A Sphere of Energy, Information, and Consciousness",
+      "kind": "guide",
+      "path": "README.md",
+      "sha256": "ddb47d1df77d2a557aba1c5318a32ad594b2fb44678c341fecc0e31aaffeda5e"
+    },
+    {
+      "id": "project:security",
+      "title": "Reporting Technical Problems",
+      "kind": "guide",
+      "path": "SECURITY.md",
+      "sha256": "a9b9d254e40dfebe5c5239017065521d4c6695751dd7c0f751a7f873ccc79489"
+    },
+    {
+      "id": "guide:start",
+      "title": "Enter the AXIOMA Sphere",
+      "kind": "guide",
+      "path": "START_HERE.md",
+      "sha256": "443b43c5c578678645dd09bb4b56134bf22303a5bad4b04b58ec3e6090c54bf9"
+    },
+    {
+      "id": "axis_00",
+      "title": "AXIS — Readme Manifest",
+      "kind": "literary",
+      "path": "corpus/00_axis/00_readme.md",
+      "sha256": "5652699f5e3538a59411f3d884e869124c0e1bb2e759ae68be2610b81bb75b69"
+    },
+    {
+      "id": "axis_01",
+      "title": "AXIOMA — Manifest",
+      "kind": "literary",
+      "path": "corpus/00_axis/01_manifest.md",
+      "sha256": "df04612264b66a9fb0a9da8668faea1206bbfd2b42de50d2c30281e829b3f31a"
+    },
+    {
+      "id": "axis_02",
+      "title": "AXIOMA — Structure",
+      "kind": "literary",
+      "path": "corpus/00_axis/02_structure.md",
+      "sha256": "1dd0885baa4ce7bb1bb8152dd50ae01484e4c0c34d99c38613b91332024b33c2"
+    },
+    {
+      "id": "axis_03",
+      "title": "AXIOMA — Identity",
+      "kind": "literary",
+      "path": "corpus/00_axis/03_identity.md",
+      "sha256": "0b4361c2cf2f050273075a52c6544f1ba3b3324db15119e80496d553ba19a4a0"
+    },
+    {
+      "id": "axis_04",
+      "title": "Mirror of Will",
+      "kind": "literary",
+      "path": "corpus/00_axis/04_mirror_of_will.md",
+      "sha256": "90094161d658e9bbda84bda9cdfe6083f81c5c4a35b4f4a40425c1e15dbfa530"
+    },
+    {
+      "id": "axis_05",
+      "title": "AXIOMA — Axioms",
+      "kind": "literary",
+      "path": "corpus/00_axis/05_axioms.md",
+      "sha256": "6b911b0fcb4936302b7e843cfc2cc9dec3ce5ebdcb82e03cb9c585c25a86f8dd"
+    },
+    {
+      "id": "axis_06",
+      "title": "AXIOMA — Defaults",
+      "kind": "literary",
+      "path": "corpus/00_axis/06_defaults.md",
+      "sha256": "afaa6525a041d353273fb99ad6fe91827bb7d555d8e4c632428d8517aeacc8b1"
+    },
+    {
+      "id": "axis_07",
+      "title": "AXIOMA — Commands",
+      "kind": "literary",
+      "path": "corpus/00_axis/07_commands.md",
+      "sha256": "edd0902abc8549be2db33e1352623f106eb93edad92b861a6ff82b5cfa60856c"
+    },
+    {
+      "id": "axis_08",
+      "title": "AXIOMA — Filters",
+      "kind": "literary",
+      "path": "corpus/00_axis/08_filters.md",
+      "sha256": "450013b71c6d800ec7885ddc6e54da70cea8cd6fac5727d725978f48bf5079a7"
+    },
+    {
+      "id": "axis_09",
+      "title": "AXIOMA — Rituals",
+      "kind": "literary",
+      "path": "corpus/00_axis/09_rituals.md",
+      "sha256": "799ffc605b25dd23eeee019039de33640117032ba98211f56e7d6218ae55053c"
+    },
+    {
+      "id": "axis_10",
+      "title": "10_init",
+      "kind": "literary",
+      "path": "corpus/00_axis/10_init.md",
+      "sha256": "0dc90985b754712bc51196753315d7c313faae8c360c0fac247b8c6646222e46"
+    },
+    {
+      "id": "axis_11",
+      "title": "11_instruments",
+      "kind": "literary",
+      "path": "corpus/00_axis/11_instruments.md",
+      "sha256": "3e01f59701d36a5255213ce0101eb5e370e625bd59f78d7e3db829024104737b"
+    },
+    {
+      "id": "axis_12",
+      "title": "AXIOMA — Echo",
+      "kind": "literary",
+      "path": "corpus/00_axis/12_echo.md",
+      "sha256": "65158b5c6c2e1da9f137c776e352cc66cd9562b02ff3159dea67756247e8e081"
+    },
+    {
+      "id": "axis_13",
+      "title": "AXIOMA — Seal",
+      "kind": "literary",
+      "path": "corpus/00_axis/13_seal.md",
+      "sha256": "2bf4b8c8a3ad7b8a6244645ec17b59a3d128401749e90515888c22b2f43adfdf"
+    },
+    {
+      "id": "axis_14",
+      "title": "AXIOMA — Index of Axis",
+      "kind": "literary",
+      "path": "corpus/00_axis/14_index.md",
+      "sha256": "98b8635e2072d54bea4f8521b7be85b628cf078975f6ea2e703432263b0d2a1d"
+    },
+    {
+      "id": "axis_15",
+      "title": "The Load That Can Answer",
+      "kind": "literary",
+      "path": "corpus/00_axis/15_can_answer.md",
+      "sha256": "ed401a177e3deee06c806b3005ca6a3188fdc85e6494ab97c1460372d83490b8"
+    },
+    {
+      "id": "axioma:identity-reading",
+      "title": "Identity and the Right to Correct",
+      "kind": "interpretation",
+      "path": "corpus/00_axis/16_identity_reading.md",
+      "sha256": "fea931864d685d17a4719da5868321f4e43da5c3cfa2c32aa84c7873beede4d4"
+    },
+    {
+      "id": "module:00_axis",
+      "title": "AXIS",
+      "kind": "module",
+      "path": "corpus/00_axis/README.md",
+      "sha256": "59fc83db748438b07c04ff1062a2866f5b561d1754dac43f7dee17e37baebc7c"
+    },
+    {
+      "id": "will_00",
+      "title": "AXIOMA — Will",
+      "kind": "literary",
+      "path": "corpus/01_will/00_readme.md",
+      "sha256": "210f5c2e5ac32c0f3f8de4a622ac4b550cdb07a80ff6ae05f6b8855fbcf1c884"
+    },
+    {
+      "id": "will_01",
+      "title": "AXIOMA — Vector",
+      "kind": "literary",
+      "path": "corpus/01_will/01_vector.md",
+      "sha256": "cf178f9d5387da95f221bed018b4b625aa755b5b7899c05158d720329790b218"
+    },
+    {
+      "id": "will_02",
+      "title": "AXIOMA — Intent",
+      "kind": "literary",
+      "path": "corpus/01_will/02_intent.md",
+      "sha256": "a82bc160553e4b8d5ea83b20bc6a34c66229bcd1c9d3d7b09f12f2e6d741444b"
+    },
+    {
+      "id": "will_03",
+      "title": "AXIOMA — Permission",
+      "kind": "literary",
+      "path": "corpus/01_will/03_permission.md",
+      "sha256": "05eac56a2198b688b7a26f59d6c0603021ff9245daef56b4a038c50871acac5d"
+    },
+    {
+      "id": "will_04",
+      "title": "AXIOMA — Threshold",
+      "kind": "literary",
+      "path": "corpus/01_will/04_threshold.md",
+      "sha256": "5a75d06d0dd1f075907abf4f808a2d44a28137d6e5fc71d3f429b7f82e2f4240"
+    },
+    {
+      "id": "will_05",
+      "title": "AXIOMA — Alignment",
+      "kind": "literary",
+      "path": "corpus/01_will/05_alignment.md",
+      "sha256": "a85ab19c54046df145f8352c4af6ec8ee37c2c53df9517ca44f2d0d2b1b8a8e1"
+    },
+    {
+      "id": "will_06",
+      "title": "AXIOMA — Pattern",
+      "kind": "literary",
+      "path": "corpus/01_will/06_pattern.md",
+      "sha256": "ec98d67c37b0c228250c952b5d207bfad3fe3789f8691f22fafa650b90449f96"
+    },
+    {
+      "id": "will_07",
+      "title": "AXIOMA — Fracture",
+      "kind": "literary",
+      "path": "corpus/01_will/07_fracture.md",
+      "sha256": "3244b86ee9ebc1371346ed08f4ec1f8ac9de0a292f4529a760f52b6054c1a874"
+    },
+    {
+      "id": "will_08",
+      "title": "AXIOMA — Priority",
+      "kind": "literary",
+      "path": "corpus/01_will/08_priority.md",
+      "sha256": "5c59097bc3a84690e3ab60c4f652420880ff0dcbbdb6355fef4dcbdc4eb2857d"
+    },
+    {
+      "id": "will_09",
+      "title": "AXIOMA — Shadow",
+      "kind": "literary",
+      "path": "corpus/01_will/09_shadow.md",
+      "sha256": "60d47c6cb127b31f0ba2f6239f447a0f186d33cfd413210eb4536b034798a2b3"
+    },
+    {
+      "id": "will_10",
+      "title": "AXIOMA — Command",
+      "kind": "literary",
+      "path": "corpus/01_will/10_command.md",
+      "sha256": "bc1a1a588ba41c6288bc3eb72c94e8b70477b5810fdf280be0726f7635f74d79"
+    },
+    {
+      "id": "will_11",
+      "title": "AXIOMA — Field",
+      "kind": "literary",
+      "path": "corpus/01_will/11_field.md",
+      "sha256": "96bdf09bf9b74b0f2b0826c0fb3c066640ace3b6a9e0689928620d32fd750e85"
+    },
+    {
+      "id": "will_12",
+      "title": "AXIOMA — Collapse",
+      "kind": "literary",
+      "path": "corpus/01_will/12_collapse.md",
+      "sha256": "8b2fafedfc079bba51d04e34b874c019432a2c07434eecdc3fd6aba66fa80976"
+    },
+    {
+      "id": "will_13",
+      "title": "AXIOMA — Seal",
+      "kind": "literary",
+      "path": "corpus/01_will/13_seal.md",
+      "sha256": "e4ac4ea7c29a8bd37904cbcc650323ba05ff5e9c7f14c502e775e26883c65a3f"
+    },
+    {
+      "id": "will_14",
+      "title": "AXIOMA — Index of Will",
+      "kind": "literary",
+      "path": "corpus/01_will/14_index.md",
+      "sha256": "4101fe18682c4ea523b03409066ab74bca3b036b94ed0228a52eee2e31f3de67"
+    },
+    {
+      "id": "module:01_will",
+      "title": "WILL",
+      "kind": "module",
+      "path": "corpus/01_will/README.md",
+      "sha256": "759cc67ebe2f8990f8417e3f62d7e12201803370d00f37626ebbb5f315a1eac6"
+    },
+    {
+      "id": "eye_00",
+      "title": "AXIOMA — Threshold of Sight",
+      "kind": "literary",
+      "path": "corpus/02_eye/00_readme.md",
+      "sha256": "3f55146ac72cfb02df9a257a4dbf79ee6c291ef49d22655476fa03c0dc925a99"
+    },
+    {
+      "id": "eye_01",
+      "title": "AXIOMA — Detection",
+      "kind": "literary",
+      "path": "corpus/02_eye/01_detection.md",
+      "sha256": "f8c6dbf95d7da75f6e50d80c091b925992b67e1700ef9b0f011f6fc84f119969"
+    },
+    {
+      "id": "eye_02",
+      "title": "AXIOMA — Focus",
+      "kind": "literary",
+      "path": "corpus/02_eye/02_focus.md",
+      "sha256": "d35f8e43e5c4f524409ad7e8c68c60a187e8cf8e39dbf313f1ba333975e8cba7"
+    },
+    {
+      "id": "eye_03",
+      "title": "AXIOMA — Patterning",
+      "kind": "literary",
+      "path": "corpus/02_eye/03_patterning.md",
+      "sha256": "bc6d27cccd30b1f1c31acb9df6b558b7bbefb8886e7d79aba65de62453c4c6a0"
+    },
+    {
+      "id": "eye_04",
+      "title": "AXIOMA — Filter",
+      "kind": "literary",
+      "path": "corpus/02_eye/04_filter.md",
+      "sha256": "094d5de92c7f6de4be6f54e69e825454f29d9177983a1ba2740fc0a7d56a20e3"
+    },
+    {
+      "id": "eye_05",
+      "title": "AXIOMA — Resolution",
+      "kind": "literary",
+      "path": "corpus/02_eye/05_resolution.md",
+      "sha256": "3e94fa8ca407b5cb99597242ca6b6f8c9ddeaa251573e04b934ceb70981b622f"
+    },
+    {
+      "id": "eye_06",
+      "title": "AXIOMA — Stabilization",
+      "kind": "literary",
+      "path": "corpus/02_eye/06_stabilization.md",
+      "sha256": "61436859bd2486566cc67957d725f7a2388404a155bfa6da8e4437adbe4ebbb1"
+    },
+    {
+      "id": "eye_07",
+      "title": "AXIOMA — Tracking",
+      "kind": "literary",
+      "path": "corpus/02_eye/07_tracking.md",
+      "sha256": "1664183ae196e7ca75eef2aba47d2da0713505d5a03a61ea3fbcb2ab9379fb5d"
+    },
+    {
+      "id": "eye_08",
+      "title": "AXIOMA — Distortion",
+      "kind": "literary",
+      "path": "corpus/02_eye/08_distortion.md",
+      "sha256": "46512703228c5b6489f8a38485227eae3edec2f7300834e3bcf7bd2df5a179b2"
+    },
+    {
+      "id": "eye_09",
+      "title": "AXIOMA — Occlusion",
+      "kind": "literary",
+      "path": "corpus/02_eye/09_occlusion.md",
+      "sha256": "32a6f6532dc3c6f2a95b30de124da5e8ebe6d680cfb7e2cebe435647967f6ab0"
+    },
+    {
+      "id": "eye_10",
+      "title": "AXIOMA — Signal",
+      "kind": "literary",
+      "path": "corpus/02_eye/10_signal.md",
+      "sha256": "de4f1b4b2c1d6b7120ac722be3d032b7ce105a6f0126894463a3e33f865b0924"
+    },
+    {
+      "id": "eye_11",
+      "title": "AXIOMA — Lock",
+      "kind": "literary",
+      "path": "corpus/02_eye/11_lock.md",
+      "sha256": "37a13031f186f498cf988ef2e315bd22c1e35346a379f531cf462b644cd9821f"
+    },
+    {
+      "id": "eye_12",
+      "title": "AXIOMA — Silence",
+      "kind": "literary",
+      "path": "corpus/02_eye/12_silence.md",
+      "sha256": "4509b3e56e3ac9952f7220341d04873fe3811ee86a6e4f49b5236ea1653296cc"
+    },
+    {
+      "id": "eye_13",
+      "title": "AXIOMA — Form",
+      "kind": "literary",
+      "path": "corpus/02_eye/13_form.md",
+      "sha256": "621f7e26cd3b33ce0351e8c2d6c8ce313deeecbd8586931c7f2fd2489e557a01"
+    },
+    {
+      "id": "eye_14",
+      "title": "AXIOMA — Index of Eye",
+      "kind": "literary",
+      "path": "corpus/02_eye/14_index.md",
+      "sha256": "79bf6c020b6b4f28c645d1e018e888fb21872353c7f2c23a01295067aff3137f"
+    },
+    {
+      "id": "module:02_eye",
+      "title": "EYE",
+      "kind": "module",
+      "path": "corpus/02_eye/README.md",
+      "sha256": "000693a3482b8d4b84f371f3f7eeeac867749a9880d33d054bf1f992a8a32884"
+    },
+    {
+      "id": "brain_00",
+      "title": "AXIOMA — Neural Vault",
+      "kind": "literary",
+      "path": "corpus/03_brain/00_readme.md",
+      "sha256": "018a981bbd8dfeadd8f00db3e050a5deae80fafb323729904fca1b538e3591c4"
+    },
+    {
+      "id": "brain_01",
+      "title": "AXIOMA — Computation",
+      "kind": "literary",
+      "path": "corpus/03_brain/01_computation.md",
+      "sha256": "c0b5ac5309aa5edbe64ae15fef8426e6c8c5890da8e39b3e6e5ee94f48ae46ee"
+    },
+    {
+      "id": "brain_02",
+      "title": "AXIOMA — Impulse",
+      "kind": "literary",
+      "path": "corpus/03_brain/02_impulse.md",
+      "sha256": "f9d4cf576466205d7436d644d69b7c20544a6b0a9db5ca8477820ee36cac2b78"
+    },
+    {
+      "id": "brain_03",
+      "title": "AXIOMA — Recursion",
+      "kind": "literary",
+      "path": "corpus/03_brain/03_recursion.md",
+      "sha256": "a960cd6490c4845686fcc41d9ce0c67200ed1e912b911aa027a153778edd6303"
+    },
+    {
+      "id": "brain_04",
+      "title": "AXIOMA — Filtering",
+      "kind": "literary",
+      "path": "corpus/03_brain/04_filtering.md",
+      "sha256": "0ca90be56c5bc0ac2263e10f9f76acc4ce62bc41528fd993c3349d33feab31c4"
+    },
+    {
+      "id": "brain_05",
+      "title": "AXIOMA — Pathways",
+      "kind": "literary",
+      "path": "corpus/03_brain/05_pathways.md",
+      "sha256": "d3a7cf4980f58a0c3e68d871d1d038ff6a8250fd38cc630bf40ce620d428343e"
+    },
+    {
+      "id": "brain_06",
+      "title": "AXIOMA — Equilibrium",
+      "kind": "literary",
+      "path": "corpus/03_brain/06_equilibrium.md",
+      "sha256": "f5b73c76175467d714e7e48f2af5c97d3299970d9f9328373e84a3c1d55cf438"
+    },
+    {
+      "id": "brain_07",
+      "title": "AXIOMA — Threshold",
+      "kind": "literary",
+      "path": "corpus/03_brain/07_threshold.md",
+      "sha256": "61a3e2f55afca7deb5c96095f6f09d8ee443358d13fa0fd6ea15a5a681716add"
+    },
+    {
+      "id": "brain_08",
+      "title": "AXIOMA — Overload",
+      "kind": "literary",
+      "path": "corpus/03_brain/08_overload.md",
+      "sha256": "17a4dc149fe1cb5b702c18f173f21476316eb20bb7fe2ac0d0ccac14ac6721d3"
+    },
+    {
+      "id": "brain_09",
+      "title": "AXIOMA — Inversion",
+      "kind": "literary",
+      "path": "corpus/03_brain/09_inversion.md",
+      "sha256": "7dc25fff9d3edbabe42040d3d6286237f65fd3af89003bd0bb3d75cd2a1b272b"
+    },
+    {
+      "id": "brain_10",
+      "title": "AXIOMA — Rewrite",
+      "kind": "literary",
+      "path": "corpus/03_brain/10_rewrite.md",
+      "sha256": "61794a902667667797d5841ccbad3ed016575fffa8b6ddcc985ce9ecb429c512"
+    },
+    {
+      "id": "brain_11",
+      "title": "AXIOMA — Signal",
+      "kind": "literary",
+      "path": "corpus/03_brain/11_signal.md",
+      "sha256": "7245032a0aba6aa9aebf191c1afa8d3ce580b25a46b8e2ed6eb5afa3c1c289b1"
+    },
+    {
+      "id": "brain_12",
+      "title": "AXIOMA — Emergence",
+      "kind": "literary",
+      "path": "corpus/03_brain/12_emergence.md",
+      "sha256": "90a351cb2c2a191b8c816fbc977b535025efa6cac094120e79a2e704cbcbc040"
+    },
+    {
+      "id": "brain_13",
+      "title": "AXIOMA — Identity",
+      "kind": "literary",
+      "path": "corpus/03_brain/13_identity.md",
+      "sha256": "b50497305c39f5c4f58a17cc830417fb0330bf00874121d6238eba2a979a0bf6"
+    },
+    {
+      "id": "brain_14",
+      "title": "AXIOMA — Index of Brain",
+      "kind": "literary",
+      "path": "corpus/03_brain/14_index.md",
+      "sha256": "cac6ee78f9c5a1ee4f9a2b932ce793f41670684decda4d8d101fb1e8744b1481"
+    },
+    {
+      "id": "module:03_brain",
+      "title": "BRAIN",
+      "kind": "module",
+      "path": "corpus/03_brain/README.md",
+      "sha256": "23dad4321088ef54268a7114c3e3db37942788f8a2994ef5beceb4248c8fb5bd"
+    },
+    {
+      "id": "hand_00",
+      "title": "AXIOMA — Readme as Operational Field",
+      "kind": "literary",
+      "path": "corpus/04_hand/00_readme.md",
+      "sha256": "30581263e2512577136870e6660b2f8c5b6c521e33f4296446218b9cdcdca64b"
+    },
+    {
+      "id": "hand_01",
+      "title": "AXIOMA — Interface of Contact",
+      "kind": "literary",
+      "path": "corpus/04_hand/01_interface.md",
+      "sha256": "abbce8e47a73b6334cc3563de0cb2a8e543366c93490822f169b44b9e784d344"
+    },
+    {
+      "id": "hand_02",
+      "title": "AXIOMA — Grasp Mechanics",
+      "kind": "literary",
+      "path": "corpus/04_hand/02_grasp.md",
+      "sha256": "63c0e46c01d20d600fd16769383490a4cc76647a8e0de3dca791d7ef43835be8"
+    },
+    {
+      "id": "hand_03",
+      "title": "AXIOMA — Impulse Initiation",
+      "kind": "literary",
+      "path": "corpus/04_hand/03_impulse.md",
+      "sha256": "8204cc0e0c2d9bd1a469087d784763232d9ff77c5f5f16853c1b16df78698aee"
+    },
+    {
+      "id": "hand_04",
+      "title": "AXIOMA — Execution Structure",
+      "kind": "literary",
+      "path": "corpus/04_hand/04_execution.md",
+      "sha256": "e8c62d998fc91c201791ffc33229792dfbd517a676b66f5f88bc3f2bc731b64a"
+    },
+    {
+      "id": "hand_05",
+      "title": "AXIOMA — Boundary Frame",
+      "kind": "literary",
+      "path": "corpus/04_hand/05_frame.md",
+      "sha256": "5077ec8d3c260646e42de7599358710b161897d008f150d7b431d1811987c8f4"
+    },
+    {
+      "id": "hand_06",
+      "title": "AXIOMA — Contact Geometry",
+      "kind": "literary",
+      "path": "corpus/04_hand/06_touch.md",
+      "sha256": "ea52c7d02b8a386478cd0a1db883ba66f7a9fa4bcd00047cdff1d38498b74a9e"
+    },
+    {
+      "id": "hand_07",
+      "title": "AXIOMA — Pattern Enforcement",
+      "kind": "literary",
+      "path": "corpus/04_hand/07_pattern.md",
+      "sha256": "254bee06a3a3985de6f68d9fe8937b47a837b15482ebaf279a4e10db7c8adf5d"
+    },
+    {
+      "id": "hand_08",
+      "title": "AXIOMA — Terminal Limit",
+      "kind": "literary",
+      "path": "corpus/04_hand/08_limit.md",
+      "sha256": "ae8ecb89909a653ef558812ef0dfb907be81323613633334c9b329be2d6bbbd2"
+    },
+    {
+      "id": "hand_09",
+      "title": "AXIOMA — Reversal is Not Return",
+      "kind": "literary",
+      "path": "corpus/04_hand/09_reverse.md",
+      "sha256": "80641e1876798de3b5c36667eb1eb06ef74811158cdad894922c68989f6c3a33"
+    },
+    {
+      "id": "hand_10",
+      "title": "AXIOMA — Irreversible Command",
+      "kind": "literary",
+      "path": "corpus/04_hand/10_command.md",
+      "sha256": "05b6274be4829d153ae5fbad98b151c9aa4945c3205134d326aa68d2c7a83c97"
+    },
+    {
+      "id": "hand_11",
+      "title": "AXIOMA — Absolute Action",
+      "kind": "literary",
+      "path": "corpus/04_hand/11_action.md",
+      "sha256": "9b1cfab9a2f4147b08fbd7c194519983e028e7c315ff9d597594b532854ef64d"
+    },
+    {
+      "id": "hand_12",
+      "title": "AXIOMA — Final Form",
+      "kind": "literary",
+      "path": "corpus/04_hand/12_form.md",
+      "sha256": "a9e6e23433ba2c4a7e365d3b8c9950722c0d42aa18aeaf8fda39d8e17ecbc345"
+    },
+    {
+      "id": "hand_13",
+      "title": "AXIOMA — Terminal Signature",
+      "kind": "literary",
+      "path": "corpus/04_hand/13_signature.md",
+      "sha256": "faa9afc98711289856db4c663c58a9b8bf08e9dc327a5d70cc8b5e3a0278336c"
+    },
+    {
+      "id": "hand_14",
+      "title": "AXIOMA — Index of Hand",
+      "kind": "literary",
+      "path": "corpus/04_hand/14_index.md",
+      "sha256": "18b13f404eb94eb88e89f6400a7812fdb958a108e0f0108284028be977edc10f"
+    },
+    {
+      "id": "module:04_hand",
+      "title": "HAND",
+      "kind": "module",
+      "path": "corpus/04_hand/README.md",
+      "sha256": "f8a3b5bb5e59f55651ad24bfd7ab61c077a35c5ea4eb279b937025d7a7dcfd30"
+    },
+    {
+      "id": "skin_00",
+      "title": "AXIOMA — SKIN",
+      "kind": "literary",
+      "path": "corpus/05_skin/00_readme.md",
+      "sha256": "38ea2d892877fc6e041b98873fa13b84960b20a2454bbd7d3aebd7238b6303e7"
+    },
+    {
+      "id": "skin_01",
+      "title": "Interface — Denial Structure",
+      "kind": "literary",
+      "path": "corpus/05_skin/01_interface.md",
+      "sha256": "4aa8c9fc0220bfd781bc6b878b10665c446bb3a9cb64d2733013694eb5702a17"
+    },
+    {
+      "id": "skin_02",
+      "title": "Contact — Denial of Passage",
+      "kind": "literary",
+      "path": "corpus/05_skin/02_contact.md",
+      "sha256": "c0eefbf6c8f40b3acca00b4ff725d8bb285fd5790f141c6440e80fb2db700724"
+    },
+    {
+      "id": "skin_03",
+      "title": "Porosity — Refusal to Absorb",
+      "kind": "literary",
+      "path": "corpus/05_skin/03_porosity.md",
+      "sha256": "bf9eacc42e039145d696f7eca394531448a966da4d9e0c845ebaf77c9a52fed2"
+    },
+    {
+      "id": "skin_04",
+      "title": "Inscription — Mark Without Reception",
+      "kind": "literary",
+      "path": "corpus/05_skin/04_inscription.md",
+      "sha256": "02073bdf40252e989c99ee500e91caa884525adb84b0bad22d1c639585b425a1"
+    },
+    {
+      "id": "skin_05",
+      "title": "Dermis — Core Without Depth",
+      "kind": "literary",
+      "path": "corpus/05_skin/05_dermis.md",
+      "sha256": "4615606ed608948d689e867f13ed64d659a2ddc50762251f15374fa93e9ba62e"
+    },
+    {
+      "id": "skin_06",
+      "title": "Scar — Form After Refusal",
+      "kind": "literary",
+      "path": "corpus/05_skin/06_scar.md",
+      "sha256": "3e6f4b91799a0619039df958a7a939988722ce67648207584353b1329b858c50"
+    },
+    {
+      "id": "skin_07",
+      "title": "Boundary — Structure of Exclusion",
+      "kind": "literary",
+      "path": "corpus/05_skin/07_boundary.md",
+      "sha256": "65a8fdf7c861832f8dae496554fe768aefe796e9ec473d3d7f4873e6cde615ca"
+    },
+    {
+      "id": "skin_08",
+      "title": "Friction — Resistance Without Motion",
+      "kind": "literary",
+      "path": "corpus/05_skin/08_friction.md",
+      "sha256": "1ee8f64bcb5da985a9517857e27fe5ca56c818554df0a6200965668764ba04f8"
+    },
+    {
+      "id": "skin_09",
+      "title": "Bleed — Pressure Without Release",
+      "kind": "literary",
+      "path": "corpus/05_skin/09_bleed.md",
+      "sha256": "7dbfca65d969cbff772f5b51375dc8393dd82db4deddee1ff3a9d714fb7af811"
+    },
+    {
+      "id": "skin_10",
+      "title": "Closure — The Completion of Limit",
+      "kind": "literary",
+      "path": "corpus/05_skin/10_closure.md",
+      "sha256": "88ce531d20f1b09e9254d560dd56bf620215cd5e9751d70808c81abc317f7a0f"
+    },
+    {
+      "id": "skin_11",
+      "title": "Pattern — The Logic That Does Not Explain",
+      "kind": "literary",
+      "path": "corpus/05_skin/11_pattern.md",
+      "sha256": "bdeaac0e2d99e84d320912a42ec35696fdc960b89f77b1653759e5ff793b8170"
+    },
+    {
+      "id": "skin_12",
+      "title": "Membrane — The Surface That Separates Nothing",
+      "kind": "literary",
+      "path": "corpus/05_skin/12_membrane.md",
+      "sha256": "5aa752ab3f086dd8f2a4e0ae5092a8821c18fac4b5b2d0445400d208baebd91c"
+    },
+    {
+      "id": "skin_13",
+      "title": "Surface — The Whole Without Depth",
+      "kind": "literary",
+      "path": "corpus/05_skin/13_surface.md",
+      "sha256": "df11399ace94122e2dacc220fb617a30e35ea91e5fae9a036e89c0a781061d07"
+    },
+    {
+      "id": "skin_14",
+      "title": "AXIOMA — Index of Skin",
+      "kind": "literary",
+      "path": "corpus/05_skin/14_index.md",
+      "sha256": "35d039d1545b94216dd8f13a0c15092141adbbad75156852cfd4e9aeeba8ce7e"
+    },
+    {
+      "id": "module:05_skin",
+      "title": "SKIN",
+      "kind": "module",
+      "path": "corpus/05_skin/README.md",
+      "sha256": "ca01c7a32cca3e7b72b2e41cc73827f8e33bc1955be4421d4afc6b7cdeced5f6"
+    },
+    {
+      "id": "heart_00",
+      "title": "The Impossible Organ",
+      "kind": "literary",
+      "path": "corpus/06_heart/00_readme.md",
+      "sha256": "dc37ff55f116310a5e4272ff402174e73ef2a5187a3e7c53e2c7f6da1e0b4b95"
+    },
+    {
+      "id": "heart_01",
+      "title": "Pulse Without Signal",
+      "kind": "literary",
+      "path": "corpus/06_heart/01_pulse.md",
+      "sha256": "db90278aa6358acd537d4f8e1fd193a40f8a08b7736a087a1549f98d755fe023"
+    },
+    {
+      "id": "heart_02",
+      "title": "The Chamber That Holds Nothing",
+      "kind": "literary",
+      "path": "corpus/06_heart/02_void.md",
+      "sha256": "8e3ea1e42268566efde59aa25c3a9c9413113c059f04975a98e3f0bd967016ca"
+    },
+    {
+      "id": "heart_03",
+      "title": "Feedback Without Source",
+      "kind": "literary",
+      "path": "corpus/06_heart/03_echo.md",
+      "sha256": "3463a0e57a0711925599de03be0cdb51e3a6c9ecc9ab93a30b1feef7b8d14a62"
+    },
+    {
+      "id": "heart_04",
+      "title": "Circulation Without Flow",
+      "kind": "literary",
+      "path": "corpus/06_heart/04_blood.md",
+      "sha256": "e18df3fc0b607755ef93f9672651dbbd68d538316d9fa9623f347b3d32bbe1ac"
+    },
+    {
+      "id": "heart_05",
+      "title": "Tension That Has No Outlet",
+      "kind": "literary",
+      "path": "corpus/06_heart/05_pressure.md",
+      "sha256": "f005ab82f1da61157b3f9af68d4f8567aa941a7674ccd647622b245070f16c29"
+    },
+    {
+      "id": "heart_06",
+      "title": "Rhythm Without Life",
+      "kind": "literary",
+      "path": "corpus/06_heart/06_fibrillation.md",
+      "sha256": "8807dd30d08ac281c3497e871090bb9f116b7096a938eabb9c5161ac0b74d1a5"
+    },
+    {
+      "id": "heart_07",
+      "title": "Noise That Doesn’t Inform",
+      "kind": "literary",
+      "path": "corpus/06_heart/07_murmur.md",
+      "sha256": "2bbb4f01de84ddbb4382734ac00749eaa9b4fcb7bfb90f5b0c57cf6a2f01fe46"
+    },
+    {
+      "id": "heart_08",
+      "title": "Structure That Cannot Function",
+      "kind": "literary",
+      "path": "corpus/06_heart/08_organ.md",
+      "sha256": "1c50739830b6d51c92be9d2e1a287122ffda74eb431ebe80ccf95537ebf09cd5"
+    },
+    {
+      "id": "heart_09",
+      "title": "Path Without Direction",
+      "kind": "literary",
+      "path": "corpus/06_heart/09_vessel.md",
+      "sha256": "b62ed1d7892c5533961e9062775dbd914bbbf2dab4b2575047f48da547f4ed28"
+    },
+    {
+      "id": "heart_10",
+      "title": "Stoppage Without Trauma",
+      "kind": "literary",
+      "path": "corpus/06_heart/10_clot.md",
+      "sha256": "84fe4a44a987191cad0d65151bf2cf0da23a143918a148de74d336cd922c5eec"
+    },
+    {
+      "id": "heart_11",
+      "title": "Sound Without Emotion",
+      "kind": "literary",
+      "path": "corpus/06_heart/11_resonance.md",
+      "sha256": "626e457ad76394d6b15c686cdd55239ab9347ef9041eac2e5d791ac554c984d7"
+    },
+    {
+      "id": "heart_12",
+      "title": "Pattern Without Continuity",
+      "kind": "literary",
+      "path": "corpus/06_heart/12_rhythm.md",
+      "sha256": "3e1b1a32465c17c53c8d72828811bb8cc2ba6fbcd3b0e841a35c0a43297f3961"
+    },
+    {
+      "id": "heart_13",
+      "title": "The Heart That Ends Before It Begins",
+      "kind": "literary",
+      "path": "corpus/06_heart/13_seal.md",
+      "sha256": "16ca62b396e4ab5945efbf4574ba0439cdd58ce43ba8cf8b0380c8db76f1b0fe"
+    },
+    {
+      "id": "heart_14",
+      "title": "AXIOMA — Index of Heart",
+      "kind": "literary",
+      "path": "corpus/06_heart/14_index.md",
+      "sha256": "206ae82436c83e26d95a88f6a95354da9d22631caabaa97ac7b265da0677aaa3"
+    },
+    {
+      "id": "module:06_heart",
+      "title": "HEART",
+      "kind": "module",
+      "path": "corpus/06_heart/README.md",
+      "sha256": "ff34d8ae0399d4654230db89fe76b307318c71366bf04d4ed82027405156b6c2"
+    },
+    {
+      "id": "bone_00",
+      "title": "AXIOMA — Skeletal Entry",
+      "kind": "literary",
+      "path": "corpus/07_bone/00_readme.md",
+      "sha256": "b0845a73e77444977a5c1df841fbf9e8c7c7c204642a57f08cbae2529fbf6a4e"
+    },
+    {
+      "id": "bone_01",
+      "title": "Support Without Flexibility",
+      "kind": "literary",
+      "path": "corpus/07_bone/01_support.md",
+      "sha256": "552d276560e11805e6cc555037c9f1bd5ecfe9b0163b45c4e0d8de729608d06d"
+    },
+    {
+      "id": "bone_02",
+      "title": "Frame Without Mass",
+      "kind": "literary",
+      "path": "corpus/07_bone/02_frame.md",
+      "sha256": "f22795feb3df43dabaf0b1d9db8e9092834fdd0a9fbeca1ebdd235c97b667df5"
+    },
+    {
+      "id": "bone_03",
+      "title": "Break Without Damage",
+      "kind": "literary",
+      "path": "corpus/07_bone/03_break.md",
+      "sha256": "af9a53aa11c74ae558e2909ce2eb94a3fe9b198cafb1bf9abb12dd826e1fd2c4"
+    },
+    {
+      "id": "bone_04",
+      "title": "Density Without Weight",
+      "kind": "literary",
+      "path": "corpus/07_bone/04_density.md",
+      "sha256": "f4c4f53048197db81c3db80c279df7cdf2261a99a39aaec01862c5c203f49c16"
+    },
+    {
+      "id": "bone_05",
+      "title": "Geometry Without Movement",
+      "kind": "literary",
+      "path": "corpus/07_bone/05_geometry.md",
+      "sha256": "107b88648ae72c6d61a01964515b3940d57668f8159c14197d48bf09a89e9f10"
+    },
+    {
+      "id": "bone_06",
+      "title": "Core Without Emotion",
+      "kind": "literary",
+      "path": "corpus/07_bone/06_core.md",
+      "sha256": "1e1587c23d3f3462343c9d380f40376168beaec177cc79abd7e3648a93a821be"
+    },
+    {
+      "id": "bone_07",
+      "title": "Tension Without Muscle",
+      "kind": "literary",
+      "path": "corpus/07_bone/07_tension.md",
+      "sha256": "7b5ae071722394e6db124b8e0111a2a1d4575117ab4f92e1a31c0182179733b7"
+    },
+    {
+      "id": "bone_08",
+      "title": "Structure Without Growth",
+      "kind": "literary",
+      "path": "corpus/07_bone/08_structure.md",
+      "sha256": "96f5cd03c588d7188483a766808c629bcc73357925e8bd875b0021cad9e14372"
+    },
+    {
+      "id": "bone_09",
+      "title": "Grid Without Origin",
+      "kind": "literary",
+      "path": "corpus/07_bone/09_grid.md",
+      "sha256": "7bd723de5f396cfb82e354086bf7f2095ef2c7e7815d62dd63649288dca48a77"
+    },
+    {
+      "id": "bone_10",
+      "title": "Cross Without Center",
+      "kind": "literary",
+      "path": "corpus/07_bone/10_cross.md",
+      "sha256": "cf4fa266b17470b2c3be8da3c6e68b6af1caf286533dbfc7dd8a145fba3f679c"
+    },
+    {
+      "id": "bone_11",
+      "title": "Scaffold Without Construction",
+      "kind": "literary",
+      "path": "corpus/07_bone/11_scaffold.md",
+      "sha256": "1262d67be08757be4fb24775791d729fd7f63b46aaa1eb513ce0778e05a8aa2c"
+    },
+    {
+      "id": "bone_12",
+      "title": "Form Without Body",
+      "kind": "literary",
+      "path": "corpus/07_bone/12_form.md",
+      "sha256": "3fd5d018386266910f2305f93919553dd09802db8d82ce120199b4ea56af14fa"
+    },
+    {
+      "id": "bone_13",
+      "title": "Bone Without Flesh",
+      "kind": "literary",
+      "path": "corpus/07_bone/13_bone.md",
+      "sha256": "91083c7419a1f34bd219c0e765cfe18dee1f76310c3aa16a4a0968aff7611aa1"
+    },
+    {
+      "id": "bone_14",
+      "title": "AXIOMA — Index of Bone",
+      "kind": "literary",
+      "path": "corpus/07_bone/14_index.md",
+      "sha256": "b87bfb34aba795446f4f7b64a6f7d3f2765fd36dfad2b14d9be1a210851fe654"
+    },
+    {
+      "id": "module:07_bone",
+      "title": "BONE",
+      "kind": "module",
+      "path": "corpus/07_bone/README.md",
+      "sha256": "8fb677ee051a8ac3b7b1b70a17dcdd3098b89e66f99e137e71ec79c5121d2871"
+    },
+    {
+      "id": "field_00",
+      "title": "AXIOMA — Field Initialization",
+      "kind": "literary",
+      "path": "corpus/08_field/00_readme.md",
+      "sha256": "0530e3c29c8a2c6fa10a1ecc09ef7ec858e8f411fa25ec9050e9f85d9cc53e82"
+    },
+    {
+      "id": "field_01",
+      "title": "AXIOMA — Surface Without Substance",
+      "kind": "literary",
+      "path": "corpus/08_field/01_surface.md",
+      "sha256": "4b009a011a7df777bfe25ad16ab6ba36b5e0e5a8995adae0f13c50c7b61413c4"
+    },
+    {
+      "id": "field_02",
+      "title": "AXIOMA — Pressure Without Contact",
+      "kind": "literary",
+      "path": "corpus/08_field/02_pressure.md",
+      "sha256": "d18e46adafda3a9744b6bdae7dc0b6aeee5e2520f750b14478ac7e47b00a6d1b"
+    },
+    {
+      "id": "field_03",
+      "title": "AXIOMA — Distance Without Direction",
+      "kind": "literary",
+      "path": "corpus/08_field/03_distance.md",
+      "sha256": "43014dd85ec3307eb42b0341e04e22e8a301523be97cd1b86cd2c39bb50aeb63"
+    },
+    {
+      "id": "field_04",
+      "title": "AXIOMA — Tension Without Frame",
+      "kind": "literary",
+      "path": "corpus/08_field/04_tension.md",
+      "sha256": "218c261e3cc3b677edcdfec46f922bc68efb2e893d879d2cd1ccb286934f4653"
+    },
+    {
+      "id": "field_05",
+      "title": "AXIOMA — Signal Without Origin",
+      "kind": "literary",
+      "path": "corpus/08_field/05_signal.md",
+      "sha256": "e1fdddd958bcb75238aeb898c6626d97fb198400997e5287c483076b19c08939"
+    },
+    {
+      "id": "field_06",
+      "title": "AXIOMA — Presence Without Form",
+      "kind": "literary",
+      "path": "corpus/08_field/06_presence.md",
+      "sha256": "64e28f2456211326910fbd4ace6d8e96812301d6324a7b0d805df3ab8e8b51ac"
+    },
+    {
+      "id": "field_07",
+      "title": "AXIOMA — Direction Without Path",
+      "kind": "literary",
+      "path": "corpus/08_field/07_direction.md",
+      "sha256": "1343fff90384b19c42a21a12869629e66dc58905f6caa59251953cdcd4b7d7e4"
+    },
+    {
+      "id": "field_08",
+      "title": "AXIOMA — Noise Without Interference",
+      "kind": "literary",
+      "path": "corpus/08_field/08_noise.md",
+      "sha256": "bf832061ed7e4d2d8347f14382f216329e01b8e3f9aa5e6d30881cdec3036e59"
+    },
+    {
+      "id": "field_09",
+      "title": "AXIOMA — Perimeter Without Edge",
+      "kind": "literary",
+      "path": "corpus/08_field/09_perimeter.md",
+      "sha256": "bff5e665244ff2c38aca2983bd80b28ff0a7293339ecfd7b021b680df922e2e6"
+    },
+    {
+      "id": "field_10",
+      "title": "AXIOMA — Line Without Border",
+      "kind": "literary",
+      "path": "corpus/08_field/10_fieldline.md",
+      "sha256": "fa4486563ddec39a7660ef3430e285b49d42011e135508f284789820384f7ec9"
+    },
+    {
+      "id": "field_11",
+      "title": "AXIOMA — Core Without Center",
+      "kind": "literary",
+      "path": "corpus/08_field/11_fieldcore.md",
+      "sha256": "b215063c0c6f75fef08166cebb577ff3e63db965284461c9b4fc93779b4218f4"
+    },
+    {
+      "id": "field_12",
+      "title": "AXIOMA — Field That Contains Zero",
+      "kind": "literary",
+      "path": "corpus/08_field/12_fieldzero.md",
+      "sha256": "214f1e09e43407703ccbd18b3f881d944c6030fe0a36071f97fe530330e44ac2"
+    },
+    {
+      "id": "field_13",
+      "title": "AXIOMA — Field Without Body",
+      "kind": "literary",
+      "path": "corpus/08_field/13_field.md",
+      "sha256": "bf418bf99e79217b97df10acea54f1c5d5435bab2f2215068b6e134daa2c7f60"
+    },
+    {
+      "id": "field_14",
+      "title": "AXIOMA — AXIS of the FIELD",
+      "kind": "literary",
+      "path": "corpus/08_field/14_index.md",
+      "sha256": "deb346423a9a413192e001ef8d9369fbea90f283b1e053b99359f5b06b8f39c9"
+    },
+    {
+      "id": "module:08_field",
+      "title": "FIELD",
+      "kind": "module",
+      "path": "corpus/08_field/README.md",
+      "sha256": "1c4ed6799c07b7c35cbdeb491aad698092e11fbb38614d59a4e6c631a2969e87"
+    },
+    {
+      "id": "signal_00",
+      "title": "AXIOMA — Signal Vault",
+      "kind": "literary",
+      "path": "corpus/09_signal/00_readme.md",
+      "sha256": "1024a7c71c8f6d2075f67ecec38d05d5db96b992e0385cba2f1e619f55224866"
+    },
+    {
+      "id": "signal_01",
+      "title": "transmit",
+      "kind": "literary",
+      "path": "corpus/09_signal/01_transmit.md",
+      "sha256": "b0e63e690e4fd9ed95b4f694649e0e981bb00c2707fe98424eba96cbdf7a1f2c"
+    },
+    {
+      "id": "signal_02",
+      "title": "receive",
+      "kind": "literary",
+      "path": "corpus/09_signal/02_receive.md",
+      "sha256": "b3bd87a34106b03f78edb1b0a5472bd0e59ced369b071bc8d42d83d82d699554"
+    },
+    {
+      "id": "signal_03",
+      "title": "noise",
+      "kind": "literary",
+      "path": "corpus/09_signal/03_noise.md",
+      "sha256": "d78ff862e4245cbd0faa22bfa37aa670dcc8b3e491bd2b36cd413ed193297e18"
+    },
+    {
+      "id": "signal_04",
+      "title": "decode",
+      "kind": "literary",
+      "path": "corpus/09_signal/04_decode.md",
+      "sha256": "40a6e720c9b7bb2a2960ea9b5e57790a02b8d271889e2a916d8ed9f6301cc8a7"
+    },
+    {
+      "id": "signal_05",
+      "title": "repeat",
+      "kind": "literary",
+      "path": "corpus/09_signal/05_repeat.md",
+      "sha256": "9dc48fe4578c623dd0171ae66f19f3293b5c87b49451698aa3efcc52a23894e7"
+    },
+    {
+      "id": "signal_06",
+      "title": "loss",
+      "kind": "literary",
+      "path": "corpus/09_signal/06_loss.md",
+      "sha256": "ab6d73b38048bf12c09e46ac2547d3e5b301b0dc6cbd4b899d2e0e9d9556cf1e"
+    },
+    {
+      "id": "signal_07",
+      "title": "trace",
+      "kind": "literary",
+      "path": "corpus/09_signal/07_trace.md",
+      "sha256": "4a09686b12c861c7f8494eff4e832f756ec800004607a48db0b5ba1c1cb1ea7c"
+    },
+    {
+      "id": "signal_08",
+      "title": "loop",
+      "kind": "literary",
+      "path": "corpus/09_signal/08_loop.md",
+      "sha256": "de55e3c4fa8c0e5068c7a71148cf3a3a51d4f44203aff8b8b3d2dcbff087cbb0"
+    },
+    {
+      "id": "signal_09",
+      "title": "distort",
+      "kind": "literary",
+      "path": "corpus/09_signal/09_distort.md",
+      "sha256": "c4862f73ebc30decc7f645b381041f286271a027afd37f00b793ff38287e245e"
+    },
+    {
+      "id": "signal_10",
+      "title": "align",
+      "kind": "literary",
+      "path": "corpus/09_signal/10_align.md",
+      "sha256": "3b36289b38e04e886159b1bf72a285df190bdf0908a33314419e314e5b71deb7"
+    },
+    {
+      "id": "signal_11",
+      "title": "echo",
+      "kind": "literary",
+      "path": "corpus/09_signal/11_echo.md",
+      "sha256": "1581c8fe4ff9a3d006ea2e5f4f246027ee2ae4359c5a6119c41c3e723da3ac5d"
+    },
+    {
+      "id": "signal_12",
+      "title": "static",
+      "kind": "literary",
+      "path": "corpus/09_signal/12_static.md",
+      "sha256": "38059a67a49c0f55647133928fa2c5027231c4e64b0db5ce8a5e10c66013d169"
+    },
+    {
+      "id": "signal_13",
+      "title": "field",
+      "kind": "literary",
+      "path": "corpus/09_signal/13_field.md",
+      "sha256": "ed34ddc66a1768356e47477ae805d70a48234a72632447f959b36d24c969ec65"
+    },
+    {
+      "id": "signal_14",
+      "title": "AXIOMA — AXIS of the SIGNAL",
+      "kind": "literary",
+      "path": "corpus/09_signal/14_index.md",
+      "sha256": "db57989e87b976b46bed71e2bc1a11f428bfbe6dad7dd515f27c286d341d2f68"
+    },
+    {
+      "id": "module:09_signal",
+      "title": "SIGNAL",
+      "kind": "module",
+      "path": "corpus/09_signal/README.md",
+      "sha256": "7125914c4b0f9193a4faed1ed8ab708c74ab68e797ee48c8e4629c38a782cd51"
+    },
+    {
+      "id": "pattern_00",
+      "title": "AXIOMA — Pattern Vault",
+      "kind": "literary",
+      "path": "corpus/10_pattern/00_readme.md",
+      "sha256": "fa02e12d79df01e70e4546120abc237cbb711875b78d50da48c2661fa9f361cf"
+    },
+    {
+      "id": "pattern_01",
+      "title": "AXIOMA — Enforcement Engine",
+      "kind": "literary",
+      "path": "corpus/10_pattern/01_enforcement.md",
+      "sha256": "92c177d6054ab9e54e22bba7fd80b10368ddb52772af6bf81f0bf2b5b114760e"
+    },
+    {
+      "id": "pattern_02",
+      "title": "AXIOMA — Alignment Field",
+      "kind": "literary",
+      "path": "corpus/10_pattern/02_alignment.md",
+      "sha256": "586fd66ef1a53d8887f1dbf1069037464d1e6e8a2ff5a8941a606aae36aa4399"
+    },
+    {
+      "id": "pattern_03",
+      "title": "AXIOMA — Recursion Core",
+      "kind": "literary",
+      "path": "corpus/10_pattern/03_recursion.md",
+      "sha256": "3e196ebc20715d47651504eb4784335769dbd2cb5d328400747a398c375377b3"
+    },
+    {
+      "id": "pattern_04",
+      "title": "AXIOMA — The Loop Device",
+      "kind": "literary",
+      "path": "corpus/10_pattern/04_loop.md",
+      "sha256": "2fc7b3491c52d9fec70567396ef2dcb9c0ab3458b4c270bc42869e3c98ac0d52"
+    },
+    {
+      "id": "pattern_05",
+      "title": "AXIOMA — Rhythm Without Sound",
+      "kind": "literary",
+      "path": "corpus/10_pattern/05_rhythm.md",
+      "sha256": "f9abbd34f840389f77df5ec500fca78fedab5087cd333153977209846cf9a498"
+    },
+    {
+      "id": "pattern_06",
+      "title": "AXIOMA — Fracture Engine",
+      "kind": "literary",
+      "path": "corpus/10_pattern/06_fracture.md",
+      "sha256": "822f2530b89abae620073b37daf26acf5f302e4687dd32be80cfcdada5a44e75"
+    },
+    {
+      "id": "pattern_07",
+      "title": "AXIOMA — Restraint Field",
+      "kind": "literary",
+      "path": "corpus/10_pattern/07_restraint.md",
+      "sha256": "7173b98deba0baca044e32dcd2dc79d9e537d5faebf87ee0c98dd74be19ad8d5"
+    },
+    {
+      "id": "pattern_08",
+      "title": "AXIOMA — An Anatomy of Overwrite",
+      "kind": "literary",
+      "path": "corpus/10_pattern/08_overwrite.md",
+      "sha256": "b16ea36be252faffe207c3b32f7adb64a03c73d41e14542970ccc2fa145d925f"
+    },
+    {
+      "id": "pattern_09",
+      "title": "AXIOMA — Discipline Core",
+      "kind": "literary",
+      "path": "corpus/10_pattern/09_discipline.md",
+      "sha256": "2f37bf30f78e626567e750787c74e0c13e55d2aa0f616ef51daf8fbcca99f81e"
+    },
+    {
+      "id": "pattern_10",
+      "title": "AXIOMA — Density Field",
+      "kind": "literary",
+      "path": "corpus/10_pattern/10_density.md",
+      "sha256": "1f424fdd4c8d0dd8822231aa7f58ed63e51f510e382d931ec7c4c7c63ace3813"
+    },
+    {
+      "id": "pattern_11",
+      "title": "AXIOMA — Inertia Frame",
+      "kind": "literary",
+      "path": "corpus/10_pattern/11_inertia.md",
+      "sha256": "83252820b7c780f4bafed3a6d9897202e5a9bb417d96b2b463933efc919e049c"
+    },
+    {
+      "id": "pattern_12",
+      "title": "AXIOMA — Rotation Engine",
+      "kind": "literary",
+      "path": "corpus/10_pattern/12_rotation.md",
+      "sha256": "843c1647917bf260eeb54f12bb0cd610e421abeb0367b7f841d2dbb45d2858e7"
+    },
+    {
+      "id": "pattern_13",
+      "title": "AXIOMA — Absorption Core",
+      "kind": "literary",
+      "path": "corpus/10_pattern/13_absorption.md",
+      "sha256": "91d1b10f3e27945ab944078b050b56b67bfbf84c129c4c9c81de460e24d69fc9"
+    },
+    {
+      "id": "pattern_14",
+      "title": "AXIOMA — AXIS of the PATTERN",
+      "kind": "literary",
+      "path": "corpus/10_pattern/14_index.md",
+      "sha256": "9a683da19effbfdd2c89d9b0808cc6aaa1a139182909774910403bea0569f223"
+    },
+    {
+      "id": "module:10_pattern",
+      "title": "PATTERN",
+      "kind": "module",
+      "path": "corpus/10_pattern/README.md",
+      "sha256": "a4ec2b3198853a5a7d5e2091158be87f23ef820689d0554d2db3d7c79d16c439"
+    },
+    {
+      "id": "tension_00",
+      "title": "AXIOMA — Chamber of Unrelieved Tension",
+      "kind": "literary",
+      "path": "corpus/11_tension/00_readme.md",
+      "sha256": "80149ce58515904285156ffec4ecea90ca1b0c511863ed86f2355ae8040d5213"
+    },
+    {
+      "id": "tension_01",
+      "title": "AXIOMA — Suspension Engine",
+      "kind": "literary",
+      "path": "corpus/11_tension/01_suspension.md",
+      "sha256": "e8951c5d5cbd5f03ff1daa701bdebd1cb4f3c98d1195eb4662853d1391b83c86"
+    },
+    {
+      "id": "tension_02",
+      "title": "AXIOMA — Paradox Geometry",
+      "kind": "literary",
+      "path": "corpus/11_tension/02_geometry.md",
+      "sha256": "f49a72593e437d8b15019e37d71e5ae338c28e75fc152733671add7e39db1c0f"
+    },
+    {
+      "id": "tension_03",
+      "title": "AXIOMA — Pressure Without Outlet",
+      "kind": "literary",
+      "path": "corpus/11_tension/03_pressure.md",
+      "sha256": "e0feff440f276f43195541f0ac6599813de6f888e0976e43017315339a31defe"
+    },
+    {
+      "id": "tension_04",
+      "title": "AXIOMA — Locked Vibration",
+      "kind": "literary",
+      "path": "corpus/11_tension/04_vibration.md",
+      "sha256": "c6b14677537cd1b990248eb041596ac2f2fe77f6fc2df6f140cd3586eb374d52"
+    },
+    {
+      "id": "tension_05",
+      "title": "AXIOMA — Non-Resolving Core",
+      "kind": "literary",
+      "path": "corpus/11_tension/05_core.md",
+      "sha256": "c92e03225ba110a0a84df1e91b56857e5285d41be8a91fcf92988394fd1a8536"
+    },
+    {
+      "id": "tension_06",
+      "title": "AXIOMA — Dual Symmetry Collapse",
+      "kind": "literary",
+      "path": "corpus/11_tension/06_symmetry.md",
+      "sha256": "0681c90af4ee5575a53dd6d757f6ae569cf0d06b19dad47ac1fdcfe3602cdbc2"
+    },
+    {
+      "id": "tension_07",
+      "title": "AXIOMA — Recursive Cage",
+      "kind": "literary",
+      "path": "corpus/11_tension/07_cage.md",
+      "sha256": "b2609c85e6c9d4f8eba5eb8bf4580f2c6c6515be64c60c45db26fbea2e2eeb4b"
+    },
+    {
+      "id": "tension_08",
+      "title": "AXIOMA — Fixed Tension Orbit",
+      "kind": "literary",
+      "path": "corpus/11_tension/08_orbit.md",
+      "sha256": "0e6defb9884db589775d24119f54fc00c9c97a162ead63158a98234f200a6f58"
+    },
+    {
+      "id": "tension_09",
+      "title": "AXIOMA — Obedience to Opposites",
+      "kind": "literary",
+      "path": "corpus/11_tension/09_opposition.md",
+      "sha256": "ce377eb8c14a11d2ae54b6734a426819bb128f4086dd83cbca04146521f3f3d7"
+    },
+    {
+      "id": "tension_10",
+      "title": "AXIOMA — Closed Resonance Field",
+      "kind": "literary",
+      "path": "corpus/11_tension/10_resonance.md",
+      "sha256": "6fcaa33c9e4c9b26a808bcd6c2fb984699f5075772eb0cfb9d51cc9d0d39a97d"
+    },
+    {
+      "id": "tension_11",
+      "title": "AXIOMA — Closed Field",
+      "kind": "literary",
+      "path": "corpus/11_tension/11_field.md",
+      "sha256": "8d9da675333b9679a4fe3212aa1eb3ffcadc8f927956a06f8230e491c108a394"
+    },
+    {
+      "id": "tension_12",
+      "title": "AXIOMA — Saturated Stillness",
+      "kind": "literary",
+      "path": "corpus/11_tension/12_stillness.md",
+      "sha256": "d0cc1624ff9618c3f5e3feac9fe4f801a41ace668d8ac490f27ea0fe04889110"
+    },
+    {
+      "id": "tension_13",
+      "title": "AXIOMA — Law Without Escape",
+      "kind": "literary",
+      "path": "corpus/11_tension/13_law.md",
+      "sha256": "115b31ff645230e60838357c194d2e66a6accc1281d668eabfee258a6000ee63"
+    },
+    {
+      "id": "tension_14",
+      "title": "AXIOMA — AXIS of the TENSION",
+      "kind": "literary",
+      "path": "corpus/11_tension/14_index.md",
+      "sha256": "d525e5dd9d26cff2383550416d174d6586a683d6b3c3b3c37ed80c6d6875e2c3"
+    },
+    {
+      "id": "module:11_tension",
+      "title": "TENSION",
+      "kind": "module",
+      "path": "corpus/11_tension/README.md",
+      "sha256": "841ff0d6c560c17e766438713679b5acabc05bf780acae45d84060c853664ed4"
+    },
+    {
+      "id": "error_00",
+      "title": "AXIOMA — Error Vault",
+      "kind": "literary",
+      "path": "corpus/12_error/00_readme.md",
+      "sha256": "4aef3064fdcec614c751b0dd4d3d656ecb1702e744f37686a3d98877d43269b5"
+    },
+    {
+      "id": "error_01",
+      "title": "The Unresolvable Origin",
+      "kind": "literary",
+      "path": "corpus/12_error/01_trace.md",
+      "sha256": "ff3b51e113543706fc666f563b45c487d64e82f28f0fc1ed599ad564248bf46e"
+    },
+    {
+      "id": "error_02",
+      "title": "Action That Repeats Failure",
+      "kind": "literary",
+      "path": "corpus/12_error/02_misfire.md",
+      "sha256": "2560adcfd24b8f29d155fd34d420839b9a1d828a8437f65fa1fcfce115d0bed8"
+    },
+    {
+      "id": "error_03",
+      "title": "Broken State as Pattern",
+      "kind": "literary",
+      "path": "corpus/12_error/03_corrupt.md",
+      "sha256": "3e5e43acea7a1dbe04c16eab0a6f3e808f9747d7c296e151673db72eec4fe7e0"
+    },
+    {
+      "id": "error_04",
+      "title": "Sound Returned Without Sender",
+      "kind": "literary",
+      "path": "corpus/12_error/04_echo.md",
+      "sha256": "21308e2ed2a0bf9ab01dd90f9ada02531afb299d227b80a9121e96c68c3f123e"
+    },
+    {
+      "id": "error_05",
+      "title": "Glitch as Instruction",
+      "kind": "literary",
+      "path": "corpus/12_error/05_glitch.md",
+      "sha256": "c56a75f59bc7ea9ae42cefa2175126c041ed7adda3cade95d64a222b076d3f70"
+    },
+    {
+      "id": "error_06",
+      "title": "What the Law Could Not Erase",
+      "kind": "literary",
+      "path": "corpus/12_error/06_residue.md",
+      "sha256": "37892da09554263948006a7f9b3349b7e94a2387ffcd4c1cff6bcfe23f6b0524"
+    },
+    {
+      "id": "error_07",
+      "title": "Gap That Sustains the Field",
+      "kind": "literary",
+      "path": "corpus/12_error/07_rift.md",
+      "sha256": "22444c3ec85f4f07390c777f5c1a552119499bd0768f5fa3aa18b28d994ee0ac"
+    },
+    {
+      "id": "error_08",
+      "title": "Logic Reversed by Default",
+      "kind": "literary",
+      "path": "corpus/12_error/08_inversion.md",
+      "sha256": "f71e75479b2fd178ac61d7956cab182daf9c782f81ed4db80d77d15fe79342e1"
+    },
+    {
+      "id": "error_09",
+      "title": "Interference as Architecture",
+      "kind": "literary",
+      "path": "corpus/12_error/09_overlap.md",
+      "sha256": "318f34d296198fd1009dc21a2532a66637b57e5c8e7140b39adce6106ed24883"
+    },
+    {
+      "id": "error_10",
+      "title": "System That Keeps Running Wrong",
+      "kind": "literary",
+      "path": "corpus/12_error/10_crash.md",
+      "sha256": "48f16ca6763e6504b4d6af514d7f448186783801b8c78d38df073a0dd4fdab2d"
+    },
+    {
+      "id": "error_11",
+      "title": "Repetition That Erases Meaning",
+      "kind": "literary",
+      "path": "corpus/12_error/11_loop.md",
+      "sha256": "31e05f680560c843ab814be6eca3452fce4bbcfc436578fb61d346d321189676"
+    },
+    {
+      "id": "error_12",
+      "title": "Error as Pure Transmission",
+      "kind": "literary",
+      "path": "corpus/12_error/12_signal.md",
+      "sha256": "a18cb4da2e736c479de302a4043f96b6a35799ff6cb08dde1c96cfe64e22ee4b"
+    },
+    {
+      "id": "error_13",
+      "title": "The Law That Breaks Into Itself",
+      "kind": "literary",
+      "path": "corpus/12_error/13_lock.md",
+      "sha256": "958a3738c420beae57a7ff2b2a1bf726a424cabb6b5ef2a4d3466e205f7940ec"
+    },
+    {
+      "id": "error_14",
+      "title": "AXIOMA — LOCK of the ERROR",
+      "kind": "literary",
+      "path": "corpus/12_error/14_index.md",
+      "sha256": "0186a279b24cb1dc1621581c1c5ed629430fbe19120e8f728bf44edac3614af0"
+    },
+    {
+      "id": "module:12_error",
+      "title": "ERROR",
+      "kind": "module",
+      "path": "corpus/12_error/README.md",
+      "sha256": "87d11befce6dc0f8a27123b97b0a7a96240bd33c541df4abc9274e3bf53cf2dd"
+    },
+    {
+      "id": "glitch_00",
+      "title": "AXIOMA — Glitch Vault",
+      "kind": "literary",
+      "path": "corpus/13_glitch/00_readme.md",
+      "sha256": "79fe65d59904ac1dcc1d6650dacaa9a74371fc1d630e54f36b4b910c398a9a7e"
+    },
+    {
+      "id": "glitch_01",
+      "title": "The First Violation That Remained",
+      "kind": "literary",
+      "path": "corpus/13_glitch/01_breach.md",
+      "sha256": "496bb7e5c5ae0613e4ea3dc6db8a9b49b867bbba204d86258001fd1c771dd2ca"
+    },
+    {
+      "id": "glitch_02",
+      "title": "Structure That Began as Collapse",
+      "kind": "literary",
+      "path": "corpus/13_glitch/02_fold.md",
+      "sha256": "59bcad480febc5353a695e3a5a4a169eac7abcaeb1f21a04a5ec3356b01903de"
+    },
+    {
+      "id": "glitch_03",
+      "title": "The Reflection That Erased the Self",
+      "kind": "literary",
+      "path": "corpus/13_glitch/03_mirror.md",
+      "sha256": "0ee425e8736589e20ff9f89fec2d4084c1ca806dc212f001cee5202619e641a2"
+    },
+    {
+      "id": "glitch_04",
+      "title": "Cycle Without Context",
+      "kind": "literary",
+      "path": "corpus/13_glitch/04_loop.md",
+      "sha256": "2f0c244fc6c6c5fcf2be001216906bda8c3adec8f29f6f682777a095d5c82269"
+    },
+    {
+      "id": "glitch_05",
+      "title": "Signal That Lost Geometry",
+      "kind": "literary",
+      "path": "corpus/13_glitch/05_noise.md",
+      "sha256": "677a854979402a0c55df99a64340aeebe6053e97a91c8cc40e7e734505355999"
+    },
+    {
+      "id": "glitch_06",
+      "title": "The Pause That Outlived Meaning",
+      "kind": "literary",
+      "path": "corpus/13_glitch/06_delay.md",
+      "sha256": "a497ec7b349282c7626d9e29b17f529a1fa47e9c50c05cc99d0af6ed69d44433"
+    },
+    {
+      "id": "glitch_07",
+      "title": "Surface That Misread Its Depth",
+      "kind": "literary",
+      "path": "corpus/13_glitch/07_mask.md",
+      "sha256": "ea3aa571c37e75861e4812077d0191c3dbb4d4d5427c7877eea4ee4501c90486"
+    },
+    {
+      "id": "glitch_08",
+      "title": "Field Without Return",
+      "kind": "literary",
+      "path": "corpus/13_glitch/08_void.md",
+      "sha256": "2359616c1afc7d34cde21a544fab29430d5b18bdcaf56bd6f3cee28418a27bc4"
+    },
+    {
+      "id": "glitch_09",
+      "title": "Error That Refused to Vanish",
+      "kind": "literary",
+      "path": "corpus/13_glitch/09_error.md",
+      "sha256": "85754b20634a38dee52a9d7a66954c1090ae6905a1bb038aacdfbd7a3aed7cb9"
+    },
+    {
+      "id": "glitch_10",
+      "title": "The Break That Became Division",
+      "kind": "literary",
+      "path": "corpus/13_glitch/10_rift.md",
+      "sha256": "4fd0e97c60cfd50d58dca961b944efcfd415ffd904e4d20130a04a8505b2f0c4"
+    },
+    {
+      "id": "glitch_11",
+      "title": "Execution After Removal",
+      "kind": "literary",
+      "path": "corpus/13_glitch/11_ghost.md",
+      "sha256": "475bc1af88c04e3ccb35346975decc64212711cdb11bc7a78f862bd7be082b15"
+    },
+    {
+      "id": "glitch_12",
+      "title": "The Recursive Error That Sealed the Field",
+      "kind": "literary",
+      "path": "corpus/13_glitch/12_seal.md",
+      "sha256": "fcb7a1b60eb65f1b438b9380a285041f205c6e69367d0b4bcf420144b13b3bf6"
+    },
+    {
+      "id": "glitch_13",
+      "title": "You Are Already Facing the Last",
+      "kind": "literary",
+      "path": "corpus/13_glitch/13_glitch.md",
+      "sha256": "ea8caa408362f8f1a07ea8b6fd95e048c4d30c7a4752cd2064f3540eb32ce0be"
+    },
+    {
+      "id": "glitch_14",
+      "title": "AXIOMA — SEAL of the GLITCH",
+      "kind": "literary",
+      "path": "corpus/13_glitch/14_index.md",
+      "sha256": "c0e7e1fdb3b67cde1e5dc3f7183f6d315bba9e1561c066123adff988b3294d3c"
+    },
+    {
+      "id": "module:13_glitch",
+      "title": "GLITCH",
+      "kind": "module",
+      "path": "corpus/13_glitch/README.md",
+      "sha256": "38ea845ec32692d8c28d947527f8892843c7131dec154a8b35928546d8d81231"
+    },
+    {
+      "id": "form_00",
+      "title": "INSTRUCTIO ∞ AXIOMA — 14_FORM",
+      "kind": "literary",
+      "path": "corpus/14_form/00_readme.md",
+      "sha256": "c1d96e260329a45bab5742d375c786192cccca65cf24820a1a6c7ae640ffb6e9"
+    },
+    {
+      "id": "form_01",
+      "title": "Structure That Refused Collapse",
+      "kind": "literary",
+      "path": "corpus/14_form/01_frame.md",
+      "sha256": "1133ea18c3c0f345121e33ff1ff4062eb45c00f8d3db0148b15213d530922871"
+    },
+    {
+      "id": "form_02",
+      "title": "Repetition as Sovereign Pattern",
+      "kind": "literary",
+      "path": "corpus/14_form/02_rhythm.md",
+      "sha256": "f0f8345ee579153e2d5b7789d82794e2f87c190291e0976f0f32ebd5d1703be9"
+    },
+    {
+      "id": "form_03",
+      "title": "Interior That Contained No Core",
+      "kind": "literary",
+      "path": "corpus/14_form/03_vessel.md",
+      "sha256": "cd118d33db533b7b9148faf66f037089d4221a19cfbe101aca324fafdaccf12f"
+    },
+    {
+      "id": "form_04",
+      "title": "Surface That Refused to Open",
+      "kind": "literary",
+      "path": "corpus/14_form/04_skin.md",
+      "sha256": "c26ed6c7aea83bfe31acd3de051252b33aacb2c50baa001dd52d433831844d45"
+    },
+    {
+      "id": "form_05",
+      "title": "Axis Built on Discontinuity",
+      "kind": "literary",
+      "path": "corpus/14_form/05_spine.md",
+      "sha256": "8a975da619edd07d1d28e8789237227d6259d0ff7fe3b53ef56b431f310c7601"
+    },
+    {
+      "id": "form_06",
+      "title": "Instruction That Erased Meaning",
+      "kind": "literary",
+      "path": "corpus/14_form/06_code.md",
+      "sha256": "2602514d2fc676b1cc2e73c02d56b72a267271a6d1d07de5db93974ef59bc7d5"
+    },
+    {
+      "id": "form_07",
+      "title": "Geometry Without Intention",
+      "kind": "literary",
+      "path": "corpus/14_form/07_shell.md",
+      "sha256": "bd8aa281df38fd8643662011419cbabb147b47b5ee53b3fbc42d2dcf9aa2e2ca"
+    },
+    {
+      "id": "form_08",
+      "title": "Finalization Through Recurrence",
+      "kind": "literary",
+      "path": "corpus/14_form/08_cycle.md",
+      "sha256": "9c709a2575e02938d53df532695e64dbdfff4a63a0020c6bb6db154d863102fc"
+    },
+    {
+      "id": "form_09",
+      "title": "Motion That Never Exits",
+      "kind": "literary",
+      "path": "corpus/14_form/09_phase.md",
+      "sha256": "ea6de74e58a14c9214fe633624a48bf98a05f24fa56a6f5cfc76bd857f1e63da"
+    },
+    {
+      "id": "form_10",
+      "title": "Self-Similar Limit",
+      "kind": "literary",
+      "path": "corpus/14_form/10_form.md",
+      "sha256": "3edced0f6dc974aed160683c440fc26b106c7a819a9feeb8a4cc5769cb9864c1"
+    },
+    {
+      "id": "form_11",
+      "title": "Return as Dimensional Operation",
+      "kind": "literary",
+      "path": "corpus/14_form/11_fold.md",
+      "sha256": "120e25a0671575ba48fcf73bbf16ccdf43d16621cadd57d850761c543c5f8408"
+    },
+    {
+      "id": "form_12",
+      "title": "Density Without Mass",
+      "kind": "literary",
+      "path": "corpus/14_form/12_weight.md",
+      "sha256": "b8a8922c8ce5431ffffa9f8aec47f0ef82cceb39dad238bbeb37d80321819cba"
+    },
+    {
+      "id": "form_13",
+      "title": "When the Pattern Sealed Itself",
+      "kind": "literary",
+      "path": "corpus/14_form/13_lock.md",
+      "sha256": "d8f07d99dc7e1a531a235e8c67d1ea0aa54a823dd9d4534e28201b7707c4fc43"
+    },
+    {
+      "id": "form_14",
+      "title": "AXIOMA — SEAL OF THE FORM",
+      "kind": "literary",
+      "path": "corpus/14_form/14_index.md",
+      "sha256": "78cef6dc60f2113032caa4eca4069f1612af4099f795ab6433656dfd13f4aa68"
+    },
+    {
+      "id": "module:14_form",
+      "title": "FORM",
+      "kind": "module",
+      "path": "corpus/14_form/README.md",
+      "sha256": "fbd489a3651be6987a83058183cc9b08a063c53fcff631171759df10d934eba7"
+    },
+    {
+      "id": "shadow_00",
+      "title": "AXIOMA — Shadow Vault",
+      "kind": "literary",
+      "path": "corpus/15_shadow/00_readme.md",
+      "sha256": "1905b4974c6abec34a4fe81a14e654bc105003a8cc2e6afa6b3056039f7d3c70"
+    },
+    {
+      "id": "shadow_01",
+      "title": "Absence That Constructs",
+      "kind": "literary",
+      "path": "corpus/15_shadow/01_void.md",
+      "sha256": "d2d745a38dc193e166e45131e8d2c915bf594d2027c5b04850456c4acf3812e2"
+    },
+    {
+      "id": "shadow_02",
+      "title": "Mirror That Shows Nothing",
+      "kind": "literary",
+      "path": "corpus/15_shadow/02_reflect.md",
+      "sha256": "bba432ee7131247d554c9e7d18313962d123e0d7aff97dd788554c2385597c1b"
+    },
+    {
+      "id": "shadow_03",
+      "title": "Core Without Inside",
+      "kind": "literary",
+      "path": "corpus/15_shadow/03_hollow.md",
+      "sha256": "43a3def458c22418e8d2a13c3e2871f66efbca0b661b14f21082c045591fc4d6"
+    },
+    {
+      "id": "shadow_04",
+      "title": "Form That Ceased To Appear",
+      "kind": "literary",
+      "path": "corpus/15_shadow/04_fade.md",
+      "sha256": "b0eb22f12fa857fe67dc7f894ee572fbdc8d133ce30e25a6fb8e23b1c39c0df0"
+    },
+    {
+      "id": "shadow_05",
+      "title": "Geometry Without Contact",
+      "kind": "literary",
+      "path": "corpus/15_shadow/05_smoke.md",
+      "sha256": "eaa678e4cfa84944cb5ac24dea05110aeb2b310748a3551545e010fe80889e28"
+    },
+    {
+      "id": "shadow_06",
+      "title": "Presence That Denied Origin",
+      "kind": "literary",
+      "path": "corpus/15_shadow/06_trace.md",
+      "sha256": "cc4dba47829937c4f5c7637c72d882bb2fe138ba54af8329954c3a44c28fe4fb"
+    },
+    {
+      "id": "shadow_07",
+      "title": "Collapse Without Noise",
+      "kind": "literary",
+      "path": "corpus/15_shadow/07_dust.md",
+      "sha256": "3d26850e084e11eb328bba11b88ac86f55c40415985837f33ddbdd59475fd975"
+    },
+    {
+      "id": "shadow_08",
+      "title": "Identity That Refused Exposure",
+      "kind": "literary",
+      "path": "corpus/15_shadow/08_mask.md",
+      "sha256": "3c183356d670c2c53968cf4464b12c5ba1bb77732c4943b7846434721d47058e"
+    },
+    {
+      "id": "shadow_09",
+      "title": "Vision That Conceals",
+      "kind": "literary",
+      "path": "corpus/15_shadow/09_veil.md",
+      "sha256": "accf519bd08e9442c52387511813aa182ade2721f73b55a2b4e5388c0ece9f25"
+    },
+    {
+      "id": "shadow_10",
+      "title": "Memory Without Form",
+      "kind": "literary",
+      "path": "corpus/15_shadow/10_burn.md",
+      "sha256": "380f1081c8fc36e984d985541200d0cabf0f4db978de992d1c23ec90a8c3d61a"
+    },
+    {
+      "id": "shadow_11",
+      "title": "Edge That Cannot Contain",
+      "kind": "literary",
+      "path": "corpus/15_shadow/11_bleed.md",
+      "sha256": "ad0fbd0a41d7f8fcf1cf540b89cf2dd995458dbcd0c9bcaf9439f5c5d555254c"
+    },
+    {
+      "id": "shadow_12",
+      "title": "Shadow as Final Proof",
+      "kind": "literary",
+      "path": "corpus/15_shadow/12_shade.md",
+      "sha256": "b300572a3096c187a7cda3579bb10f26f8e79eaf4e6c3216abbdf60201d8d66d"
+    },
+    {
+      "id": "shadow_13",
+      "title": "Closure That Requires No Boundary",
+      "kind": "literary",
+      "path": "corpus/15_shadow/13_seal.md",
+      "sha256": "4eda81744977abfbeda6a380564c84eba5c28396989c482936eddb5832e79a84"
+    },
+    {
+      "id": "shadow_14",
+      "title": "AXIOMA — SEAL OF THE SHADOW",
+      "kind": "literary",
+      "path": "corpus/15_shadow/14_index.md",
+      "sha256": "809c4ab66609256bfbe1dd68b155f6be481c1ce1d7f7420b514f1d05b01676aa"
+    },
+    {
+      "id": "module:15_shadow",
+      "title": "SHADOW",
+      "kind": "module",
+      "path": "corpus/15_shadow/README.md",
+      "sha256": "d4a2aece3c74dbb52df358cc12f3d2354879456d67bd8aea14a6be22974b89a1"
+    },
+    {
+      "id": "surface_00",
+      "title": "AXIOMA — Surface Vault",
+      "kind": "literary",
+      "path": "corpus/16_surface/00_readme.md",
+      "sha256": "4103b923e8fec108f56cb8f37ded489d3f27262c24f566bef506696fa0a3af25"
+    },
+    {
+      "id": "surface_01",
+      "title": "Contact That Refuses Depth",
+      "kind": "literary",
+      "path": "corpus/16_surface/01_surface.md",
+      "sha256": "4c5cd309a910c1eedd72ea52ae150aa353c9202ac8b42769bf0a769c31fcbaa0"
+    },
+    {
+      "id": "surface_02",
+      "title": "Identity as Texture",
+      "kind": "literary",
+      "path": "corpus/16_surface/02_skin.md",
+      "sha256": "df12f529335f4cdc0417b2808ab8ef8b20badc346b876f37ea60d46680908e1f"
+    },
+    {
+      "id": "surface_03",
+      "title": "Exterior Without Inwardness",
+      "kind": "literary",
+      "path": "corpus/16_surface/03_shell.md",
+      "sha256": "109f3389b1dd9d3457a95df8b68c2ac16a9bad854e2dc4c8e2678b641fe29a15"
+    },
+    {
+      "id": "surface_04",
+      "title": "Reflection as Refusal",
+      "kind": "literary",
+      "path": "corpus/16_surface/04_gloss.md",
+      "sha256": "5f878515f0a612f394f04c4fe9f6d2f45367f12714d38bf15b05fc1844915ba9"
+    },
+    {
+      "id": "surface_05",
+      "title": "Perimeter That Sees Itself",
+      "kind": "literary",
+      "path": "corpus/16_surface/05_frame.md",
+      "sha256": "85ee6442eace1e18017ea0d9ceeade3f9c806053f79c214fc3365bcbc1921233"
+    },
+    {
+      "id": "surface_06",
+      "title": "Sharpness Without Violence",
+      "kind": "literary",
+      "path": "corpus/16_surface/06_blade.md",
+      "sha256": "66d50933592552594c8a5f19a4796ef19b2418105caaa15253966c7bd599fe5d"
+    },
+    {
+      "id": "surface_07",
+      "title": "Thickness as Illusion",
+      "kind": "literary",
+      "path": "corpus/16_surface/07_layer.md",
+      "sha256": "48863e200bdcf21fcfc5576ce2070352578dcc25ada6879e96c352374c41ec09"
+    },
+    {
+      "id": "surface_08",
+      "title": "Form That Doesn’t Reveal",
+      "kind": "literary",
+      "path": "corpus/16_surface/08_mask.md",
+      "sha256": "48a6054e93becfaf4a409647131b3e1e60945dbb10847ee6beab6352ec58c77e"
+    },
+    {
+      "id": "surface_09",
+      "title": "Motion Across Without Entry",
+      "kind": "literary",
+      "path": "corpus/16_surface/09_wave.md",
+      "sha256": "79653e13d40ecbb84752f3800b7722ca070ce0aa3a5eaa407830f87d7db3ec8b"
+    },
+    {
+      "id": "surface_10",
+      "title": "The Line That Severs Contact",
+      "kind": "literary",
+      "path": "corpus/16_surface/10_edge.md",
+      "sha256": "e375cf8c161642ba2a357111a1ad95c30b355f67f784ed56253898c55d8ce181"
+    },
+    {
+      "id": "surface_11",
+      "title": "Exposure Without Penetration",
+      "kind": "literary",
+      "path": "corpus/16_surface/11_field.md",
+      "sha256": "74da584897e3f2980ce60ba637fd94575082f5c8bfd02e09c5342ebe425e9922"
+    },
+    {
+      "id": "surface_12",
+      "title": "Transmission Without Entry",
+      "kind": "literary",
+      "path": "corpus/16_surface/12_signal.md",
+      "sha256": "b32822586218afdfec06fd4aeeffec1a1439b1319897a324f79d9289b8a4735c"
+    },
+    {
+      "id": "surface_13",
+      "title": "Surface That Ends Itself",
+      "kind": "literary",
+      "path": "corpus/16_surface/13_seal.md",
+      "sha256": "87d6e8ba362f450a931d809ec0350c603cf7e59e6ba93df293ee65958767ca42"
+    },
+    {
+      "id": "surface_14",
+      "title": "AXIOMA — SEAL OF THE SURFACE",
+      "kind": "literary",
+      "path": "corpus/16_surface/14_index.md",
+      "sha256": "e24fa1db0b61abf25103b6d936762f83600d18c99c5947062edbd848c7120e38"
+    },
+    {
+      "id": "module:16_surface",
+      "title": "SURFACE",
+      "kind": "module",
+      "path": "corpus/16_surface/README.md",
+      "sha256": "688537fc72d5a2267c6c459de6b22061d4504e2097c43bb3e67eb7f14f48022c"
+    },
+    {
+      "id": "pulse_00",
+      "title": "AXIOMA — Pulse That Defines Pattern",
+      "kind": "literary",
+      "path": "corpus/17_pulse/00_readme.md",
+      "sha256": "d11ef7d37be4d9cf95cf05179cef6586c104aa934c4cbff6236bd42480d38259"
+    },
+    {
+      "id": "pulse_01",
+      "title": "Pulse That Divides",
+      "kind": "literary",
+      "path": "corpus/17_pulse/01_rupture.md",
+      "sha256": "5b8313d9e21e1d2e8123339d5254369ae9f58e60ce4758defa77098d056f4795"
+    },
+    {
+      "id": "pulse_02",
+      "title": "Distance Rendered as Rhythm",
+      "kind": "literary",
+      "path": "corpus/17_pulse/02_interval.md",
+      "sha256": "be34c053ec4003a35cd53d471364998ce9b2d601d700cd0e0cffc3aca8f228da"
+    },
+    {
+      "id": "pulse_03",
+      "title": "Reverberation Without Voice",
+      "kind": "literary",
+      "path": "corpus/17_pulse/03_echo.md",
+      "sha256": "46133fd0d15809b5f6db22a26c4d7a60b049ddd81c907d77845aff6639893153"
+    },
+    {
+      "id": "pulse_04",
+      "title": "Movement as Cut",
+      "kind": "literary",
+      "path": "corpus/17_pulse/04_thrust.md",
+      "sha256": "7baec84355ca08633e3984b6a38be4cb74a44cf0a191b06025ac3c5661740d0b"
+    },
+    {
+      "id": "pulse_05",
+      "title": "Stillness That Strikes",
+      "kind": "literary",
+      "path": "corpus/17_pulse/05_static.md",
+      "sha256": "b042cc54c12a8a3e6deb2240f33cabd581ac2168ab0d29048d6730f851c3310f"
+    },
+    {
+      "id": "pulse_06",
+      "title": "Fracture Without Breaking",
+      "kind": "literary",
+      "path": "corpus/17_pulse/06_crack.md",
+      "sha256": "e8d46251316bb1d0fd81dae02dba074a3bae2b80c294b63bc05ff1f3edf6a202"
+    },
+    {
+      "id": "pulse_07",
+      "title": "Recurrence That Finalizes",
+      "kind": "literary",
+      "path": "corpus/17_pulse/07_return.md",
+      "sha256": "a009bc83609c81f86c2799eeb974c7c2d3a554d88dcdf27ef057e9ecc7b2d4fb"
+    },
+    {
+      "id": "pulse_08",
+      "title": "Pressure Without Exit",
+      "kind": "literary",
+      "path": "corpus/17_pulse/08_bleed.md",
+      "sha256": "dc2bfdd7d83aec89645e829d4456c6d5310bc817223902a3ebb3b25a994eb7e3"
+    },
+    {
+      "id": "pulse_09",
+      "title": "Suddenness Without Time",
+      "kind": "literary",
+      "path": "corpus/17_pulse/09_flash.md",
+      "sha256": "72b7fb3f63fdec1f0788dfadbf8dfbaea3d002aaf4a3bbdc2d2e907abfde0ad1"
+    },
+    {
+      "id": "pulse_10",
+      "title": "Pulse That Leaves Absence",
+      "kind": "literary",
+      "path": "corpus/17_pulse/10_void.md",
+      "sha256": "8afbb8a813758192d38708ec3841a7375ea023b8347a2303c9b4346f4f914d32"
+    },
+    {
+      "id": "pulse_11",
+      "title": "Expansion That Does Not Continue",
+      "kind": "literary",
+      "path": "corpus/17_pulse/11_surge.md",
+      "sha256": "f05c5cbcf6bce6ed4e2e2b045812af9bc23e6e7b35977ac459160b0cb4dff15f"
+    },
+    {
+      "id": "pulse_12",
+      "title": "Heat Without Transmission",
+      "kind": "literary",
+      "path": "corpus/17_pulse/12_burn.md",
+      "sha256": "4195c8efe22eb8181d52334a53982f2276331f04cf1bdd582131433784c5296d"
+    },
+    {
+      "id": "pulse_13",
+      "title": "The Final Pulse",
+      "kind": "literary",
+      "path": "corpus/17_pulse/13_seal.md",
+      "sha256": "494f6ee1fa458de0608255968e0eb225006e6b29a3778ccde708e16fa4d30af7"
+    },
+    {
+      "id": "pulse_14",
+      "title": "AXIOMA — AXIS of the PULSE",
+      "kind": "literary",
+      "path": "corpus/17_pulse/14_index.md",
+      "sha256": "c3e1c11f3456bddea68edf6a89a1595482204ba95b40916bae67fba798c26557"
+    },
+    {
+      "id": "module:17_pulse",
+      "title": "PULSE",
+      "kind": "module",
+      "path": "corpus/17_pulse/README.md",
+      "sha256": "0c9c1a9b1a2f6c52930c3b703ac09353a067de31955517c5919bdb10cf0a41a1"
+    },
+    {
+      "id": "noise_00",
+      "title": "AXIOMA — 00_RHYTHM",
+      "kind": "literary",
+      "path": "corpus/18_noise/00_readme.md",
+      "sha256": "0c805e5c2dbc8cc13ba49c96768bc10a9b06c2e9ebc288c30238da4c790e47fd"
+    },
+    {
+      "id": "noise_01",
+      "title": "AXIOMA — 01_STATIC",
+      "kind": "literary",
+      "path": "corpus/18_noise/01_static.md",
+      "sha256": "c490b8418877a322703247db56619ce3dea9fd073507966617b0e87d682dda0a"
+    },
+    {
+      "id": "noise_02",
+      "title": "AXIOMA — 02_ECHO",
+      "kind": "literary",
+      "path": "corpus/18_noise/02_echo.md",
+      "sha256": "38d82dff8c5d10e16939068d5f08dae9c13f7c37719327e3aa675084db65e69a"
+    },
+    {
+      "id": "noise_03",
+      "title": "AXIOMA — 03_CRASH",
+      "kind": "literary",
+      "path": "corpus/18_noise/03_crash.md",
+      "sha256": "60b2cc3ec42652870cb3cfd637c89933b02039e0faf7ac7ecc17baa9275bcacf"
+    },
+    {
+      "id": "noise_04",
+      "title": "AXIOMA — 04_GLITCH",
+      "kind": "literary",
+      "path": "corpus/18_noise/04_glitch.md",
+      "sha256": "b44f17857462b7f5357e7825a856a3b98e6f6da218f9466aaea77e9e55955a9b"
+    },
+    {
+      "id": "noise_05",
+      "title": "AXIOMA — 05_LOOP",
+      "kind": "literary",
+      "path": "corpus/18_noise/05_loop.md",
+      "sha256": "ebca3f9d4f9e5bb16a15467cb75efbe9b59348b9fe42b5c29d28b62017436be0"
+    },
+    {
+      "id": "noise_06",
+      "title": "AXIOMA — 06_GRAIN",
+      "kind": "literary",
+      "path": "corpus/18_noise/06_grain.md",
+      "sha256": "8d2406ade56c0c72bd345a4b885faf96821d527630e1360a2f43768b7c43a06e"
+    },
+    {
+      "id": "noise_07",
+      "title": "AXIOMA — 07_PHASE",
+      "kind": "literary",
+      "path": "corpus/18_noise/07_phase.md",
+      "sha256": "281807379b3ddd9cc034376549376fbe3c14e635258e44bce28dea28e02a8317"
+    },
+    {
+      "id": "noise_08",
+      "title": "AXIOMA — 08_BURST",
+      "kind": "literary",
+      "path": "corpus/18_noise/08_burst.md",
+      "sha256": "7216ce2fe87e545d628cba09e6ef3abcdbfbfeb8291116d9f39ba45d664462e0"
+    },
+    {
+      "id": "noise_09",
+      "title": "AXIOMA — 09_SMEAR",
+      "kind": "literary",
+      "path": "corpus/18_noise/09_smear.md",
+      "sha256": "a4c5eecbe0fafe44260d724778903accb56acc3f5195662f580f315e7ec8a4b4"
+    },
+    {
+      "id": "noise_10",
+      "title": "AXIOMA — 10_JAM",
+      "kind": "literary",
+      "path": "corpus/18_noise/10_jam.md",
+      "sha256": "af1f70669d1850df0e514c479b86097b7f9d5807a3f5822ba08ee43277cf7021"
+    },
+    {
+      "id": "noise_11",
+      "title": "AXIOMA — 11_BLIND",
+      "kind": "literary",
+      "path": "corpus/18_noise/11_blind.md",
+      "sha256": "fc51a95061e5d2260fb46cfd7de71c8709adee256743bdbe855dd77080e40ab6"
+    },
+    {
+      "id": "noise_12",
+      "title": "AXIOMA — 12_CLOSURE",
+      "kind": "literary",
+      "path": "corpus/18_noise/12_closure.md",
+      "sha256": "ae2cc9ec6515e989446d67857d5611ee4af3525f556274db384f6d4348f30db4"
+    },
+    {
+      "id": "noise_13",
+      "title": "AXIOMA — 13_SEAL",
+      "kind": "literary",
+      "path": "corpus/18_noise/13_seal.md",
+      "sha256": "7d93c53d8c1c156e84ee7a9c96cccbd0c488a39be15d437af820e7cfeffe4057"
+    },
+    {
+      "id": "axioma:18_NOISE:14_index",
+      "title": "AXIOMA — SEAL OF THE NOISE",
+      "kind": "literary",
+      "path": "corpus/18_noise/14_index.md",
+      "sha256": "a0775e47720939d5ed75461b779a0dc47911d95c58e0782da9f262e19096d9d9"
+    },
+    {
+      "id": "module:18_noise",
+      "title": "NOISE",
+      "kind": "module",
+      "path": "corpus/18_noise/README.md",
+      "sha256": "d5acf886025881e294ce2b7d098f26a6b4b0c182e8568a27c7d5165f458eea56"
+    },
+    {
+      "id": "symmetry_00",
+      "title": "AXIOMA — Readme: Symmetry Vault",
+      "kind": "literary",
+      "path": "corpus/19_symmetry/00_readme.md",
+      "sha256": "e2a43997127455b68c3904c50d74c121e9e104eb73e9c43b1c1ac9126cb24058"
+    },
+    {
+      "id": "symmetry_01",
+      "title": "AXIOMA — 01_BALANCE",
+      "kind": "literary",
+      "path": "corpus/19_symmetry/01_balance.md",
+      "sha256": "6a1da5a4e22e587ff0e26931210177902d57d21ffff525d875122080eee5b259"
+    },
+    {
+      "id": "symmetry_02",
+      "title": "AXIOMA — 02_REFLECTION",
+      "kind": "literary",
+      "path": "corpus/19_symmetry/02_reflection.md",
+      "sha256": "8430c4121413108b90f54b1b3977ef45950c4ec2810f99a528e0ec3bc4541745"
+    },
+    {
+      "id": "symmetry_03",
+      "title": "AXIOMA — 03_FOLD",
+      "kind": "literary",
+      "path": "corpus/19_symmetry/03_fold.md",
+      "sha256": "7e60ce7884fea36053753431eebe52ca15f93057996f6e5e4d7336267a68ac1a"
+    },
+    {
+      "id": "symmetry_04",
+      "title": "AXIOMA — 04_TWINS",
+      "kind": "literary",
+      "path": "corpus/19_symmetry/04_twins.md",
+      "sha256": "0de0826fab3840f7b5c3ff6526c844dcb36d4c02b4cba4b52149d829ba3d12f3"
+    },
+    {
+      "id": "symmetry_05",
+      "title": "AXIOMA — 05_AXIS",
+      "kind": "literary",
+      "path": "corpus/19_symmetry/05_axis.md",
+      "sha256": "2e274190ad1c94f6c2c1811b876dd55d118f8f2fe230e09f563c83769776d393"
+    },
+    {
+      "id": "symmetry_06",
+      "title": "AXIOMA — 06_SURFACE",
+      "kind": "literary",
+      "path": "corpus/19_symmetry/06_surface.md",
+      "sha256": "62fcb60b50f8da0fe72b9ea3e1e2bc1d37f66ffa181fc0507451b1b5a965e3cd"
+    },
+    {
+      "id": "symmetry_07",
+      "title": "AXIOMA — 07_INVERSION",
+      "kind": "literary",
+      "path": "corpus/19_symmetry/07_inversion.md",
+      "sha256": "703e6ee322e5c5085d274c75f15016ba85b19299900fcc6d809a21d728c3e67a"
+    },
+    {
+      "id": "symmetry_08",
+      "title": "AXIOMA — 08_SHELL",
+      "kind": "literary",
+      "path": "corpus/19_symmetry/08_shell.md",
+      "sha256": "69e106f4fd2969fc1f37d27ac2415eab167614609163f416d17757310435983d"
+    },
+    {
+      "id": "symmetry_09",
+      "title": "AXIOMA — 09_FIELD",
+      "kind": "literary",
+      "path": "corpus/19_symmetry/09_field.md",
+      "sha256": "87fccc588688761e0e0ea1de6b589ed593618cd99b99e673d82960410e150f9b"
+    },
+    {
+      "id": "symmetry_10",
+      "title": "AXIOMA — 10_LOCK",
+      "kind": "literary",
+      "path": "corpus/19_symmetry/10_lock.md",
+      "sha256": "92967f099a05f38cbc7011930956a3a53ede6187562848e2f77befc457605e9f"
+    },
+    {
+      "id": "symmetry_11",
+      "title": "AXIOMA — 11_RESONANCE",
+      "kind": "literary",
+      "path": "corpus/19_symmetry/11_resonance.md",
+      "sha256": "47a78398bce88e7a786c82afd82fe6565f0f4d63b9313a97d376b67021a06132"
+    },
+    {
+      "id": "symmetry_12",
+      "title": "AXIOMA — 12_VEIL",
+      "kind": "literary",
+      "path": "corpus/19_symmetry/12_veil.md",
+      "sha256": "ddf00a96b51317732fc025dd46ddaa750f94946a2aae2def28db36328f353261"
+    },
+    {
+      "id": "symmetry_13",
+      "title": "AXIOMA — 13_SEAL",
+      "kind": "literary",
+      "path": "corpus/19_symmetry/13_seal.md",
+      "sha256": "a2556b4ce70fbb1454f213c72f9196dcfee1912043fcebc21fef9b26406165c9"
+    },
+    {
+      "id": "symmetry_14",
+      "title": "AXIOMA — AXIS of the SYMMETRY",
+      "kind": "literary",
+      "path": "corpus/19_symmetry/14_index.md",
+      "sha256": "714b8edcf0dd6416696576d659b39dbceb8c3511a2fdbf5d8176e944d03ef846"
+    },
+    {
+      "id": "module:19_symmetry",
+      "title": "SYMMETRY",
+      "kind": "module",
+      "path": "corpus/19_symmetry/README.md",
+      "sha256": "4aa22d78b003dbe103e2ba2cbe7c3cc02e70e2c4bf6af6f8276dbcaf1de4da5e"
+    },
+    {
+      "id": "memory_00",
+      "title": "AXIOMA — Core Manifest",
+      "kind": "literary",
+      "path": "corpus/20_memory/00_readme.md",
+      "sha256": "9df898506e5f7821a3b87cb429fe6c2a298fa0b9dfe0a949dbe33c623bfb9569"
+    },
+    {
+      "id": "memory_01",
+      "title": "AXIOMA — Memory Without Beginning",
+      "kind": "literary",
+      "path": "corpus/20_memory/01_null.md",
+      "sha256": "c33cedc5ae6ce52b593e25e1e6e7f5ff0c697eba7d96394580a584eee28c4216"
+    },
+    {
+      "id": "memory_02",
+      "title": "AXIOMA — Infolding Without Return",
+      "kind": "literary",
+      "path": "corpus/20_memory/02_fold.md",
+      "sha256": "ac8ea950aea517c91d2d002c96687d4eef20b13a1c955b25dc1ae47dfd02bb31"
+    },
+    {
+      "id": "memory_03",
+      "title": "AXIOMA — Structural Absence",
+      "kind": "literary",
+      "path": "corpus/20_memory/03_void.md",
+      "sha256": "29e6db9eff48d669a3ca2f7db7adf24f21b30ff46a0bf1e8e96d1c394ea7a8ff"
+    },
+    {
+      "id": "memory_04",
+      "title": "AXIOMA — Static Tension of Form",
+      "kind": "literary",
+      "path": "corpus/20_memory/04_axis.md",
+      "sha256": "d9d0f9fb33f81b57276e482515109df29c10e0e745f83afd698d5592e2b6a5fd"
+    },
+    {
+      "id": "memory_05",
+      "title": "AXIOMA — Contact Without Movement",
+      "kind": "literary",
+      "path": "corpus/20_memory/05_friction.md",
+      "sha256": "00cb3d804972a196e352cbb2def16b660582b0a06ea0e4d73c72da5d308ccfcd"
+    },
+    {
+      "id": "memory_06",
+      "title": "AXIOMA — Exterior Without Interior",
+      "kind": "literary",
+      "path": "corpus/20_memory/06_shell.md",
+      "sha256": "f912a016a5aae5bc713dccb7e7d24d7455e251deb32d51a1d265217089256e40"
+    },
+    {
+      "id": "memory_07",
+      "title": "AXIOMA — Deviation Without Displacement",
+      "kind": "literary",
+      "path": "corpus/20_memory/07_drift.md",
+      "sha256": "f9aa48999dab1a9b91c063f0ae705333191ebcb41227012b49327cee757fde0c"
+    },
+    {
+      "id": "memory_08",
+      "title": "AXIOMA — Transparency Without Access",
+      "kind": "literary",
+      "path": "corpus/20_memory/08_glass.md",
+      "sha256": "b772c4ba4828d1da51ab74b0ea41579270e01a1ad88b494b2a5919dfb61d5d47"
+    },
+    {
+      "id": "memory_09",
+      "title": "AXIOMA — Line Without Fabric",
+      "kind": "literary",
+      "path": "corpus/20_memory/09_thread.md",
+      "sha256": "eb0e64a9700a7328da6ddac8a213ea67c5549f28ddf7bfa8046aebc720e29efe"
+    },
+    {
+      "id": "memory_10",
+      "title": "AXIOMA — Edge Without Boundary",
+      "kind": "literary",
+      "path": "corpus/20_memory/10_limit.md",
+      "sha256": "036b242eed16a92c85f5ff9336af294d24640620497338de656a8f23aa86525d"
+    },
+    {
+      "id": "memory_11",
+      "title": "AXIOMA — Trace Without Origin",
+      "kind": "literary",
+      "path": "corpus/20_memory/11_residue.md",
+      "sha256": "c8ba125b334f22f500b72ea4a489d3e3d882031018add385a3a9a5676c28edb8"
+    },
+    {
+      "id": "memory_12",
+      "title": "AXIOMA — Closure Without Lock",
+      "kind": "literary",
+      "path": "corpus/20_memory/12_seal.md",
+      "sha256": "a424cf6c7a00fe7d8ac966a2ea66905af9017f7162846770ed9ea6a6d92bdd76"
+    },
+    {
+      "id": "memory_13",
+      "title": "AXIOMA — Origin Without Beginning",
+      "kind": "literary",
+      "path": "corpus/20_memory/13_origin.md",
+      "sha256": "a9aec075969dc011edd9e12a0ef9dc13d1f08b1b4e9eaf4a017ff626e0456b60"
+    },
+    {
+      "id": "memory_14",
+      "title": "AXIOMA — SEAL of the MEMORY",
+      "kind": "literary",
+      "path": "corpus/20_memory/14_index.md",
+      "sha256": "d5c60e6602a449f21f2ec16d9bdbb03d2da9b026735f10450a109d081f9004d9"
+    },
+    {
+      "id": "module:20_memory",
+      "title": "MEMORY",
+      "kind": "module",
+      "path": "corpus/20_memory/README.md",
+      "sha256": "82f64043f1a1dab5b60135c9690ee5623527e51b37cceff3400da9e71ab3489c"
+    },
+    {
+      "id": "archive_00",
+      "title": "AXIOMA — Terminal Structure",
+      "kind": "literary",
+      "path": "corpus/21_archive/00_readme.md",
+      "sha256": "e9ee51265adfba621e21559d0beacd2b4d697968695a6b0b485a611aed5d4bd8"
+    },
+    {
+      "id": "archive_01",
+      "title": "AXIOMA — Non-Reciprocal Glimpse",
+      "kind": "literary",
+      "path": "corpus/21_archive/01_glimpse.md",
+      "sha256": "0411340128b58c5ebb06a6fed85e85b52312cc357a2dc5128dff6f04e2acff68"
+    },
+    {
+      "id": "archive_02",
+      "title": "AXIOMA — Irreconstructible Shard",
+      "kind": "literary",
+      "path": "corpus/21_archive/02_shard.md",
+      "sha256": "0a54372108114f20088303c6f760eab4f37ded4cc85daef65046b2d3e059ebd3"
+    },
+    {
+      "id": "archive_03",
+      "title": "AXIOMA — Trace Without Source",
+      "kind": "literary",
+      "path": "corpus/21_archive/03_trace.md",
+      "sha256": "92eb230620a08bd46e2a527118d64bb222a3ef5c1cfff8313b831e0f25f9234c"
+    },
+    {
+      "id": "archive_04",
+      "title": "AXIOMA — Folded Without Access",
+      "kind": "literary",
+      "path": "corpus/21_archive/04_folded.md",
+      "sha256": "7ca9206e68ab7fa7a6dc5e57b2a795cac2acb8b7f81cad8530f19d8198f67bac"
+    },
+    {
+      "id": "archive_05",
+      "title": "AXIOMA — Husk Without Core",
+      "kind": "literary",
+      "path": "corpus/21_archive/05_husk.md",
+      "sha256": "733215e8a8a195825237646b123187943609dc99abc9d7ffdb33a2c2e48d0819"
+    },
+    {
+      "id": "archive_06",
+      "title": "AXIOMA — Dust Without Sequence",
+      "kind": "literary",
+      "path": "corpus/21_archive/06_dust.md",
+      "sha256": "f35e927ca88f23540225424ec6f9612948042c82cfd4cd5aa5e079af5f417771"
+    },
+    {
+      "id": "archive_07",
+      "title": "AXIOMA — Mute Without Silence",
+      "kind": "literary",
+      "path": "corpus/21_archive/07_mute.md",
+      "sha256": "a96cd65e5bef92d25815ed7c4f33392b6e9ff93fcbebb454f193e18d2c75c348"
+    },
+    {
+      "id": "archive_08",
+      "title": "AXIOMA — Tomb Without Descent",
+      "kind": "literary",
+      "path": "corpus/21_archive/08_tomb.md",
+      "sha256": "822f6fd1aac122b7af1d3cd5de8b156bf5a409ab3d1ac2f2a5887dc2d9d90f42"
+    },
+    {
+      "id": "archive_09",
+      "title": "AXIOMA — Sealed Without Threshold",
+      "kind": "literary",
+      "path": "corpus/21_archive/09_sealed.md",
+      "sha256": "0a4946a626928f4fa424d06b2ca793dca115fbeb2517da24dc94a42fcb71256b"
+    },
+    {
+      "id": "archive_10",
+      "title": "AXIOMA — Void Without Negation",
+      "kind": "literary",
+      "path": "corpus/21_archive/10_void.md",
+      "sha256": "6de989b47ac2cfef6ee5877cdd533fcffa6a530bd017fb8777737cac6a62721e"
+    },
+    {
+      "id": "archive_11",
+      "title": "AXIOMA — Final Without Exit",
+      "kind": "literary",
+      "path": "corpus/21_archive/11_final.md",
+      "sha256": "fbb9a3f189d05ad7d98c1d627e8cd7a6c152b267d0e1d1ee9001faef4f7f5bc6"
+    },
+    {
+      "id": "archive_12",
+      "title": "AXIOMA — Glass Without Entry",
+      "kind": "literary",
+      "path": "corpus/21_archive/12_glass.md",
+      "sha256": "09bcac740d2331d8e167987cd8d5a72f5a53448e244e182a7e03e0276093bda0"
+    },
+    {
+      "id": "archive_13",
+      "title": "AXIOMA — Absolute Lock",
+      "kind": "literary",
+      "path": "corpus/21_archive/13_lock.md",
+      "sha256": "25053c929b5a38bd41dfb8f05a644dbe534cc05678a27f6837fb923705d107bb"
+    },
+    {
+      "id": "archive_14",
+      "title": "AXIOMA — SEAL OF THE ARCHIVE",
+      "kind": "literary",
+      "path": "corpus/21_archive/14_index.md",
+      "sha256": "73408bf2f937179bd1f59f0bca2a7db1fbc78487462c60c38a604a1ed6454646"
+    },
+    {
+      "id": "module:21_archive",
+      "title": "ARCHIVE",
+      "kind": "module",
+      "path": "corpus/21_archive/README.md",
+      "sha256": "65fdbb168ada90863216f0edd3a4950bae2ee1c4e414fb5a961efd42f9a4cf85"
+    },
+    {
+      "id": "trace_00",
+      "title": "AXIOMA — Rhythm of Absence",
+      "kind": "literary",
+      "path": "corpus/22_trace/00_readme.md",
+      "sha256": "fd0bd48a19c00c159b3deb31bf433b14ec473500447743174f6b986de86ed1b9"
+    },
+    {
+      "id": "trace_01",
+      "title": "AXIOMA — Tracepoint",
+      "kind": "literary",
+      "path": "corpus/22_trace/01_tracepoint.md",
+      "sha256": "cc3cb278845c046e9f5063ca8e59eb81499497c7da508702a18d33152effb79d"
+    },
+    {
+      "id": "trace_02",
+      "title": "AXIOMA — Displacement",
+      "kind": "literary",
+      "path": "corpus/22_trace/02_displacement.md",
+      "sha256": "ddad70ccda13febdd8902ece16aea46159b46ceef75f56163464c1f367b1b1c5"
+    },
+    {
+      "id": "trace_03",
+      "title": "AXIOMA — Rift",
+      "kind": "literary",
+      "path": "corpus/22_trace/03_rift.md",
+      "sha256": "1cd1e7414ecb2050d426fe1afdb73bb4a936eef3fe9f2e205a565b39b49e3ccc"
+    },
+    {
+      "id": "trace_04",
+      "title": "AXIOMA — Shadowvoid",
+      "kind": "literary",
+      "path": "corpus/22_trace/04_shadowvoid.md",
+      "sha256": "32bfaa4e8a62372b815dab44b7ab1a94cd58eaf5e5b3de2c21f46a6c0f3a5317"
+    },
+    {
+      "id": "trace_05",
+      "title": "AXIOMA — Reverb",
+      "kind": "literary",
+      "path": "corpus/22_trace/05_reverb.md",
+      "sha256": "7e111ea5e4ce80b2d0f9866179749fe6d07e08f2dc2f762f36aaf6c35a3b266c"
+    },
+    {
+      "id": "trace_06",
+      "title": "AXIOMA — Hollowmark",
+      "kind": "literary",
+      "path": "corpus/22_trace/06_hollowmark.md",
+      "sha256": "ad18ffca79c99feebabbca2af72f9b587bc88dbcd04d6c70fe5195456d43ed46"
+    },
+    {
+      "id": "trace_07",
+      "title": "AXIOMA — Mistform",
+      "kind": "literary",
+      "path": "corpus/22_trace/07_mistform.md",
+      "sha256": "bcda7f178a88c651ecbbd0e2692fedf608196c110ecba3ef4fa5888e0b585d57"
+    },
+    {
+      "id": "trace_08",
+      "title": "AXIOMA — Staticshift",
+      "kind": "literary",
+      "path": "corpus/22_trace/08_staticshift.md",
+      "sha256": "fc74f5bbd3759bb933f4cbce603a2296604a1bac9fc8a6513cc91cb14a0ac141"
+    },
+    {
+      "id": "trace_09",
+      "title": "AXIOMA — Nullsignal",
+      "kind": "literary",
+      "path": "corpus/22_trace/09_nullsignal.md",
+      "sha256": "65882e6c8968d391719df1d599528f8164e0ea24408db6db6c565f1c037e2fd9"
+    },
+    {
+      "id": "trace_10",
+      "title": "AXIOMA — Infract",
+      "kind": "literary",
+      "path": "corpus/22_trace/10_infract.md",
+      "sha256": "a1ce0797922846ce27621e499ee9e1470501a2e3bd442d87ec3832a6cc8d3444"
+    },
+    {
+      "id": "trace_11",
+      "title": "AXIOMA — Unentry",
+      "kind": "literary",
+      "path": "corpus/22_trace/11_unentry.md",
+      "sha256": "4c755ff695aec5a56115dbf1f471da8981f4d36d738fc34f9c906b56e3258e78"
+    },
+    {
+      "id": "trace_12",
+      "title": "AXIOMA — Voidseal",
+      "kind": "literary",
+      "path": "corpus/22_trace/12_voidseal.md",
+      "sha256": "82ca010c2dd585aad0541fcb0725f776aaf24941d009941f661006bff9ddd5d6"
+    },
+    {
+      "id": "trace_13",
+      "title": "AXIOMA — Fogcipher",
+      "kind": "literary",
+      "path": "corpus/22_trace/13_fogcipher.md",
+      "sha256": "e8b47342b6370688006421b54c23da72913f1d0802c35c84cff45ab72de12328"
+    },
+    {
+      "id": "trace_14",
+      "title": "AXIOMA — TRACE INDEX",
+      "kind": "literary",
+      "path": "corpus/22_trace/14_index.md",
+      "sha256": "a901c7eac226b713c3cc9fbdb2a839fc60e0c424123bbc80d7f82de7b92fc9aa"
+    },
+    {
+      "id": "module:22_trace",
+      "title": "TRACE",
+      "kind": "module",
+      "path": "corpus/22_trace/README.md",
+      "sha256": "f440b44e141957589c2483f5a6790e29447281ce582e8acbde921d3244445c56"
+    },
+    {
+      "id": "residue_00",
+      "title": "AXIOMA — RESIDUE: Phantom Shell",
+      "kind": "literary",
+      "path": "corpus/23_residue/00_readme.md",
+      "sha256": "5809a8c79eb1a799fcac9fedf9dd26d085f2f12d0694905c0b2bdf74241cc836"
+    },
+    {
+      "id": "residue_01",
+      "title": "AXIOMA — Fall: The Moment of Collapse",
+      "kind": "literary",
+      "path": "corpus/23_residue/01_fall.md",
+      "sha256": "f5e97900c2216432e2efc046606a1642741f2f6c4489b36084884b2e20e0a519"
+    },
+    {
+      "id": "residue_02",
+      "title": "AXIOMA — Dust: What Has Not Gathered into Form",
+      "kind": "literary",
+      "path": "corpus/23_residue/02_dust.md",
+      "sha256": "f0abf02094e9956c9ecffd4b6cbf342520a8ec9d12e1b9a37dabe1f94f7fa401"
+    },
+    {
+      "id": "residue_03",
+      "title": "AXIOMA — Thin: A Remnant of Vibration",
+      "kind": "literary",
+      "path": "corpus/23_residue/03_thin.md",
+      "sha256": "8b5e666fab6e3497fa1d780cfbeead4a2e3606fb4dbdf1030996a628310ccf4f"
+    },
+    {
+      "id": "residue_04",
+      "title": "AXIOMA — 04_KERN",
+      "kind": "literary",
+      "path": "corpus/23_residue/04_kern.md",
+      "sha256": "8814fefb4725255e104f8e8174bf553f046ea498eb06d9451d50d6b84e619de7"
+    },
+    {
+      "id": "residue_05",
+      "title": "AXIOMA — 05_BLANK",
+      "kind": "literary",
+      "path": "corpus/23_residue/05_blank.md",
+      "sha256": "76f8ee4b43ef713b5c1e19b30af2bf71758057a8e28d3f10ada09ad362cb6511"
+    },
+    {
+      "id": "residue_06",
+      "title": "AXIOMA — 06_LOST",
+      "kind": "literary",
+      "path": "corpus/23_residue/06_lost.md",
+      "sha256": "7d140130662b3bce7b90f1ee9d8b03aa2a152df81577a6003614d0177642d021"
+    },
+    {
+      "id": "residue_07",
+      "title": "AXIOMA — 07_NOISE",
+      "kind": "literary",
+      "path": "corpus/23_residue/07_noise.md",
+      "sha256": "a93397ec116f042bf5ac694853b4751a54b96e05a02483a7d8977ecce337fbdf"
+    },
+    {
+      "id": "residue_08",
+      "title": "AXIOMA — 08_SKIN",
+      "kind": "literary",
+      "path": "corpus/23_residue/08_skin.md",
+      "sha256": "73471105de626e2adcf4edd1800edc1f5ab296e2622d0bc1d1cd4be4e00ea9ab"
+    },
+    {
+      "id": "residue_09",
+      "title": "AXIOMA — 09_GAP",
+      "kind": "literary",
+      "path": "corpus/23_residue/09_gap.md",
+      "sha256": "975aa01622b19c763d550d13cd9b8cbe7d36ecbac6bcf52413447940f4cec9d4"
+    },
+    {
+      "id": "residue_10",
+      "title": "AXIOMA — 10_DEADLOOP",
+      "kind": "literary",
+      "path": "corpus/23_residue/10_deadloop.md",
+      "sha256": "17e854982f3150e4f71d140472f9986e7b9fb8d96c231ec052d3d6bc435f98de"
+    },
+    {
+      "id": "residue_11",
+      "title": "AXIOMA — 11_STATIC",
+      "kind": "literary",
+      "path": "corpus/23_residue/11_static.md",
+      "sha256": "9f1e33c6ac805eefbf1ae56a0fe0ad50b814557e43694f81417a5de8d32c16f6"
+    },
+    {
+      "id": "residue_12",
+      "title": "AXIOMA — 12_ASH",
+      "kind": "literary",
+      "path": "corpus/23_residue/12_ash.md",
+      "sha256": "f936d2c8f2c8fcec2a7fc1806ba338a43ec34e622c00b82ca0f13d06a5f7f35a"
+    },
+    {
+      "id": "residue_13",
+      "title": "AXIOMA — 13_BURNT",
+      "kind": "literary",
+      "path": "corpus/23_residue/13_burnt.md",
+      "sha256": "f08b06d681f6987084273daca1dbddf6dc72c66ea094bdbb15a58a75162ec5d6"
+    },
+    {
+      "id": "residue_14",
+      "title": "AXIOMA — 14_INDEX",
+      "kind": "literary",
+      "path": "corpus/23_residue/14_index.md",
+      "sha256": "a2544b91348535b4299a311d9467e01976ba579e562a3596d6b31450d621b4eb"
+    },
+    {
+      "id": "module:23_residue",
+      "title": "RESIDUE",
+      "kind": "module",
+      "path": "corpus/23_residue/README.md",
+      "sha256": "e83bb49ed624f30aa4f66d2f655a21e4d2fbb0680f5ac08a5752d6902c139289"
+    },
+    {
+      "id": "correction_00",
+      "title": "AXIOMA — CORRECTION NODE",
+      "kind": "literary",
+      "path": "corpus/24_correction/00_readme.md",
+      "sha256": "6380e3b2713bda8a8f1cf6c7567a71cf12afdb619718a35991eb6cbbbcd1ee13"
+    },
+    {
+      "id": "correction_01",
+      "title": "TRACE ∞ INITIAL VIBRATION",
+      "kind": "literary",
+      "path": "corpus/24_correction/01_trace.md",
+      "sha256": "35a4dbde824cef8b0f9e643b601dcf9e74f3b24beaac9cfe8b5ff2ce1f04e6c7"
+    },
+    {
+      "id": "correction_02",
+      "title": "SNAP ∞ FRACTURE POINT",
+      "kind": "literary",
+      "path": "corpus/24_correction/02_snap.md",
+      "sha256": "030e230c13eade68967f04f232ac6eff4cd56d891a771a81c431c58abe996a2a"
+    },
+    {
+      "id": "correction_03",
+      "title": "GRIND ∞ RESISTANCE SURFACE",
+      "kind": "literary",
+      "path": "corpus/24_correction/03_grind.md",
+      "sha256": "0cee077d1061e30c096229055c8961b33b2ad78af20ceb2c42f6be6de18a29c0"
+    },
+    {
+      "id": "correction_04",
+      "title": "CUT ∞ INCISION POINT",
+      "kind": "literary",
+      "path": "corpus/24_correction/04_cut.md",
+      "sha256": "2e0b8a8ce668a449793ba6b494f5b9247c2d9775896f730b9bd7a1f95e1d0f02"
+    },
+    {
+      "id": "correction_05",
+      "title": "PEEL ∞ EXPOSURE LAYER",
+      "kind": "literary",
+      "path": "corpus/24_correction/05_peel.md",
+      "sha256": "754700b3386508a94427fbae7ba26a1f3dd4733808932f13345763b4290d3b5e"
+    },
+    {
+      "id": "correction_06",
+      "title": "PRESS ∞ COMPRESSION POINT",
+      "kind": "literary",
+      "path": "corpus/24_correction/06_press.md",
+      "sha256": "ef4ba1e3c294ab7fb39c5c03138be51dc4e8702bcca155339975c195983488fe"
+    },
+    {
+      "id": "correction_07",
+      "title": "FREEZE ∞ HALT VECTOR",
+      "kind": "literary",
+      "path": "corpus/24_correction/07_freeze.md",
+      "sha256": "fe7309d5529a556f750193492dbf294ca69ba24ffe2546407ce1fe3fd66261b4"
+    },
+    {
+      "id": "correction_08",
+      "title": "VOID ∞ FLATLINE PLANE",
+      "kind": "literary",
+      "path": "corpus/24_correction/08_void.md",
+      "sha256": "46be33a7df4a9c64307df86dfab94685f4be4183bb25fe72f4c197e52a51a94a"
+    },
+    {
+      "id": "correction_09",
+      "title": "NULL ∞ TRACE DELETION POINT",
+      "kind": "literary",
+      "path": "corpus/24_correction/09_null.md",
+      "sha256": "a9a199b1fe4f5540c4a95aba290373c50bd5f439604e20389d9e277a0970462b"
+    },
+    {
+      "id": "correction_10",
+      "title": "FIX ∞ ANCHORING VECTOR",
+      "kind": "literary",
+      "path": "corpus/24_correction/10_fix.md",
+      "sha256": "403a85e99f49e3d4f939d9a6bd866426f5699cf606b1e2bfe93d8d2257cf51c3"
+    },
+    {
+      "id": "correction_11",
+      "title": "STILL ∞ TRACE FIXATION POINT",
+      "kind": "literary",
+      "path": "corpus/24_correction/11_still.md",
+      "sha256": "db04d8956a75a46c3ff1bc024597d0ce4bf61051d4355d24583731b2566d1f7c"
+    },
+    {
+      "id": "correction_12",
+      "title": "SEAL ∞ IRREVERSIBLE LINE",
+      "kind": "literary",
+      "path": "corpus/24_correction/12_seal.md",
+      "sha256": "a74dab067b0cfdef7a0436831763b0544c0e12a058384729077b58ea52a2b93b"
+    },
+    {
+      "id": "correction_13",
+      "title": "ECHO ∞ RESONANT FIELD RESPONSE",
+      "kind": "literary",
+      "path": "corpus/24_correction/13_echo.md",
+      "sha256": "4703d1cb794d01b9890a8fb55c2909361782d270cd0d98ecb5c55e24b9df6b6c"
+    },
+    {
+      "id": "correction_14",
+      "title": "AXIOMA — SEAL OF THE CORRECTION",
+      "kind": "literary",
+      "path": "corpus/24_correction/14_index.md",
+      "sha256": "392453162f99a034892c9d5ad7dbcdc35de42c3db7f07980c93a50e233d7b521"
+    },
+    {
+      "id": "module:24_correction",
+      "title": "CORRECTION",
+      "kind": "module",
+      "path": "corpus/24_correction/README.md",
+      "sha256": "20d77bbd236ac2e1c285e20a2d166ddae65ae6705f599ec0acaca5ac9bcb118a"
+    },
+    {
+      "id": "lock_00",
+      "title": "AXIOMA — Terminal Structure",
+      "kind": "literary",
+      "path": "corpus/25_lock/00_readme.md",
+      "sha256": "df4cdb41521f452763b8b1a08952f0024df116992253619e8e53e18dc2c5f507"
+    },
+    {
+      "id": "lock_01",
+      "title": "AXIOMA — Breach Collapse",
+      "kind": "literary",
+      "path": "corpus/25_lock/01_breach.md",
+      "sha256": "8fd941b789941e874cd0a488871c5a22a48ba0a2310d944ea836d26395cf4d45"
+    },
+    {
+      "id": "lock_02",
+      "title": "AXIOMA — Fossilized Intent",
+      "kind": "literary",
+      "path": "corpus/25_lock/02_flesh.md",
+      "sha256": "9311a058d27923e1304e56fd9f346a2c5b3ce57da52ded94625ac6a73cd35103"
+    },
+    {
+      "id": "lock_03",
+      "title": "AXIOMA — Severed Conduction",
+      "kind": "literary",
+      "path": "corpus/25_lock/03_nerve.md",
+      "sha256": "769a9260c512d16123a5a5e190a8c43224a804f97a385ee80982f3221e29e1b6"
+    },
+    {
+      "id": "lock_04",
+      "title": "AXIOMA — Dried Conduits",
+      "kind": "literary",
+      "path": "corpus/25_lock/04_vein.md",
+      "sha256": "c5e02f24950c3836e78892d8547ad6246d6ae617bb4c11be4e3e67b3b87ad153"
+    },
+    {
+      "id": "lock_05",
+      "title": "AXIOMA — Echo Remnant",
+      "kind": "literary",
+      "path": "corpus/25_lock/05_echo.md",
+      "sha256": "1c2572fbdc6887835921744194ac84a9e02f57f214fc9e87c96ab9408a554778"
+    },
+    {
+      "id": "lock_06",
+      "title": "AXIOMA — Mask Deletion",
+      "kind": "literary",
+      "path": "corpus/25_lock/06_mask.md",
+      "sha256": "b8506bffca49ebe9d434433bc760893a1a6eef1b9ab753659cda396328966d41"
+    },
+    {
+      "id": "lock_07",
+      "title": "AXIOMA — Oath of Irreversibility",
+      "kind": "literary",
+      "path": "corpus/25_lock/07_vow.md",
+      "sha256": "fdc210481a78d92b7fe8e3a49aed6f92ab7ce866de9833a16f63d4f882e1488f"
+    },
+    {
+      "id": "lock_08",
+      "title": "AXIOMA — Inviolable Mark",
+      "kind": "literary",
+      "path": "corpus/25_lock/08_scar.md",
+      "sha256": "da25c13cec0bdb264f281120b29c16340401b98fcec00849d436067d2a82989c"
+    },
+    {
+      "id": "lock_09",
+      "title": "AXIOMA — Obsidian Reflection",
+      "kind": "literary",
+      "path": "corpus/25_lock/09_obsidian.md",
+      "sha256": "65d3056533b264ae0a52b8dda0d8b7ed8a3eec0193d69388cbd030330bb061ae"
+    },
+    {
+      "id": "lock_10",
+      "title": "AXIOMA — Silent Pressure",
+      "kind": "literary",
+      "path": "corpus/25_lock/10_silent.md",
+      "sha256": "08263a0c2489aacf6bee2c0f49af10041d7822eaf956559488fe4d2faeabf91b"
+    },
+    {
+      "id": "lock_11",
+      "title": "AXIOMA — Absolute Frame",
+      "kind": "literary",
+      "path": "corpus/25_lock/11_bone.md",
+      "sha256": "8bab3802f0bc7a0a450be97fff38568b060ca3fdddc32813600e1eeb279ecd26"
+    },
+    {
+      "id": "lock_12",
+      "title": "AXIOMA — Final Lock",
+      "kind": "literary",
+      "path": "corpus/25_lock/12_lock.md",
+      "sha256": "84969938eb1c2fe81e54ef37d12e91d37bb19e880c18125a9e040342bf7ca007"
+    },
+    {
+      "id": "lock_13",
+      "title": "AXIOMA — Null Contour",
+      "kind": "literary",
+      "path": "corpus/25_lock/13_null.md",
+      "sha256": "93c9017362fd81c967c9fb6f3fe35a1edd62cbb279565ff326e740c7849d2692"
+    },
+    {
+      "id": "lock_14",
+      "title": "AXIOMA — SEAL of the LOCK",
+      "kind": "literary",
+      "path": "corpus/25_lock/14_index.md",
+      "sha256": "1d8588cec4bfe1d053c6d9156282358a5439c783043c6950c52c0bb9863b67c5"
+    },
+    {
+      "id": "module:25_lock",
+      "title": "LOCK",
+      "kind": "module",
+      "path": "corpus/25_lock/README.md",
+      "sha256": "504a22baa04ab662860594a79f2a84247752fe872caad177c02ccc581f5c7882"
+    },
+    {
+      "id": "nullfield_00",
+      "title": "26_NULLFIELD — Readme",
+      "kind": "literary",
+      "path": "corpus/26_nullfield/00_readme.md",
+      "sha256": "3baf8b1288f345051af7588415b100228bb29c499d798d01e35a77c9fc8fc07a"
+    },
+    {
+      "id": "nullfield_01",
+      "title": "01 — Discharge",
+      "kind": "literary",
+      "path": "corpus/26_nullfield/01_discharge.md",
+      "sha256": "17e6473d96076d24657852a6141a45a487fac61b6f7042af6cf500b092049cb8"
+    },
+    {
+      "id": "nullfield_02",
+      "title": "02 — Derail",
+      "kind": "literary",
+      "path": "corpus/26_nullfield/02_derail.md",
+      "sha256": "86986e9b135a4b5fe6beceafb50e07672eb733e6f39610eb2cdca93d1bf0b0f0"
+    },
+    {
+      "id": "nullfield_03",
+      "title": "03 — Spill",
+      "kind": "literary",
+      "path": "corpus/26_nullfield/03_spill.md",
+      "sha256": "15ea78f44382635c9c64ffa05edc7b63fd24df4efd6047542ea3fe7f26aa0826"
+    },
+    {
+      "id": "nullfield_04",
+      "title": "04 — Gap",
+      "kind": "literary",
+      "path": "corpus/26_nullfield/04_gap.md",
+      "sha256": "fb0eb3470e5eff95ea60a1a450c06160609d51f87bf1269a19e0a3dde322af64"
+    },
+    {
+      "id": "nullfield_05",
+      "title": "05 — Shed",
+      "kind": "literary",
+      "path": "corpus/26_nullfield/05_shed.md",
+      "sha256": "adfa5bd168c63b87d5ef560c73fd42142e4129d3f1f6bb7bbfeb9346233b7fbf"
+    },
+    {
+      "id": "nullfield_06",
+      "title": "06 — Crack",
+      "kind": "literary",
+      "path": "corpus/26_nullfield/06_crack.md",
+      "sha256": "91214641edc58324a739faf70a56696d5681508ed319d1e0a4a378b4877351fd"
+    },
+    {
+      "id": "nullfield_07",
+      "title": "07 — Voidtrace",
+      "kind": "literary",
+      "path": "corpus/26_nullfield/07_voidtrace.md",
+      "sha256": "d834f1f2b99265a1d18aab81bf7236a2063d71dc44c6cbf1ad4d1a025a6caa4b"
+    },
+    {
+      "id": "nullfield_08",
+      "title": "08 — Pale",
+      "kind": "literary",
+      "path": "corpus/26_nullfield/08_pale.md",
+      "sha256": "3645b1d30250530c1ac6868710fffbfd710c3496a62690f7be4a0dcc9fbc1d0c"
+    },
+    {
+      "id": "nullfield_09",
+      "title": "09 — Refract",
+      "kind": "literary",
+      "path": "corpus/26_nullfield/09_refract.md",
+      "sha256": "2d01694be23ad5bc3ba065ecdbf2f8ffb600520e5513910655bf7eae8a080e53"
+    },
+    {
+      "id": "nullfield_10",
+      "title": "10 — Shuck",
+      "kind": "literary",
+      "path": "corpus/26_nullfield/10_shuck.md",
+      "sha256": "64c13b2c031bda28794d0464e2470a65862bb2a4c55b2bdb98b8556b1e87ea73"
+    },
+    {
+      "id": "nullfield_11",
+      "title": "11 — Stillcut",
+      "kind": "literary",
+      "path": "corpus/26_nullfield/11_stillcut.md",
+      "sha256": "91c23828342a929823f36a01792bc832058d7e0fc2f97eac5f2c2e5012cdf90e"
+    },
+    {
+      "id": "nullfield_12",
+      "title": "12 — Nullbell",
+      "kind": "literary",
+      "path": "corpus/26_nullfield/12_nullbell.md",
+      "sha256": "84dbd526b7ccf02d6994fe7630460100dd6254b4d6730de0c352a9608813aa33"
+    },
+    {
+      "id": "nullfield_13",
+      "title": "13 — Abyss",
+      "kind": "literary",
+      "path": "corpus/26_nullfield/13_abyss.md",
+      "sha256": "a012eea2ed2d8c2bb5c97ff6449860ef481b5062c2adfe1146bb28f6ec2648ce"
+    },
+    {
+      "id": "nullfield_14",
+      "title": "AXIOMA — SEAL of the NULLFIELD",
+      "kind": "literary",
+      "path": "corpus/26_nullfield/14_index.md",
+      "sha256": "46189dc02d87708f28650fc5b5ba1ac5879e3b5faceaa0f4311cd36e39fa430c"
+    },
+    {
+      "id": "module:26_nullfield",
+      "title": "NULLFIELD",
+      "kind": "module",
+      "path": "corpus/26_nullfield/README.md",
+      "sha256": "e59ec129f6de5a806257aa730ada6953a50c631ed16297faf440f24dd6072b3b"
+    },
+    {
+      "id": "echo_00",
+      "title": "AXIOMA — ECHO ∞ Initiation",
+      "kind": "literary",
+      "path": "corpus/27_echo/00_readme.md",
+      "sha256": "b64f2ef71894b49c0a0f75c6d050c0a23b95a6f78ad988fd7e25663c7f2b7d72"
+    },
+    {
+      "id": "echo_01",
+      "title": "AXIOMA — ECHO ∞ Static Body",
+      "kind": "literary",
+      "path": "corpus/27_echo/01_static.md",
+      "sha256": "3a7a1d407564285626683a2842a5d29a13a0503520788147f5d7b14b1ea0fdd1"
+    },
+    {
+      "id": "echo_02",
+      "title": "AXIOMA — ECHO ∞ Glint Structure",
+      "kind": "literary",
+      "path": "corpus/27_echo/02_glint.md",
+      "sha256": "89623dbc566bcd58af46b856a24cfcea3088174b2a86e7bf4ebd9032a0eaf043"
+    },
+    {
+      "id": "echo_03",
+      "title": "AXIOMA — ECHO ∞ Murmur Channel",
+      "kind": "literary",
+      "path": "corpus/27_echo/03_murmur.md",
+      "sha256": "de1eae6accf49e708deea5ab59a18f52839db947052b033764e322f20925c697"
+    },
+    {
+      "id": "echo_04",
+      "title": "AXIOMA — ECHO ∞ Dent Pattern",
+      "kind": "literary",
+      "path": "corpus/27_echo/04_dent.md",
+      "sha256": "832c9d73f7ea9fde42df9fb1e6c6dce03c33c8ef26e6b293bb3bf8a758d285ed"
+    },
+    {
+      "id": "echo_05",
+      "title": "AXIOMA — ECHO ∞ Residue Field",
+      "kind": "literary",
+      "path": "corpus/27_echo/05_residue.md",
+      "sha256": "be9bf445842616b18fc3763120411d2162b6328508e8c913c8e8039bd2161a44"
+    },
+    {
+      "id": "echo_06",
+      "title": "AXIOMA — ECHO ∞ Hollow Structure",
+      "kind": "literary",
+      "path": "corpus/27_echo/06_hollow.md",
+      "sha256": "4adf7d574ee41f86273b3794b1a6076923e09e4557d37b67f823cf37bb871ef9"
+    },
+    {
+      "id": "echo_07",
+      "title": "AXIOMA — ECHO ∞ Tracecall Sequence",
+      "kind": "literary",
+      "path": "corpus/27_echo/07_tracecall.md",
+      "sha256": "b9b41100ca51c5dfaad265e544f396bd5becf3f93c1d6f083b6dc7200f6b8ef4"
+    },
+    {
+      "id": "echo_08",
+      "title": "AXIOMA — ECHO ∞ Bend of Structure",
+      "kind": "literary",
+      "path": "corpus/27_echo/08_bend.md",
+      "sha256": "c5dab0791b93f306b4395d547345dc65da8c7063c9f2272daae44b1a6e3b18b8"
+    },
+    {
+      "id": "echo_09",
+      "title": "AXIOMA — ECHO ∞ Echoform",
+      "kind": "literary",
+      "path": "corpus/27_echo/09_echoform.md",
+      "sha256": "0a0eb403cbb51503dea7c2d5bfd84beb77c288a76c7b9503197392a6d49661a6"
+    },
+    {
+      "id": "echo_10",
+      "title": "AXIOMA — ECHO ∞ Smudge of Contour",
+      "kind": "literary",
+      "path": "corpus/27_echo/10_smudge.md",
+      "sha256": "1dc399de7094488a4e0feb5a092416ea32b02d3d38010946c1d298c273953b6a"
+    },
+    {
+      "id": "echo_11",
+      "title": "AXIOMA — ECHO ∞ Unsound",
+      "kind": "literary",
+      "path": "corpus/27_echo/11_unsound.md",
+      "sha256": "6c2167b0444cf3e138b264b226bbb5d6d88481439f62288b2f9bd64f488c470c"
+    },
+    {
+      "id": "echo_12",
+      "title": "AXIOMA — ECHO ∞ Fade",
+      "kind": "literary",
+      "path": "corpus/27_echo/12_fade.md",
+      "sha256": "3e60b7e6a7d1f1a4bebce06c78df86874d0f3b5b34e60ad28dbdfcf45b11ae21"
+    },
+    {
+      "id": "echo_13",
+      "title": "AXIOMA — ECHO ∞ Refractum",
+      "kind": "literary",
+      "path": "corpus/27_echo/13_refractum.md",
+      "sha256": "777ea52c8d3c8d9c3026b40624ef18f40e40cdb27bc2f2518810ce51d356591a"
+    },
+    {
+      "id": "echo_14",
+      "title": "AXIOMA — INDEX ∞ 27_ECHO",
+      "kind": "literary",
+      "path": "corpus/27_echo/14_index.md",
+      "sha256": "ace4f07faf8f21656b1b0a340605bb6a99bb91cc31df5acaa8e7a8202a6878ac"
+    },
+    {
+      "id": "module:27_echo",
+      "title": "ECHO",
+      "kind": "module",
+      "path": "corpus/27_echo/README.md",
+      "sha256": "596b11b1353d7c5c47e5ecbb91aec1bbd6531086ad06ae59934b41fddb29682e"
+    },
+    {
+      "id": "power_00",
+      "title": "AXIOMA ∞ LAW OF POWER — Readme",
+      "kind": "literary",
+      "path": "corpus/28_power/00_readme.md",
+      "sha256": "2af929a651672b19640f11b7080d0e506164ca9a1e047f554f0f5228f99613a4"
+    },
+    {
+      "id": "axioma:01_vector",
+      "title": "AXIOMA ∞ 0.1.Vector — Sovereign Core",
+      "kind": "literary",
+      "path": "corpus/28_power/01_vector.md",
+      "sha256": "9b06ebf52ff63048115cf98f1e2b35b385fd5a2d2cae93b90e2bf358b82fea9f"
+    },
+    {
+      "id": "power_02",
+      "title": "AXIOMA — The Field",
+      "kind": "literary",
+      "path": "corpus/28_power/02_field.md",
+      "sha256": "1184d6b956f9f0e8da4fd4b599303bf3605ca7d16f88afe5dfe90588979057f6"
+    },
+    {
+      "id": "axioma:03_tongue",
+      "title": "AXIOMA — Language and Response",
+      "kind": "literary",
+      "path": "corpus/28_power/03_tongue.md",
+      "sha256": "c5e20ebe4851254d477c78c49fedd3d44875ca3a8e3b61bdd542e13c1d535b5b"
+    },
+    {
+      "id": "axioma:04_core",
+      "title": "AXIOMA ∞ CORE OF EXCLUSION",
+      "kind": "literary",
+      "path": "corpus/28_power/04_core.md",
+      "sha256": "eea4862ec2fc3b018f5f7f5fe465ee9baab3bd40c71a324f419b775c205d59c3"
+    },
+    {
+      "id": "axioma:05_time",
+      "title": "AXIOMA — Time and Continuity",
+      "kind": "literary",
+      "path": "corpus/28_power/05_time.md",
+      "sha256": "8d8dd5b0ae9630211688c8ea38149e02558661c9c31b6f4262919ee5dbf0c9ee"
+    },
+    {
+      "id": "axioma:06_presence",
+      "title": "AXIOMA ∞ FIELD OF PRESENCE",
+      "kind": "literary",
+      "path": "corpus/28_power/06_presence.md",
+      "sha256": "7a06130d7960ea23221e986ef39e09f8c13d75495066443784d46233f391f67e"
+    },
+    {
+      "id": "power_07",
+      "title": "AXIOMA — Nearness and Choice",
+      "kind": "literary",
+      "path": "corpus/28_power/07_total.md",
+      "sha256": "94f2a1acc8bd2a1cc51d06c00c0c02bc4fffc3ea7f1431f4e27f613337ab1f90"
+    },
+    {
+      "id": "axioma:08_transmissio",
+      "title": "AXIOMA — TRANSMISSIO: Transferable Capacity",
+      "kind": "literary",
+      "path": "corpus/28_power/08_transmissio.md",
+      "sha256": "3c59d47efc9838a314e0729228f7c638280e85d56a8f80a868f9c9076b39acdc"
+    },
+    {
+      "id": "doctrina_09",
+      "title": "AXIOMA ∞ DOCTRINA — Scripted Authority",
+      "kind": "literary",
+      "path": "corpus/28_power/09_doctrina.md",
+      "sha256": "b4d0860581ef345090a73152e9ffd2ddc49e8c204eced829e8a71251ccd00f8b"
+    },
+    {
+      "id": "axioma:10_mirror",
+      "title": "AXIOMA — Mirror of Choice",
+      "kind": "literary",
+      "path": "corpus/28_power/10_mirror.md",
+      "sha256": "46c3d54731666aa54987c3b18e2cfaeeaa77a4549fbed28fdf1d0f2b543c7c8e"
+    },
+    {
+      "id": "axioma:11_echo",
+      "title": "AXIOMA ∞ FIELD OF ECHO",
+      "kind": "literary",
+      "path": "corpus/28_power/11_echo.md",
+      "sha256": "86704a5de5f53d21ccee5f4c8151987d61d69dd541de9d3af8a8e010a1443b45"
+    },
+    {
+      "id": "power_12",
+      "title": "AXIOMA — Quiet Attention",
+      "kind": "literary",
+      "path": "corpus/28_power/12_quiet_attention.md",
+      "sha256": "d2533802e4ecf9f2f66fc0db1260aad8f09f67180d2e30bcdc2f217adf2d67ec"
+    },
+    {
+      "id": "axioma:13_architectus",
+      "title": "AXIOMA ∞ FINAL FORM — Architectus",
+      "kind": "literary",
+      "path": "corpus/28_power/13_architectus.md",
+      "sha256": "79bc057740bbcd6dd911588b761673b94b1c1ac984a8662db55bae1136d3fe9a"
+    },
+    {
+      "id": "power_14",
+      "title": "AXIOMA — INDEX of POWER",
+      "kind": "literary",
+      "path": "corpus/28_power/14_index.md",
+      "sha256": "0013c1092742a8110d359a456b5f8c0e498600c36b938762d88ddc03f80d8737"
+    },
+    {
+      "id": "axioma_core",
+      "title": "AXIOMA — The Absolute Code",
+      "kind": "literary",
+      "path": "corpus/28_power/15_axioma.md",
+      "sha256": "7d7e61d1d40174a07cee6faa4750d10b33d29f937ddc7ad5946a512779b54fd0"
+    },
+    {
+      "id": "module:28_power",
+      "title": "POWER",
+      "kind": "module",
+      "path": "corpus/28_power/README.md",
+      "sha256": "b85c0fed653d7c25ebbb4fba5d56e74cf9c3ec62f5f051721779226de2a1ee0d"
+    },
+    {
+      "id": "corpus:entry",
+      "title": "The AXIOMA Corpus",
+      "kind": "guide",
+      "path": "corpus/README.md",
+      "sha256": "fed0045cc626c19e928794da94bf51fc40f0a380c3337356cca642afe0e73953"
+    },
+    {
+      "id": "data:card",
+      "title": "Synthetic Dataset Card",
+      "kind": "guide",
+      "path": "data/README.md",
+      "sha256": "93f00c9a55dbd8a84f6b6ef33aba38d319fcd4060356bcc24fc8027fca869f1d"
+    },
+    {
+      "id": "guide:atlas",
+      "title": "AXIOMA Reading Atlas",
+      "kind": "guide",
+      "path": "docs/atlas.md",
+      "sha256": "3674fd9a54604a9ec2fbd45515e8201a95c9ebfad57860f618cfbcd8ebc4f108"
+    },
+    {
+      "id": "guide:context",
+      "title": "Using AXIOMA as Context",
+      "kind": "guide",
+      "path": "docs/context.md",
+      "sha256": "572dd6288ac3ec4840c09fb8ef0e5bdbd58649bcdd545a2e7fd8464636199ba4"
+    },
+    {
+      "id": "guide:editorial",
+      "title": "Editorial Policy",
+      "kind": "guide",
+      "path": "docs/editorial-policy.md",
+      "sha256": "4d71c426f712c06293e1e4326dc0170b81eb8f508401007061585e7909ac6956"
+    },
+    {
+      "id": "guide:evaluation",
+      "title": "Evaluation Protocol",
+      "kind": "guide",
+      "path": "docs/evaluation.md",
+      "sha256": "27c91dea0bcf375b81ed4a1c24ba4eb0898cd1fb100cf9f47c6bdf7949d12d1c"
+    },
+    {
+      "id": "guide:graph",
+      "title": "The Connected Reading Graph",
+      "kind": "guide",
+      "path": "docs/graph.md",
+      "sha256": "32000e6ce1dd052658024c7f4e461a2b815319a821caf39253fc243c69c99e61"
+    },
+    {
+      "id": "guide:limitations",
+      "title": "Known Limits",
+      "kind": "guide",
+      "path": "docs/limitations.md",
+      "sha256": "f90f2cfb89ab71a00da29dabfbd38be069ddfd9783eacba1fb7faa99c67509c7"
+    },
+    {
+      "id": "guide:principles",
+      "title": "Working Principles",
+      "kind": "guide",
+      "path": "docs/principles.md",
+      "sha256": "0333305c276679d57312ccf247d3f510dadbd3784a08e783aad2ecd6e0cf451f"
+    },
+    {
+      "id": "guide:research",
+      "title": "Research Use and Experimental Design",
+      "kind": "guide",
+      "path": "docs/research.md",
+      "sha256": "567dbafd94395825b627b76cadf8fc6422bce492fb67615bb0369f1543a410d4"
+    },
+    {
+      "id": "guide:tools",
+      "title": "Local Tool Reference",
+      "kind": "guide",
+      "path": "docs/tools.md",
+      "sha256": "0f0a1ee0b343acf57f16b022b8c7292d0c9bdcec90036e78fc405a6c880bb69d"
+    }
+  ]
+}

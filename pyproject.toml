@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools==80.9.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "axioma-context"
+version = "2.0.0"
+description = "A literary corpus and reproducible context-adaptation research kit"
+requires-python = ">=3.10"
+license = "MIT AND CC-BY-4.0"
+license-files = ["LICENSE", "LICENSES/*", "NOTICE"]
+dependencies = ["markdown-it-py==4.0.0", "mdurl==0.1.2", "PyYAML==6.0.3"]
+
+[project.scripts]
+axioma = "axioma_context.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

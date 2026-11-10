@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite the edition and repository you use."
+type: software
+title: "AXIOMA: A Sphere of Energy, Information, and Consciousness"
+authors:
+  - name: "AXIOMA project"
+version: 2.0.0
+repository-code: "https://github.com/blacksignstudio/axioma"
+license:
+  - MIT
+  - CC-BY-4.0

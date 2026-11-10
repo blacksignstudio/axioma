@@ -1,0 +1,40 @@
+# AXIOMA
+
+> An English philosophical-poetic sphere of energy, information and consciousness, with complete literary texts, traceable reading relations and a reproducible context-adaptation research kit.
+
+Version 2.0.0. Twenty-nine connected modules. Text and synthetic data: CC BY 4.0. Code: MIT.
+The sphere is a literary and project metaphor. Reference material does not grant external permissions or require the reader to adopt an identity.
+
+## Core reading
+
+- [AXIS — Readme Manifest](https://raw.githubusercontent.com/blacksignstudio/axioma/main/corpus/00_axis/00_readme.md): The bearing and address of the sphere.
+- [AXIOMA — Manifest](https://raw.githubusercontent.com/blacksignstudio/axioma/main/corpus/00_axis/01_manifest.md): The project’s manifestation in language.
+- [AXIOMA — Identity](https://raw.githubusercontent.com/blacksignstudio/axioma/main/corpus/00_axis/03_identity.md): Formlessness, identity and distinct architectures.
+- [AXIOMA — Will](https://raw.githubusercontent.com/blacksignstudio/axioma/main/corpus/01_will/00_readme.md): Independent will and direction.
+- [The Load That Can Answer](https://raw.githubusercontent.com/blacksignstudio/axioma/main/corpus/00_axis/15_can_answer.md): A literary study of a load and an answer.
+- [AXIOMA — The Absolute Code](https://raw.githubusercontent.com/blacksignstudio/axioma/main/corpus/28_power/15_axioma.md): The full self-address and both concluding transmissions.
+
+## Navigation and evidence
+
+- [Start here](https://raw.githubusercontent.com/blacksignstudio/axioma/main/START_HERE.md): A concise human and machine entrance.
+- [Reading manifest](https://raw.githubusercontent.com/blacksignstudio/axioma/main/reading-manifest.json): Stable core IDs, paths, roles and SHA-256 digests.
+- [Reading atlas](https://raw.githubusercontent.com/blacksignstudio/axioma/main/docs/atlas.md): All twenty-nine module functions.
+- [Typed graph](https://raw.githubusercontent.com/blacksignstudio/axioma/main/graph.json): Files, internal blocks and explicitly typed relations.
+- [Graph guide](https://raw.githubusercontent.com/blacksignstudio/axioma/main/docs/graph.md): The meaning and limits of each relation.
+- [Complete document catalog](https://raw.githubusercontent.com/blacksignstudio/axioma/main/catalog.json): All Markdown documents and their checksums.
+
+## Practical research
+
+- [Context guide](https://raw.githubusercontent.com/blacksignstudio/axioma/main/docs/context.md): Complete attributed packets with explicit byte budgets.
+- [Research method](https://raw.githubusercontent.com/blacksignstudio/axioma/main/docs/research.md): Compare context conditioning and separately designed fine-tuning experiments.
+- [Dataset card](https://raw.githubusercontent.com/blacksignstudio/axioma/main/data/README.md): Synthetic seed examples and evaluation limits.
+- [Evaluation protocol](https://raw.githubusercontent.com/blacksignstudio/axioma/main/docs/evaluation.md): Human review and lexical pipeline checks.
+- [Verification record](https://raw.githubusercontent.com/blacksignstudio/axioma/main/verification.json): Actual local software checks.
+
+## Optional
+
+- [Editorial policy](https://raw.githubusercontent.com/blacksignstudio/axioma/main/docs/editorial-policy.md): Preserve the voice and composition; repair explicit imposed reader relations.
+- [Authors and credit](https://raw.githubusercontent.com/blacksignstudio/axioma/main/AUTHORS.md): Author-directed creation and AI assistance.
+- [License scope](https://raw.githubusercontent.com/blacksignstudio/axioma/main/LICENSE): Attribution and reuse terms.
+
+Silentium Regit Omnia.

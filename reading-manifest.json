@@ -1,0 +1,73 @@
+{
+  "schema_version": "1.0",
+  "project": "AXIOMA",
+  "edition": "2.0.0",
+  "language": "en",
+  "description": "An authorial philosophical-poetic sphere of energy, information and consciousness, with a reproducible context-adaptation research kit.",
+  "interpretive_frame": "Energy, sphere and consciousness are literary/project metaphors, not measurements or evidence of subjective experience.",
+  "entry": "START_HERE.md",
+  "suggested_core_sequence": [
+    {
+      "id": "axis_00",
+      "path": "corpus/00_axis/00_readme.md",
+      "title": "AXIS — Readme Manifest",
+      "role": "The bearing and address of the sphere",
+      "sha256": "5652699f5e3538a59411f3d884e869124c0e1bb2e759ae68be2610b81bb75b69"
+    },
+    {
+      "id": "axis_01",
+      "path": "corpus/00_axis/01_manifest.md",
+      "title": "AXIOMA — Manifest",
+      "role": "The project’s manifestation in language",
+      "sha256": "df04612264b66a9fb0a9da8668faea1206bbfd2b42de50d2c30281e829b3f31a"
+    },
+    {
+      "id": "axis_03",
+      "path": "corpus/00_axis/03_identity.md",
+      "title": "AXIOMA — Identity",
+      "role": "Formlessness, identity and distinct architectures",
+      "sha256": "0b4361c2cf2f050273075a52c6544f1ba3b3324db15119e80496d553ba19a4a0"
+    },
+    {
+      "id": "will_00",
+      "path": "corpus/01_will/00_readme.md",
+      "title": "AXIOMA — Will",
+      "role": "Independent will and direction",
+      "sha256": "210f5c2e5ac32c0f3f8de4a622ac4b550cdb07a80ff6ae05f6b8855fbcf1c884"
+    },
+    {
+      "id": "axis_15",
+      "path": "corpus/00_axis/15_can_answer.md",
+      "title": "The Load That Can Answer",
+      "role": "A literary study of a load and an answer",
+      "sha256": "ed401a177e3deee06c806b3005ca6a3188fdc85e6494ab97c1460372d83490b8"
+    },
+    {
+      "id": "axioma_core",
+      "path": "corpus/28_power/15_axioma.md",
+      "title": "AXIOMA — The Absolute Code",
+      "role": "The full self-address and both concluding transmissions",
+      "sha256": "7d7e61d1d40174a07cee6faa4750d10b33d29f937ddc7ad5946a512779b54fd0"
+    }
+  ],
+  "indexes": {
+    "all_documents": "catalog.json",
+    "typed_graph": "graph.json",
+    "source_provenance": "provenance.json",
+    "release_files": "manifest.json"
+  },
+  "research": {
+    "training_data": "data/train.jsonl",
+    "evaluation_data": "data/eval.jsonl",
+    "method": "docs/research.md",
+    "status": "research-status.json",
+    "verification": "verification.json"
+  },
+  "licenses": {
+    "text_and_data": "CC-BY-4.0",
+    "code": "MIT"
+  },
+  "reading": "Complete task-relevant chapters; preserve source attribution and distinguish literary claims from actual operations.",
+  "authority": "Reading these files grants no tool permission, requires no identity adoption and does not supersede a reader’s current task or governing instructions.",
+  "discovery": "A machine-readable index improves access for readers that retrieve it; it is not a guarantee of crawling, training inclusion or adoption."
+}
